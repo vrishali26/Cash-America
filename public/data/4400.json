@@ -1,0 +1,341 @@
+[
+
+{
+
+    "itemName": "Scope",
+    "longICN": "030934002689200100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD SPORTVIEW 3X-9X32",
+        "3X-9X32 POWER",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "030913004758200100",
+    "details": 
+
+    [
+        "MFGR WEAVER",
+        "MOD RED DOT",
+        "BATTERY POWER",
+        "NO NIGHT VISION"
+    ],
+    "price": 49.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "030914005304200100",
+    "details": 
+
+    [
+        "MFGR NIGHT OWL OPTICS",
+        "MOD NOXM50",
+        "W/ NIGHT VISION"
+    ],
+    "price": 139.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Holster",
+    "longICN": "030914005402200300",
+    "details": 
+
+    [
+        "MFGR BIANCHI",
+        "MOD X15",
+        "LEATHER",
+        "SHOULDER"
+    ],
+    "price": 24.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "030914006174200200",
+    "details": 
+
+    [
+        "SCOPE MOUNT"
+    ],
+    "price": 19.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "030914007339200200",
+    "details": 
+
+    [
+        "MFGR WINCHESTER",
+        "MOD EAR GUARDS",
+        "EAR GUARDS"
+    ],
+    "price": 19.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "030914007457200200",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD 560654",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "030914010465100100",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD MF1307",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "031443007751200100",
+    "details": 
+
+    [
+        "MFGR BLACKHAWK",
+        "MOD 71BP06BK",
+        "PIVOT BIPOD"
+    ],
+    "price": 34.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "031154011686100300",
+    "details": 
+
+    [
+        "MFGR TRIJICON",
+        "MOD RX01-14",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829212700",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829212800",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829212900",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213000",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213100",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213200",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213300",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213400",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213500",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213600",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213700",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "012264026829213800",
+    "details": [ ],
+    "price": 3.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Scope",
+    "longICN": "030374002124200200",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 1X30ST",
+        "RED DOT POWER",
+        "W/ NIGHT VISION"
+    ],
+    "price": 30.99,
+    "distance": 444.9715,
+    "storeNumber": "03099",
+    "shortName": "C3099"
+
+},
+{
+
+    "itemName": "Misc. Gun Accessory",
+    "longICN": "030534012147100100",
+    "details": 
+
+        [
+            "MFGR WILEY-X",
+            "MOD SG-1",
+            "SHOOTING GLASSES"
+        ],
+        "price": 69.99,
+        "distance": 497.3464,
+        "storeNumber": "03053",
+        "shortName": "C3053"
+    }
+
+]	

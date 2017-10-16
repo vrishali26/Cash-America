@@ -1,0 +1,41 @@
+<div class="container-fluid change_loc " >
+	<div class="row" ng-controller="changeLocController">
+
+		<div class="bgPage" class="text-center">
+			<h1>Change Location<a href="#" ui-sref="stores"><span class="close"></span></a> </h1>
+			<form>
+				<div class="form-group has-feedback">
+
+					<input type="text" class="disabledInput" disabled class="form-control" placeholder="Enter a city and state" />
+
+				</div>
+				<div class="form-group has-feedback">
+					<span class="glyphicon-city"></span>
+					<input type="text"  name="city" class="form-control" placeholder="City" ng-model="chng_loc.city"/>
+
+				</div>
+				<div class="form-group has-feedback">
+					<select class="selectpicker" >
+						<option ng-repeat="state in states">{{state.name}}</option>
+					</select>
+					<span class="glyphicon-state"></span>
+
+				</div>
+				<div class="form-group has-feedback">
+					<p>
+						Or enter a zip code
+					</p>
+					<input type="text"  name="zipcode" class="form-control" placeholder="Zip Code" ng-model="chng_loc.zipcode"/>
+					<span class="glyphicon-location"></span>
+
+				</div>
+				<div class="form-group has-feedback">
+					<button class="btn btn-primary blue-btn" ng-click="chengeZipCode(chng_loc.zipcode)">
+						Refresh
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+</div>

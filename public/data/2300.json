@@ -1,0 +1,1350 @@
+[
+    {
+        "itemName": "Air Sander",
+        "longICN": "031144003034200300",
+        "details": [
+            "MFGR DYNABRADE",
+            "MOD DYNAFILE",
+            "NO CASE",
+            "ORBITAL SANDER",
+            "8 \""
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Air Paint Gun",
+        "longICN": "031144003525200400",
+        "details": [
+            "MFGR WAGNER",
+            "MOD 0271181"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Air Staple Gun",
+        "longICN": "031144003825200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 351.184310",
+            "2.5\"",
+            "NO CASE"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Air Paint Pot W/Gun",
+        "longICN": "031144007054100100",
+        "details": [
+            "MFGR STARTLINING",
+            "MOD HVLP"
+        ],
+        "price": 89.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Air Grinder",
+        "longICN": "031144008107100700",
+        "details": [
+            "MFGR CENTRAL PNEUMATIC",
+            "MOD 47077",
+            "CUTTER GRINDER",
+            "NO CASE"
+        ],
+        "price": 5.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "030673003536200700",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD CFN250",
+            "1\"",
+            "W/ CASE"
+        ],
+        "price": 54.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Air Accou. Hopper W/Gun",
+        "longICN": "030674004289200200",
+        "details": [
+            "MFGR CENTRAL PNEUMATIC",
+            "MOD 66103"
+        ],
+        "price": 19.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Air Staple Gun",
+        "longICN": "030674005082200200",
+        "details": [
+            "MFGR CENTRAL PNEUMATIC",
+            "MOD 68019",
+            "1 5/8",
+            "W/ CASE"
+        ],
+        "price": 19.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "030674005158200100",
+        "details": [
+            "MFGR DEVILBISS",
+            "MOD GFAC1025-1",
+            "NO CASE",
+            "2.5 COMPRASSOR"
+        ],
+        "price": 59.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Roofing Nailer",
+        "longICN": "030674012559100200",
+        "details": [
+            "MFGR SUPERROOFER",
+            "MOD CN445R2",
+            "1.75",
+            "NO CASE"
+        ],
+        "price": 74.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Air Paint Pot W/Gun",
+        "longICN": "030674012799100300",
+        "details": [
+            "MFGR KOBALT",
+            "MOD SGY-AIR84"
+        ],
+        "price": 29.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "030674005229200100",
+        "details": [
+            "MFGR RIDGID",
+            "MOD R213BNA",
+            "W/ CASE"
+        ],
+        "price": 34.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031044022097100300",
+        "details": [
+            "MFGR BLACK N DECKER",
+            "MOD NSW18",
+            "NO CASE",
+            "LEAF BLOWER"
+        ],
+        "price": 49.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Air Drill",
+        "longICN": "030673006277100200",
+        "details": [
+            "MFGR GOODYEAR",
+            "MOD GY2100",
+            "1/2 \"",
+            "NO CASE"
+        ],
+        "price": 34.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "030674004658200100",
+        "details": [
+            "MFGR DEVILBISS",
+            "MOD SHBN4",
+            "NO CASE"
+        ],
+        "price": 37.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "030674004726200100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD P094",
+            "NO CASE",
+            "RACHET WRENCH"
+        ],
+        "price": 39.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "030674004726200200",
+        "details": [
+            "MFGR SNAP ON",
+            "MOD XT7100",
+            "3/8 IMPACT",
+            "NO CASE"
+        ],
+        "price": 72.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "030674010522100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD IFN2190",
+            "1\"",
+            "W/ CASE"
+        ],
+        "price": 99.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "030674012207100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 351.181730",
+            "W/ CASE"
+        ],
+        "price": 24.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Paint Pot Only",
+        "longICN": "030714007106100100",
+        "details": [
+            "MFGR POWR-KRATS",
+            "MOD QDW-6331-A",
+            "2 PINTS"
+        ],
+        "price": 7.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "030934002632200100",
+        "details": [
+            "MFGR INTERDYNAMICS",
+            "MOD AM125",
+            "NO CASE",
+            "AIR COMPRESSOR"
+        ],
+        "price": 19.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "030934002702200200",
+        "details": [
+            "MFGR CENTRAL PNEUMATIC",
+            "MOD 42253",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Sander",
+        "longICN": "030934002830200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 875.199761",
+            "NO CASE",
+            "ORBITAL SANDER",
+            "6 \""
+        ],
+        "price": 49.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "030934003071200100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD AIR TOOLS",
+            "1/2 IMPACT",
+            "W/ CASE"
+        ],
+        "price": 29.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "030934003497100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 351.184240",
+            "W/ CASE"
+        ],
+        "price": 69.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031092014147100300",
+        "details": [
+            "MFGR GRIPRITE",
+            "MOD GRTCR175",
+            "2\"",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031143004915100100",
+        "details": [
+            "MFGR CH TOOL",
+            "MOD SB323200",
+            "1\"",
+            "W/ CASE"
+        ],
+        "price": 19.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Staple Gun",
+        "longICN": "031144003825200200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 351.18310",
+            "1.75\"",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Air Staple Gun",
+        "longICN": "031144003825200300",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 351.18306",
+            "7/8\"",
+            "W/ CASE"
+        ],
+        "price": 19.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353004397200100",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD FN250A",
+            "2\"",
+            "W/ CASE"
+        ],
+        "price": 44.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353004696200100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD SB504000",
+            "1\"",
+            "NO CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Coil Nailer",
+        "longICN": "031353004846200100",
+        "details": [
+            "MFGR SUREBONDER",
+            "MOD 9780",
+            "1\"",
+            "W/ CASE"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031353004850200100",
+        "details": [
+            "MFGR POWERMATE",
+            "MOD AIRCOMP",
+            "NO CASE",
+            "AIR COMPRESSOR"
+        ],
+        "price": 14.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031353005004200100",
+        "details": [
+            "MFGR BLUE POINT",
+            "MOD AT200D",
+            "1/4 \" RATCHET",
+            "NO CASE"
+        ],
+        "price": 119.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Grinder",
+        "longICN": "031353005004200200",
+        "details": [
+            "MFGR BLUE POINT",
+            "MOD AT135",
+            "DIE GRINDER",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353008734100600",
+        "details": [
+            "MFGR HITACHI",
+            "MOD NT65M2",
+            "2\"",
+            "W/ CASE"
+        ],
+        "price": 44.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353008771100100",
+        "details": [
+            "MFGR SENCO",
+            "MOD FINISH PRO 35",
+            "1/2\"",
+            "W/ CASE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353009574100200",
+        "details": [
+            "MFGR TRADESMAN",
+            "MOD 8400",
+            "1/2\"",
+            "W/ CASE"
+        ],
+        "price": 44.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031353011392100100",
+        "details": [
+            "MFGR STEELE PRODUCTS",
+            "MOD APC4016",
+            "NO CASE",
+            "AIR COMPRESSOR"
+        ],
+        "price": 149.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Gun Tool",
+        "longICN": "031353011572100200",
+        "details": [
+            "MFGR SNAP-ON",
+            "MOD FAR2500",
+            "AIR WRENCH"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031353013598100100",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD FN250C",
+            "2 1/2",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354006679200100",
+        "details": [
+            "MFGR SENCO",
+            "MOD SFNII",
+            "NO CASE",
+            "FRAMER"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354006679200200",
+        "details": [
+            "MFGR SENCO",
+            "MOD SN70",
+            "2\"",
+            "NO CASE"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354006728200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD N16",
+            "3\"",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354006762200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 191191",
+            "NO CASE",
+            "AIR HAMMER"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Grinder",
+        "longICN": "031354006762200700",
+        "details": [
+            "MFGR SGS",
+            "DIE GRINDER",
+            "NO CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354007024200100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72391",
+            "3/4 IMPACT",
+            "W/ CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354007082200100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72392",
+            "NO CASE",
+            "AIR WRENCH"
+        ],
+        "price": 24.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354007182200100",
+        "details": [
+            "MFGR VIKING AIR TOOLS",
+            "NO CASE",
+            "DIE GRINDER"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Drill",
+        "longICN": "031354007182200400",
+        "details": [
+            "MFGR MSI-PRO",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354007266200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72392",
+            "NO CASE",
+            "AIR TOOL"
+        ],
+        "price": 22,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Drill",
+        "longICN": "031354007266200300",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD TL0545",
+            "3/8 \"",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354007307200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72394",
+            "NO CASE",
+            "AIR CHISSEL HAMMER"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354007581200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72392",
+            "NO CASE",
+            "3/8\" DRIVE AIR RATCHET"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "031354007747200100",
+        "details": [
+            "MFGR RIDGID",
+            "MOD R213BNA",
+            "NO CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031354007904200200",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD DA250A",
+            "2\"",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Gun Tool",
+        "longICN": "031354007904200300",
+        "details": [
+            "MFGR KOBALT",
+            "MOD AIR SET",
+            "SET OF AIR TOOLS"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "031354007985200100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD SB1850BN",
+            "W/ CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Coil Nailer",
+        "longICN": "031354008183200100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD RN46-1",
+            "1\"",
+            "NO CASE"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354008201200100",
+        "details": [
+            "MFGR COMPANION",
+            "MOD 875.1912",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354008201200200",
+        "details": [
+            "MFGR INGERSOLL-RAND",
+            "MOD 103A",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Impact/Cutting",
+        "longICN": "031354008201200300",
+        "details": [
+            "MFGR ALLTRADE",
+            "MOD 1800A150",
+            "NO CASE",
+            "CHIZZLE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354008201200400",
+        "details": [
+            "MFGR INGERSOLL RAND",
+            "MOD A",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354008244200100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72392",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Nibbler",
+        "longICN": "031354008244200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72394",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "031354008303200200",
+        "details": [
+            "MFGR TRADESMAN",
+            "MOD 8510",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Drill",
+        "longICN": "031354008312200100",
+        "details": [
+            "MFGR AIR TOOL",
+            "MOD DIE GRINDER",
+            "NO CASE"
+        ],
+        "price": 7.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Drill",
+        "longICN": "031354008312200200",
+        "details": [
+            "MFGR AIR TOOL",
+            "MOD ANGLE DIE GRINDER",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354008312200400",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 875-188992",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354008340200200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD 112767",
+            "2\"",
+            "NO CASE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354015528100200",
+        "details": [
+            "1\"",
+            "NO CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Coil Nailer",
+        "longICN": "031354015810100100",
+        "details": [
+            "MFGR HITACHI",
+            "MOD NV45AB2",
+            "1\"",
+            "NO CASE"
+        ],
+        "price": 110,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Finishing Nailer",
+        "longICN": "031354015885100100",
+        "details": [
+            "MFGR HITACHI",
+            "MOD NT 65MA4(S)",
+            "2\"",
+            "NO CASE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354016237100100",
+        "details": [
+            "MFGR PASLODE",
+            "MOD 900420",
+            "3 1/2",
+            "W/ CASE"
+        ],
+        "price": 199.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Sander/Grinder",
+        "longICN": "031354016285100300",
+        "details": [
+            "MFGR VIKINGS AIR TOOLS",
+            "MOD V362K",
+            "W/ CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Sander/Grinder",
+        "longICN": "031354016341100100",
+        "details": [
+            "MFGR VIKING AIR TOOLS",
+            "MOD V362K",
+            "W/ CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Staple Gun",
+        "longICN": "031354016602100200",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD SB-1664FN",
+            "W/ CASE"
+        ],
+        "price": 139.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Brad Nailer",
+        "longICN": "031354016602100300",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD SB-125BN",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354016754100100",
+        "details": [
+            "MFGR BOSTITCH",
+            "MOD BTMT72392",
+            "3/8 \" RATCHET",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Grinder",
+        "longICN": "031354016789100200",
+        "details": [
+            "MFGR MAC TOOLS",
+            "MOD AG14AH",
+            "ANGLE GRINDER",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354016789100300",
+        "details": [
+            "MFGR INGERSOLL RAND",
+            "MOD IR116K",
+            "NO CASE",
+            "AIR CHISEL"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354016789100400",
+        "details": [
+            "MFGR CORNWELL",
+            "3/8 \" RATCHET",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354016791100100",
+        "details": [
+            "MFGR PASLODE",
+            "MOD 900420",
+            "3\"",
+            "W/ CASE"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354016863100200",
+        "details": [
+            "MFGR HITACHI",
+            "MOD NR90AD",
+            "3 1/2",
+            "NO CASE"
+        ],
+        "price": 89.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354016972100200",
+        "details": [
+            "MFGR BLUEPOINT",
+            "MOD AT204",
+            "NO CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354016972100400",
+        "details": [
+            "MFGR NAPA TOOLS",
+            "MOD MG725",
+            "NO CASE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354017008100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD FP209500RB",
+            "NO CASE",
+            "AIR COMPRESSOR"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354017067100100",
+        "details": [
+            "MFGR INGERSOL RAND",
+            "MOD 2135TIMAX",
+            "NO CASE"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354017180100100",
+        "details": [
+            "MFGR STANLEY BOSTICH",
+            "MOD C-PACK",
+            "NO CASE",
+            "AIR COMPRESSOR"
+        ],
+        "price": 119.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Framing Nailer",
+        "longICN": "031354017188100200",
+        "details": [
+            "MFGR ATRO",
+            "MOD CHS928",
+            "3\"",
+            "NO CASE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354017262100100",
+        "details": [
+            "MFGR AIRACE",
+            "MOD 0000",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354017262100200",
+        "details": [
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Gun Tool",
+        "longICN": "031354017359100100",
+        "details": [
+            "MAGNUM NAIL GUN"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Hammer",
+        "longICN": "031354017405100300",
+        "details": [
+            "MFGR CHICAGO TOOL",
+            "MOD ATHA006BZA",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Impact/Cutting",
+        "longICN": "031354017405100400",
+        "details": [
+            "MFGR RAM-AIR",
+            "MOD ATDR021AZA",
+            "3/8 IMPACT",
+            "NO CASE",
+            "AIR HAMMER"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354017449100200",
+        "details": [
+            "MFGR CHICAGO TOOLS",
+            "MOD 824T",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354017449100300",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD TL1002",
+            "1/2 IMPACT",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Impact",
+        "longICN": "031354017586100100",
+        "details": [
+            "1/2 IMPACT",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Air Powered Tool",
+        "longICN": "031354017642100100",
+        "details": [
+            "W/ CASE",
+            "MISC AIR TOOLS"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Air Ratchet",
+        "longICN": "031354017676100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD TL0501",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    }
+]

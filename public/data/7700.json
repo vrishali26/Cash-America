@@ -1,0 +1,1359 @@
+[
+  {
+    "itemName": "Snowboard",
+    "longICN": "013514257014200100",
+    "details": [
+      "MFGR GNU",
+      "MOD N/A",
+      "170 CM",
+      "NO BINDINGS"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013514264282200100",
+    "details": [
+      "MFGR K2",
+      "MOD N/A",
+      "145 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013553336759100100",
+    "details": [
+      "MFGR LTD",
+      "MOD BELLE 149",
+      "149 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013554347184100100",
+    "details": [
+      "MFGR VOLKL",
+      "MOD AC50",
+      "185 IN.",
+      "WHITE/TAN"
+    ],
+    "price": 199.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013554349207100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD 155 MAYHEM",
+      "155 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 89.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013554349778200100",
+    "details": [
+      "MFGR FIFTY ONE FIFTY",
+      "MOD VICE",
+      "155 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013534275445100100",
+    "details": [
+      "MFGR DAKINE",
+      "MOD THE LUNA",
+      "53 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013534278733100100",
+    "details": [
+      "MFGR SNMFG",
+      "MOD 154",
+      "154 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013534279742100100",
+    "details": [
+      "MFGR DNR",
+      "MOD ABLE F152",
+      "152 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 119.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013534279979100100",
+    "details": [
+      "MFGR RIDE",
+      "MOD IMPACT",
+      "156 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013534279990100100",
+    "details": [
+      "MFGR GNU",
+      "MOD CARBON CREDIT BTX",
+      "156 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 99.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013454272415100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD CUSTOM",
+      "154 CM",
+      "W/ BINDINGS",
+      "MAX"
+    ],
+    "price": 389.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013454278935200100",
+    "details": [
+      "MFGR LAMAR",
+      "MOD N/A",
+      "105 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 159.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Ice Skates",
+    "longICN": "013624121237200100",
+    "details": [
+      "MFGR CCM",
+      "MOD PIROUETTE",
+      "CHILDS",
+      "SIZE 9",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013624126009200100",
+    "details": [
+      "MFGR MORROW TRUTH",
+      "MOD BOOTS",
+      "CHILDS",
+      "SIZE 5",
+      "BLK WYT GRN"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013624126303100200",
+    "details": [
+      "MFGR SCOTTS",
+      "MOD N/A",
+      "PAIR OF SNOW GLOVES"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013624127671200100",
+    "details": [
+      "MFGR SKIMBROAD",
+      "MOD N/A",
+      "SKIMBROAD"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013624127789200100",
+    "details": [
+      "MFGR SMITH",
+      "MOD PMT AIRFLOW",
+      "GOGGLES",
+      "IN WHITE BAG"
+    ],
+    "price": 7.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013625135181200100",
+    "details": [
+      "MFGR FLOW",
+      "MOD VERVE",
+      "155 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013323355394100100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD ACCELLERATOR",
+      "149 CM",
+      "W/ BINDINGS",
+      "W/ BOOTS"
+    ],
+    "price": 74.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013323364892200100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD I53",
+      "153 CM",
+      "W/ BINDINGS",
+      "WITH BOOTS"
+    ],
+    "price": 129.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324377988100100",
+    "details": [
+      "MFGR BOARD FACTORY",
+      "MOD SPINAL",
+      "160 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324379432100100",
+    "details": [
+      "MFGR LIQUID MAX",
+      "MOD N/A",
+      "159 CM",
+      "W/ BINDINGS",
+      "YELLOW"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324385232100100",
+    "details": [
+      "MFGR BLANK",
+      "MOD SNOWBOARD",
+      "60 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324387395200100",
+    "details": [
+      "MFGR LAMAR",
+      "MOD N/A",
+      "140 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324393567100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD 68",
+      "153 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 99.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324394647100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD DRAGON 52",
+      "52 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324394649100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD SILENCE",
+      "57 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013324396452100100",
+    "details": [
+      "MFGR SANTA CRUZ",
+      "MOD 160",
+      "160 CM",
+      "W/ BINDINGS",
+      "SCRATCHED"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013325405898200100",
+    "details": [
+      "MFGR VANS",
+      "MOD AXION",
+      "MENS",
+      "SIZE 11",
+      "TAN/BLK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013325405900200100",
+    "details": [
+      "MFGR SMP",
+      "MOD FREEDOM 51 BURTON",
+      "165 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013334508472200100",
+    "details": [
+      "MFGR FREESPORT",
+      "MOD N/V",
+      "150 CM",
+      "NO BINDINGS"
+    ],
+    "price": 99.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013334508473200100",
+    "details": [
+      "MFGR BOLLE",
+      "MOD N/V",
+      "WINTER GOGGLES"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013334508895100100",
+    "details": [
+      "MFGR LAMAR",
+      "MOD PRIMARY SERIES 150",
+      "095 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013334513445100100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD NOMAD 2 WIDE",
+      "155 CM",
+      "NO BINDINGS"
+    ],
+    "price": 169.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013334514758200100",
+    "details": [
+      "MFGR DYNASTAR",
+      "MOD N/A",
+      "6 IN.",
+      "BLK BLUE YELLOW"
+    ],
+    "price": 79.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013334519403200100",
+    "details": [
+      "MFGR BURTON",
+      "MOD SNOW BOOTS",
+      "MENS",
+      "SIZE 11",
+      "BLUE"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013334524864200100",
+    "details": [
+      "MFGR DYNASTAR",
+      "MOD 06",
+      "5 IN.",
+      "BLU-BLK"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013334525880100100",
+    "details": [
+      "MFGR PALMER",
+      "MOD LAMAR",
+      "095 CM",
+      "W/ BINDINGS",
+      "PINK/BLK SHOES"
+    ],
+    "price": 79.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013464344623100100",
+    "details": [
+      "MFGR FORUM",
+      "MOD CLASSIC",
+      "150 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013464349291100100",
+    "details": [
+      "MFGR LAMAR",
+      "MOD STEALTH 159",
+      "159 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 89.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013465362338100100",
+    "details": [
+      "MFGR LIQUID",
+      "MOD TRIP 63",
+      "163 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 199.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013465362716100100",
+    "details": [
+      "MFGR DBX",
+      "MOD CORE",
+      "156 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 139.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013473262376200100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD STRATO COMPETITION",
+      "170 IN.",
+      "BLUE/RED",
+      "SNOW"
+    ],
+    "price": 79.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013474271131200100",
+    "details": [
+      "MFGR MIRAGE",
+      "MOD EBONITE",
+      "BOWLING BALL"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013474272014200100",
+    "details": [
+      "MFGR SALOMON",
+      "MOD SX50",
+      "LADIES",
+      "SIZE 35",
+      "LIGHT GREY"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474272015200100",
+    "details": [
+      "MFGR YAMAHA",
+      "MOD CS707",
+      "180 IN.",
+      "BLUE",
+      "2"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474272016200100",
+    "details": [
+      "MFGR ROSSINGNOL",
+      "MOD ESCORT",
+      "170 IN.",
+      "WHITE",
+      "SKI"
+    ],
+    "price": 39.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013474276615100100",
+    "details": [
+      "MFGR LIQUID FORCE",
+      "MOD N/A",
+      "WAKEBOARD"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013474276617100100",
+    "details": [
+      "MFGR LIQUID FORCE",
+      "MOD N/A",
+      "WAKE BOARD"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474281297100100",
+    "details": [
+      "MFGR FISCHER",
+      "MOD EUROPA",
+      "85 IN.",
+      "GREY"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474281301100100",
+    "details": [
+      "MFGR THERMO",
+      "MOD V20",
+      "210 IN.",
+      "PURP"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474281303100100",
+    "details": [
+      "MFGR SKI CHALET",
+      "MOD SALOMON",
+      "210 IN.",
+      "RED/BLU"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474283317200100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD TYROLIA SFE DIAGNOL",
+      "100 IN.",
+      "BLACK,PINK,GREEN,PURPLE"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013474285319100100",
+    "details": [
+      "MFGR THIRTY TWO",
+      "MOD N/A",
+      "LADIES",
+      "SIZE 9 1/2",
+      "BLK AND GOLD"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013474286354200100",
+    "details": [
+      "MFGR K2",
+      "MOD HC161",
+      "140 CM",
+      "NO BINDINGS"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013474288688100100",
+    "details": [
+      "MFGR THIRTYTWO",
+      "MOD N/A",
+      "MENS",
+      "SIZE 9",
+      "BLACK,GREY,YELLOW"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013474290425100100",
+    "details": [
+      "MFGR LTD",
+      "MOD SNOWBOOTS",
+      "MENS",
+      "SIZE 10",
+      "BLACK"
+    ],
+    "price": 16.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013474290957200100",
+    "details": [
+      "MFGR PRECISON",
+      "MOD 1200S",
+      "5 IN.",
+      "WHITE",
+      "PINK BLK CASE"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013475291795100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD ACCESS 153",
+      "118 CM",
+      "W/ BINDINGS",
+      "BIB"
+    ],
+    "price": 59.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013423421771100100",
+    "details": [
+      "MFGR KEMPER",
+      "MOD JOKER",
+      "130 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013423425143200100",
+    "details": [
+      "MFGR APACHE",
+      "MOD FATTY",
+      "35 IN.",
+      "RED AND BLACK",
+      "CHILD SKIS"
+    ],
+    "price": 79.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013423425170100100",
+    "details": [
+      "MFGR MORROW TRUTH",
+      "MOD PRESCON",
+      "165 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 149.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013423425200100100",
+    "details": [
+      "MFGR NMS",
+      "MOD NV",
+      "150 CM",
+      "W/ BINDINGS",
+      "NICKS ON EDGES"
+    ],
+    "price": 139.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013423425584100100",
+    "details": [
+      "MFGR WHAM-O",
+      "MOD SNOWBOOGIE",
+      "130 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013424430532200100",
+    "details": [
+      "MFGR K2",
+      "MOD NA",
+      "162 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 99.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013424435538100100",
+    "details": [
+      "MFGR DC SHOE USA",
+      "MOD BURTON",
+      "159 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 59.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013424440947100100",
+    "details": [
+      "MFGR NIDECKER",
+      "MOD COMMITTED",
+      "159 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 139.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013664041091100100",
+    "details": [
+      "MFGR ROSSIGNOL",
+      "MOD RE2WC13",
+      "138 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 199.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013664050262100100",
+    "details": [
+      "MFGR FOBLM",
+      "MOD STAR",
+      "149 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 99.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013364613324100100",
+    "details": [
+      "MFGR EMPRESS",
+      "MOD 5150",
+      "148 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 59.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013364618514200100",
+    "details": [
+      "MFGR SALOMON",
+      "MOD SPACEFRAME",
+      "170 IN.",
+      "DARK BLUE",
+      "W/BAG"
+    ],
+    "price": 149.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013343415693100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD PERFORMER",
+      "150 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 59.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013343445785100100",
+    "details": [
+      "MFGR SALOMON",
+      "MOD S SERIES K2",
+      "7.8 IN.",
+      "BLK & GRN"
+    ],
+    "price": 59.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344456641200100",
+    "details": [
+      "MFGR VISION",
+      "MOD ORACLE 151",
+      "151 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 249.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snow Boots",
+    "longICN": "013344461195200100",
+    "details": [
+      "MFGR AIRWALK",
+      "MOD ADVANTAGE",
+      "MENS",
+      "SIZE 12",
+      "BLK/WHITE"
+    ],
+    "price": 29.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344472847100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD LTR 140",
+      "140 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344474344100100",
+    "details": [
+      "MFGR NITRO",
+      "MOD PYRO",
+      "149 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 299.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344479307200100",
+    "details": [
+      "MFGR FORUM",
+      "MOD DW157",
+      "157 CM",
+      "NO BINDINGS",
+      "IN PLASTIC"
+    ],
+    "price": 149.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344479356100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD CHOPPER",
+      "100 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 69.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344479357100100",
+    "details": [
+      "MFGR BURTON",
+      "MOD HAZARD",
+      "100 CM",
+      "W/ BINDINGS",
+      "STICKERS ON IT"
+    ],
+    "price": 79.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344481154200100",
+    "details": [
+      "MFGR LAMRA",
+      "MOD IMPACT",
+      "144 CM",
+      "W/ BINDINGS",
+      "YELLOW/CREAM"
+    ],
+    "price": 189.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344482291100100",
+    "details": [
+      "MFGR K2",
+      "MOD COMET",
+      "164 CM",
+      "NO BINDINGS"
+    ],
+    "price": 199.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013344484561100100",
+    "details": [
+      "MFGR STRIKE FORCE",
+      "MOD 5150",
+      "152 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 119.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snowboard",
+    "longICN": "013345488447200100",
+    "details": [
+      "MFGR BURTON",
+      "MOD CUSTOM",
+      "152 CM",
+      "W/ BINDINGS"
+    ],
+    "price": 79.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013373598855200100",
+    "details": [
+      "GREEN"
+    ],
+    "price": 9.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013373598856200100",
+    "details": [
+      "MFGR OBRIEN"
+    ],
+    "price": 9.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374607709100100",
+    "details": [],
+    "price": 99.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374620355200100",
+    "details": [],
+    "price": 29.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374620356200100",
+    "details": [],
+    "price": 29.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374622096100100",
+    "details": [],
+    "price": 9.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374622453200100",
+    "details": [
+      "SILVER"
+    ],
+    "price": 9.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374628625200100",
+    "details": [],
+    "price": 39.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374628626200100",
+    "details": [],
+    "price": 49.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374631876100100",
+    "details": [],
+    "price": 19.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013374633217200100",
+    "details": [
+      "MFGR CARRERA"
+    ],
+    "price": 7.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374636217200100",
+    "details": [
+      "RED"
+    ],
+    "price": 49.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013374639480200100",
+    "details": [],
+    "price": 9.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Misc. Winter Recreational Acc.",
+    "longICN": "013374639510100100",
+    "details": [
+      "MFGR BURTON"
+    ],
+    "price": 179.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Snow Skis",
+    "longICN": "013374644761100100",
+    "details": [],
+    "price": 74.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  }
+]

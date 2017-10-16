@@ -1,0 +1,203 @@
+[
+
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "031354007568200100",
+    "details": 
+
+    [
+        "BELLY BUTTON RING",
+        "Y/G",
+        "14 KT.",
+        "APPRX 1.3 GRM",
+        "SEXY SHAPED",
+        "24",
+        "RND SHP",
+        "DIA-TEST NEG STN",
+        "@ 2 PTS EA."
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030734004743200300",
+    "details": 
+
+    [
+        "BELLY BUTTON RING",
+        "Y/G",
+        "10 KT.",
+        "APPRX 1 GRM",
+        "( SHAPED",
+        "3",
+        "RND SHP",
+        "DIA-TEST POS STN",
+        "@ 3 PTS EA."
+    ],
+    "price": 39.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030694005698200100",
+    "details": 
+
+    [
+        "WED BAND",
+        "SILVER",
+        "0 KT.",
+        "APPRX 8.4 GRM",
+        "ROUND SHAPED"
+    ],
+    "price": 29.99,
+    "distance": 347.7626,
+    "storeNumber": "03069",
+    "shortName": "C3069"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030704007515100100",
+    "details": 
+
+    [
+        "SILVER NECKLACE W/PENDANT",
+        "SILVER",
+        "APPRX 6.3 GRM",
+        "BOX LINK SHAPED",
+        "GENDER WOMANS",
+        "1",
+        "OVAL SHP",
+        "BLUE STN",
+        "@ 118 PTS EA."
+    ],
+    "price": 9.99,
+    "distance": 357.2251,
+    "storeNumber": "03070",
+    "shortName": "C3070"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030704008728100200",
+    "details": 
+
+    [
+        "TUNGSTEN RING",
+        "N/G",
+        "10 KT.",
+        "APPRX 11.1 GRM",
+        "RING SHAPED",
+        "GENDER MANS"
+    ],
+    "price": 39.99,
+    "distance": 357.2251,
+    "storeNumber": "03070",
+    "shortName": "C3070"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030854030013100100",
+    "details": 
+
+    [
+        "SPOON",
+        "SILVER",
+        "APPRX 29.2 GRM",
+        "SPOON SHAPED"
+    ],
+    "price": 19.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "012225153543200100",
+    "details": 
+
+    [
+        "SILVER",
+        "08 KT.",
+        "GENDER N/A"
+    ],
+    "price": 349.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030993003301200500",
+    "details": 
+
+    [
+        "LIP RING WITH LRG BALL",
+        "Y/G",
+        "14 KT.",
+        "APPRX .7 GRM",
+        "STEM W/LRG BALL SHAPED"
+    ],
+    "price": 29.95,
+    "distance": 444.9715,
+    "storeNumber": "03099",
+    "shortName": "C3099"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030993003302200100",
+    "details": 
+
+    [
+        "BAR RING",
+        "Y/G",
+        "14 KT.",
+        "APPRX 1.0 GRM",
+        "BARBELL SHAPED"
+    ],
+    "price": 39.95,
+    "distance": 444.9715,
+    "storeNumber": "03099",
+    "shortName": "C3099"
+
+},
+{
+
+    "itemName": "Misc. Jewelry",
+    "longICN": "030214004895200300",
+    "details": 
+
+        [
+            "4-H PIN",
+            "Y/G",
+            "10 KT.",
+            "APPRX .9 GRM",
+            "CLOVER SHAPED"
+        ],
+        "price": 39.99,
+        "distance": 487.7397,
+        "storeNumber": "03021",
+        "shortName": "C3021"
+    }
+
+]

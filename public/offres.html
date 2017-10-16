@@ -1,0 +1,33 @@
+<div class="container-fluid text-center offers">
+  <h4 class="panel-heading">Promotions</h4>
+  <div class="offer_list pan_height" ng-controller="offersController">
+
+      <ul>
+        <li ng-repeat="offers in offerlist">
+          <a href="#" ui-sref="offersdetails" ng-click="specialOffer(offers.offerID)"><img ng-src="{{offers.imageURL}}"/></a>
+
+          <!-- <div ng-show="offers_details">
+            <p>hi.. hello</p>
+          </div> -->
+        </li>
+      </ul>
+
+      
+
+      <!-- <ul> ng-click="specialOffer(offers.offerID)"
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Save10.jpg"></a></li>
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Pledge.jpg"></a></li>
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Layaway.jpg"></a></li>
+      </ul>
+ -->
+  </div>
+
+
+    <ul class="nav nav-tabs navbar-fixed-bottom">
+        <li><a  data-toggle="tab" href="#" ui-sref="home" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>
+        <li ><a  data-toggle="tab" href="#" ui-sref="products"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>
+        <li><a href="#" data-toggle="tab" ui-sref="stores"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>
+        <li><a href="#" data-toggle="tab" ui-sref="offers"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>
+    </ul>
+</div>
+

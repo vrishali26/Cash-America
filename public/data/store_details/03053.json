@@ -1,0 +1,86 @@
+{
+  "phone": "9375447701",
+  "address": {
+    "address1": "11602 State Route 41",
+    "address2": "",
+    "state": "OH",
+    "city": "West Union",
+    "zipCode": "45693"
+  },
+  "services": [
+    "Pawn Loans",
+    "Payday Advances",
+    "Preowned Merchandise",
+    "Check Cashing",
+    "Prepaid Debit Card",
+    "Money Orders",
+    "Auto Equity Loans",
+    "Insurance",
+    "Gold Purchase",
+    "Money Transfers",
+    "Income Tax"
+  ],
+  "weeklyHours": [
+    {
+      "weekDay": "Monday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": true
+    },
+    {
+      "weekDay": "Tuesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Wednesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Thursday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Friday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Saturday",
+      "openTime": "9:00 am",
+      "closeTime": "5:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Sunday",
+      "openTime": "CLOSED",
+      "closeTime": "CLOSED",
+      "isToday": false
+    }
+  ],
+  "licenses": [
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "100486.100-BR",
+      "licenseType": "Pawnbroker License"
+    },
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "700274.116-BR",
+      "licenseType": "Check Cashing License"
+    },
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "SM.501561.112-BR",
+      "licenseType": "Payday Loan License"
+    }
+  ],
+  "storeNumber": "03053",
+  "shortName": "C3053"
+}

@@ -1,0 +1,116 @@
+[
+
+{
+
+    "itemName": "Stun Gun",
+    "longICN": "031144002850200100",
+    "details": 
+
+    [
+        "MFGR S&D CUTLERY COMPANY",
+        "MOD SD-109",
+        "W/ CASE"
+    ],
+    "price": 13.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "031353008895100400",
+    "details": 
+
+    [
+        "MFGR DEWALT",
+        "MOD DW908"
+    ],
+    "price": 37.5,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "031444012319100100",
+    "details": 
+
+    [
+        "MFGR STREAMLIGHT",
+        "MOD STINGER"
+    ],
+    "price": 49.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "030913007664100400",
+    "details": 
+
+    [
+        "MFGR BOSCH",
+        "MOD 3453"
+    ],
+    "price": 14.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "031173005440200400",
+    "details": 
+
+    [
+        "MFGR DEWALT",
+        "MOD DW908"
+    ],
+    "price": 14.99,
+    "distance": 427.2921,
+    "storeNumber": "03117",
+    "shortName": "C3117"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "031404006399200200",
+    "details": 
+
+    [
+        "MFGR STREAMLIGHT",
+        "MOD STINGER"
+    ],
+    "price": 29.99,
+    "distance": 454.7925,
+    "storeNumber": "03140",
+    "shortName": "C3140"
+
+},
+{
+
+    "itemName": "Flash Light",
+    "longICN": "030214005315200100",
+    "details": 
+
+        [
+            "MFGR SKIL",
+            "MOD 2897"
+        ],
+        "price": 19.99,
+        "distance": 487.7397,
+        "storeNumber": "03021",
+        "shortName": "C3021"
+    }
+
+]

@@ -1,0 +1,17 @@
+<div class="container-fluid text-center signinpage" ng-controller="signinctrllr">
+  <img class="logo" src="images/01-Launch-Screen.png" />
+  	<h4 class="panel-heading">Sign In</h4>
+    <form>
+    	<div class="form-group has-feedback">
+		<input type="text"  name="signin" class="form-control" ng-model="signin.valemail"/>
+	    <span class="glyphicon-message"></span>
+		
+  		</div>
+    </form>
+     <a class="btn btn-block btn-dropbox " ng-click="signin()" >Sign In</a>
+       <hr><span class="or">or</span><hr>
+     <a class="btn btn-block btn-social btn-facebook" ui-sref="sociallogin">
+       <i class="fa fa-facebook"></i> Connect to Facebook
+     </a>
+        <a class="btn btn-block  btn-pinterest" ui-sref="signup">Sign Up</a>
+</div>

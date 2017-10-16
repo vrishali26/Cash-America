@@ -1,0 +1,1353 @@
+[
+
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013522192079100100",
+    "details": [ ],
+    "price": 15.89,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013523197621100100",
+    "details": [ ],
+    "price": 59.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013523202593100100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013524206027100100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013524206734200100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013654043455100100",
+    "details": 
+
+    [
+        "MFGR WILSON",
+        "RED"
+    ],
+    "price": 69.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013514259419100100",
+    "details": 
+
+    [
+        "MFGR CLEVELAND"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013514260437100100",
+    "details": [ ],
+    "price": 139.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013514266020100100",
+    "details": [ ],
+    "price": 89.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013554354497100100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013532245593100100",
+    "details": 
+
+    [
+        "RED"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454275289100100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 249.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454277326200100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 129.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013454280094100100",
+    "details": 
+
+    [
+        "MFGR TITLEIST"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013454280094100200",
+    "details": 
+
+    [
+        "MFGR TITLEIST"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454280809200100",
+    "details": 
+
+    [
+        "MFGR DUNLOP"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Cart",
+    "longICN": "013454280810200100",
+    "details": 
+
+    [
+        "MFGR TARGA",
+        "MOD 2000",
+        "PULL"
+    ],
+    "price": 22.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013454282251200100",
+    "details": 
+
+    [
+        "RED"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013454282251200200",
+    "details": 
+
+    [
+        "RED"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454283244100100",
+    "details": 
+
+    [
+        "MFGR COUGAR"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454284642100300",
+    "details": [ ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454284642100400",
+    "details": [ ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013454284642100500",
+    "details": [ ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013455286938200100",
+    "details": 
+
+    [
+        "MFGR PING",
+        "MOD G15"
+    ],
+    "price": 399.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624112577100100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624117106100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624117845100100",
+    "details": [ ],
+    "price": 40,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624118768100100",
+    "details": [ ],
+    "price": 119.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624119984100100",
+    "details": 
+
+    [
+        "BLUE"
+    ],
+    "price": 129.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624120731100100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624121726100100",
+    "details": 
+
+    [
+        "MFGR COBRA"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624123406100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE",
+        "BAG MFG."
+    ],
+    "price": 40,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624124443100100",
+    "details": 
+
+    [
+        "MFGR PING"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624124648100100",
+    "details": [ ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624125369100100",
+    "details": 
+
+    [
+        "MFGR PING"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624125806100100",
+    "details": 
+
+    [
+        "MFGR INTECH"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624126499200100",
+    "details": 
+
+    [
+        "MFGR PING"
+    ],
+    "price": 129.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624126660200100",
+    "details": 
+
+    [
+        "SILVER"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624126662200100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624126820200100",
+    "details": 
+
+    [
+        "GREY"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624127754200100",
+    "details": 
+
+    [
+        "MFGR UNEX"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624128921100100",
+    "details": 
+
+    [
+        "MFGR UPRO"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129330200100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129331200100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129332200100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129333200100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129703100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129704100100",
+    "details": 
+
+    [
+        "MFGR PING",
+        "MOD G10"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624129705100100",
+    "details": 
+
+    [
+        "MFGR ODYSSEY"
+    ],
+    "price": 44.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+
+{
+        "itemName": "Golf Accessory",
+        "longICN": "013624129931200100",
+        "details": [ ],
+        "price": 19.99,
+        "distance": 394.1464,
+        "storeNumber": "01362",
+        "shortName": "LV22"
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624129998100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624130326100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624130327100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624130359200100",
+    "details": 
+
+    [
+        "GREEN"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624130398100100",
+    "details": 
+
+    [
+        "MFGR NIKE"
+    ],
+    "price": 149.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624130399100100",
+    "details": 
+
+    [
+        "MFGR ODYSSEY"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013624130922100100",
+    "details": 
+
+    [
+        "MFGR NIKE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013624131012200100",
+    "details": 
+
+    [
+        "GREEN"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013624131700200100",
+    "details": 
+
+    [
+        "MFGR CLEVELAND",
+        "GREEN"
+    ],
+    "price": 119.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013625132322100100",
+    "details": [ ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013625136823200100",
+    "details": [ ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013320286902100100",
+    "details": [ ],
+    "price": 30,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013322338593100100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013322345714100100",
+    "details": [ ],
+    "price": 59.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323352978100100",
+    "details": 
+
+    [
+        "MFGR TITLEIST"
+    ],
+    "price": 149.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Bag No Clubs",
+    "longICN": "013323357798100100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013323358056100100",
+    "details": 
+
+    [
+        "MFGR MIZUNO"
+    ],
+    "price": 119.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323359692100100",
+    "details": 
+
+    [
+        "MFGR COBRA"
+    ],
+    "price": 119.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323361837100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 74.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323365203100100",
+    "details": 
+
+    [
+        "MFGR CLEVELAND"
+    ],
+    "price": 139.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013323368597100100",
+    "details": 
+
+    [
+        "MFGR RAWLINGS",
+        "GREEN"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323373567200100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013323375926200100",
+    "details": 
+
+    [
+        "MFGR ACER"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013323376438200100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324379952100100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324381036200200",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324381782100100",
+    "details": 
+
+    [
+        "MFGR ACER",
+        "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Cart",
+    "longICN": "013324382313200100",
+    "details": 
+
+    [
+        "PULL"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324382399200100",
+    "details": 
+
+    [
+        "MFGR ODYSSEY"
+    ],
+    "price": 59.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324382400200100",
+    "details": 
+
+    [
+        "MFGR KING COBRA"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324382403200100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 69.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324382810100100",
+    "details": 
+
+    [
+        "MFGR AERO",
+        "BLUE"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324383076100100",
+    "details": 
+
+    [
+        "MFGR SNAKE EYES"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324383088200100",
+    "details": 
+
+    [
+        "MFGR WILSON"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324383441200100",
+    "details": 
+
+    [
+        "MFGR NORTHWEST"
+    ],
+    "price": 59.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324383442200100",
+    "details": 
+
+    [
+        "MFGR SYSTEM 76",
+        "MOD 2000"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324383762100100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324383762100200",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Accessory",
+    "longICN": "013324383762100300",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385317200100",
+    "details": [ ],
+    "price": 6.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385317200200",
+    "details": [ ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385317200400",
+    "details": [ ],
+    "price": 6.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385318200100",
+    "details": [ ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385332100100",
+    "details": [ ],
+    "price": 199.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324385465200400",
+    "details": [ ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324385935100100",
+    "details": 
+
+    [
+        "MFGR TITLEIST",
+        "BLACK"
+    ],
+    "price": 299.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324386048200100",
+    "details": [ ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324387966100100",
+    "details": 
+
+    [
+        "MFGR TAYLOR MADE"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs And Bag",
+    "longICN": "013324389236200100",
+    "details": [ ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Golf Clubs No Bag",
+    "longICN": "013324389358100100",
+    "details": 
+
+        [
+            "MFGR TITLEIST"
+        ],
+        "price": 149.99,
+        "distance": 397.675,
+        "storeNumber": "01332",
+        "shortName": "LV03"
+}
+]

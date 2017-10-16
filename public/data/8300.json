@@ -1,0 +1,1371 @@
+[
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013523197692200100",
+    "details": [
+      "MFGR LG",
+      "MOD LWHD1500ER",
+      "CREAM",
+      "115",
+      "15000"
+    ],
+    "price": 149.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013654043059200100",
+    "details": [
+      "MFGR FRIGIDAIRE",
+      "MOD FAK124R1V",
+      "WHITE",
+      "110",
+      "12000"
+    ],
+    "price": 349.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013654043114200100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD AEL14AQ",
+      "WHITE",
+      "115",
+      "1400"
+    ],
+    "price": 239.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013654044306100100",
+    "details": [
+      "MFGR DYLIS",
+      "MOD 416709",
+      "WHITE",
+      "115",
+      "10000"
+    ],
+    "price": 139.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013654044586100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HPA160"
+    ],
+    "price": 99.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013654044609100100",
+    "details": [
+      "MFGR COMMERCIAL COOLER",
+      "MOD CPRB07XC7",
+      "WHITE",
+      "115",
+      "7000"
+    ],
+    "price": 149.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013513250850100100",
+    "details": [
+      "MFGR KENMORE",
+      "MOD 580.75151500",
+      "WHITE",
+      "110",
+      "10800"
+    ],
+    "price": 150.0,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013514252123100100",
+    "details": [
+      "MFGR LAKEWOOD",
+      "MOD HV-14C",
+      "SILVE"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Fan",
+    "longICN": "013514260715100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD POWER CENTER",
+      "FAN",
+      "BLUE"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Air Cooler",
+    "longICN": "013514260716100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD U12100",
+      "FAN",
+      "BLUIE"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013514264511200100",
+    "details": [
+      "MFGR WHIRLPOOL",
+      "MOD ACQ088MR0",
+      "WHITE",
+      "115",
+      "8000"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013514264683100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD T42902",
+      "BLACK/GRAY"
+    ],
+    "price": 44.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013514264855100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD AIR8SD"
+    ],
+    "price": 65.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013514264861200100",
+    "details": [
+      "MFGR IONIC PRO",
+      "MOD CA-500B"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013514265034100100",
+    "details": [
+      "MFGR AMCOR",
+      "MOD AF11000E",
+      "BROWN",
+      "115",
+      "11000"
+    ],
+    "price": 199.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013514265844200100",
+    "details": [
+      "MFGR PATTON",
+      "MOD HIGH",
+      "SILVER"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013514267230200100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HFD120P"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013553326686100100",
+    "details": [
+      "MFGR TRION",
+      "MOD 250"
+    ],
+    "price": 119.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013554337598200100",
+    "details": [
+      "MFGR HOMEDICS",
+      "MOD AF-100"
+    ],
+    "price": 79.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013554342147200100",
+    "details": [
+      "MFGR FILTERQUEEN",
+      "MOD 360"
+    ],
+    "price": 44.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013554343818100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 4924",
+      "GRAY"
+    ],
+    "price": 29.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013554347111200100",
+    "details": [
+      "MFGR FEDDERS",
+      "MOD A6X05F2A",
+      "CREME",
+      "110",
+      "5000"
+    ],
+    "price": 69.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013554351187100100",
+    "details": [
+      "MFGR LG",
+      "MOD LWHD6500SR",
+      "WHITE",
+      "220",
+      "6500"
+    ],
+    "price": 89.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013554352405100100",
+    "details": [
+      "MFGR HAIER",
+      "MOD ESA3069-L",
+      "110",
+      "6000"
+    ],
+    "price": 79.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013555356609200100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD N/V",
+      "GRAY"
+    ],
+    "price": 49.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013555358511200100",
+    "details": [
+      "MFGR LG",
+      "MOD LWHD8000RY6",
+      "WHITE",
+      "820",
+      "8000"
+    ],
+    "price": 99.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534277743100100",
+    "details": [
+      "MFGR SHARP",
+      "MOD CV-P10RC",
+      "WHITE",
+      "110",
+      "10000"
+    ],
+    "price": 299.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Fan",
+    "longICN": "013534283418100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5367",
+      "HEATER/COOLER",
+      "GREY"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534283574100100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD AEL05LQ",
+      "WHITE",
+      "115",
+      "5050"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534283735200100",
+    "details": [
+      "MFGR MAYTAG",
+      "MOD NMPEB08F2A",
+      "WHITE",
+      "110",
+      "8000"
+    ],
+    "price": 74.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534287630100100",
+    "details": [
+      "MFGR COMMERCIAL COOL",
+      "MOD CPRB07XC7",
+      "WHITE",
+      "120",
+      "7000"
+    ],
+    "price": 79.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534289511100100",
+    "details": [
+      "MFGR KENWOOD",
+      "MOD 580.75050801",
+      "WHITE",
+      "115",
+      "5000"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534289895100100",
+    "details": [
+      "MFGR IDYLIS",
+      "WHITE AND GREY",
+      "9.5V",
+      "10000"
+    ],
+    "price": 149.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013534290188100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD 30LDB010UA0"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013534293968100100",
+    "details": [
+      "MFGR LG",
+      "MOD LP0814WNR",
+      "WHITE",
+      "115",
+      "8000"
+    ],
+    "price": 199.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013454275697200100",
+    "details": [
+      "MFGR LG ELECTRONICS",
+      "MOD LD301EL",
+      "WHT",
+      "DEHUMIDIFIER"
+    ],
+    "price": 139.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013454277700200100",
+    "details": [
+      "MFGR SOLEUS",
+      "MOD GM-WAC-055M-C",
+      "WHITE",
+      "115",
+      "5000"
+    ],
+    "price": 139.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013454279701100100",
+    "details": [
+      "MFGR LG",
+      "MOD LWHD6500SR",
+      "GREY",
+      "115",
+      "6500"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013454283733200100",
+    "details": [
+      "MFGR THERAPURE",
+      "MOD 201M"
+    ],
+    "price": 39.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013454285036200100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD 50255/MD"
+    ],
+    "price": 69.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013454285037200100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD 50255/MD"
+    ],
+    "price": 69.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013624124917100100",
+    "details": [
+      "MFGR LG ELECTRONICS",
+      "MOD LP0910WNR",
+      "WHITE",
+      "115V",
+      "W"
+    ],
+    "price": 159.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013624125224100100",
+    "details": [
+      "MFGR LG",
+      "MOD LPO771WNR",
+      "WHITE",
+      "DEHUMIDIFIER",
+      "N"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013624127022100100",
+    "details": [
+      "MFGR FRIGIDAIRE",
+      "MOD FAA087S7A",
+      "GWHIT",
+      "115",
+      "8000"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013625132546100100",
+    "details": [
+      "MFGR MASSEY",
+      "MOD MF-9",
+      "BLK"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013625136961200100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD BOWAC8000",
+      "WHITE",
+      "115",
+      "8000"
+    ],
+    "price": 129.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013324384061200100",
+    "details": [
+      "MFGR KENMORE",
+      "MOD 580.54501800",
+      "WHITE",
+      "DEHUMIDIFIER",
+      "5.9"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013324387889200100",
+    "details": [
+      "MFGR LG",
+      "MOD LHD30",
+      "WHITE",
+      "DEHUMIDIFIER"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013324394454100100",
+    "details": [
+      "MFGR HOLMES",
+      "MOD HAP616B"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013324394507100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD AIR8SD"
+    ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+    {
+    "itemName": "Air Purifier",
+    "longICN": "013324399182100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD 17205-CST"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013325404993100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD COOL",
+      "WHITE",
+      "EBAY AVERAGE 102.0"
+    ],
+    "price": 89.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013325408677200100",
+    "details": [
+      "MFGR SHARPER IMAGE",
+      "MOD S1397"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013333496509100100",
+    "details": [
+      "MFGR HAWAIIAN BREEZE",
+      "MOD FZ10-10N",
+      "WHITE",
+      "120V"
+    ],
+    "price": 24.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013334516068100100",
+    "details": [
+      "MFGR IONIC",
+      "MOD CA-200B"
+    ],
+    "price": 25.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013334517129100100",
+    "details": [
+      "MFGR ALEN",
+      "MOD A350",
+      "WHITE",
+      "HUMIDIFIER"
+    ],
+    "price": 129.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013334518239200100",
+    "details": [
+      "MFGR DRIEAZ",
+      "MOD F203",
+      "BLUE",
+      "HUMIDIFIER"
+    ],
+    "price": 499.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013334518801200100",
+    "details": [
+      "MFGR HUNTER",
+      "MOD 30023"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013334521687200100",
+    "details": [
+      "MFGR VICKS",
+      "MOD V3700"
+    ],
+    "price": 9.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013334524309200100",
+    "details": [
+      "MFGR HUNTER",
+      "MOD 30993"
+    ],
+    "price": 19.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013335531464200100",
+    "details": [
+      "MFGR HAWAIIN BREEZE",
+      "MOD FZ10-10N",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013335532399200100",
+    "details": [
+      "MFGR IDYLIS",
+      "WHITE",
+      "220",
+      "10000"
+    ],
+    "price": 149.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013464344055100100",
+    "details": [
+      "MFGR HAMPTON BAY",
+      "MOD HB-30",
+      "GREY",
+      "DEHUMIDIFIER"
+    ],
+    "price": 39.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013464346682100100",
+    "details": [
+      "MFGR EDGESTAR",
+      "MOD AP12000S",
+      "GRAY",
+      "115",
+      "8.0"
+    ],
+    "price": 289.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013464348567100100",
+    "details": [
+      "MFGR SOLE US AIR",
+      "MOD LX-140",
+      "WHITE",
+      "115",
+      "14000"
+    ],
+    "price": 399.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013464349230100100",
+    "details": [
+      "MFGR RIGID",
+      "MOD AM25500",
+      "ORANGE"
+    ],
+    "price": 109.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013464349231100100",
+    "details": [
+      "MFGR RIGID",
+      "MOD AM25500",
+      "ORANGE"
+    ],
+    "price": 109.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013464349232100100",
+    "details": [
+      "MFGR RIGID",
+      "MOD AM25500",
+      "ORANGE"
+    ],
+    "price": 109.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013464350997100100",
+    "details": [
+      "MFGR LG",
+      "MOD LP0813WNR",
+      "WHITE",
+      "115",
+      "9"
+    ],
+    "price": 279.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013464351063200100",
+    "details": [
+      "MFGR HOLMES AIR",
+      "MOD HM1700",
+      "WHITE",
+      "HUMIDIFIER"
+    ],
+    "price": 19.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013464354770200100",
+    "details": [
+      "MFGR BLACK & DECKER",
+      "MOD BDTF1010B",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013464356537100100",
+    "details": [
+      "MFGR PREMIERE",
+      "MOD DPAC12012P",
+      "BLACK",
+      "110",
+      "8000"
+    ],
+    "price": 299.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013464356704200100",
+    "details": [
+      "MFGR ORECK",
+      "MOD AIRHAQ"
+    ],
+    "price": 79.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013464356705200100",
+    "details": [
+      "MFGR ORECK",
+      "MOD AIR8SW"
+    ],
+    "price": 49.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013464360462100100",
+    "details": [
+      "MFGR SOLEUSAIR",
+      "MOD PH4-13R-01",
+      "BEIGH",
+      "220",
+      "12500"
+    ],
+    "price": 229.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013465366468200100",
+    "details": [
+      "MFGR ELECTROLUX",
+      "MOD FAA087S7A",
+      "WHITE",
+      "115",
+      "8000",
+      "HB LAKE MEAD AND JONES MSR 865"
+    ],
+    "price": 149.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013465366469200100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD AEL05LQG1",
+      "WHITE",
+      "115",
+      "5050",
+      "HB LAKE MEAD AND JONES MSR 865"
+    ],
+    "price": 149.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013474289888100100",
+    "details": [
+      "MFGR HUNTER",
+      "MOD 30756"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Ceiling Fan",
+    "longICN": "013475291413100100",
+    "details": [
+      "MFGR CONCORD",
+      "MOD 42HUGA-YG6",
+      "WHITE",
+      "SIZE 42'"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013475295681200100",
+    "details": [
+      "MFGR LG",
+      "MOD LW1013ERY3",
+      "WHT",
+      "220"
+    ],
+    "price": 79.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013423404820200100",
+    "details": [
+      "MFGR VICKS",
+      "MOD N/A",
+      "WHITE AND SILVER",
+      "HUMIDIFIER"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Portable Fan",
+    "longICN": "013423418789100100",
+    "details": [
+      "MFGR DESK FAN",
+      "MOD N/A",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013423423948100100",
+    "details": [
+      "MFGR FRIGIDAIRE",
+      "MOD FRA18EMU2",
+      "WHITE",
+      "220",
+      "18.5K COOLING/16K HEATING"
+    ],
+    "price": 399.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Misc. Air Cooler",
+    "longICN": "013423424779200100",
+    "details": [
+      "MFGR MIDEA ENVIRONMENT APPLIANCES",
+      "MOD ACS120-C3R",
+      "EVAPORATIVE AIR COOLER",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424428347100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD 17000-S"
+    ],
+    "price": 69.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013424430693100100",
+    "details": [
+      "MFGR SHARP",
+      "MOD CV-P09FL",
+      "GRAY",
+      "115"
+    ],
+    "price": 449.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013424434602200100",
+    "details": [
+      "MFGR LG ELECTRONICS",
+      "MOD LD301EL",
+      "WHITE",
+      "110"
+    ],
+    "price": 129.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424436097100100",
+    "details": [
+      "MFGR SHARPER IMAGE",
+      "MOD S1637"
+    ],
+    "price": 9.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424436400100100",
+    "details": [
+      "MFGR BLUEAIR",
+      "MOD 205C",
+      "WHITE AIR PURIFIER"
+    ],
+    "price": 109.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424436848100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD AIR8B"
+    ],
+    "price": 79.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013424437689200100",
+    "details": [
+      "MFGR VENTASONIC",
+      "MOD VS-205",
+      "WHITE/BLUE",
+      "HUMIDIFIER",
+      "122"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013424438028200100",
+    "details": [
+      "MFGR ELECTROLUX",
+      "MOD LRA050XT7",
+      "WHITE",
+      "115",
+      "5000"
+    ],
+    "price": 99.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424439591100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD AIR PURIFIER"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013424440014100100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD ASH06LBS1",
+      "CREAM",
+      "115",
+      "6100"
+    ],
+    "price": 159.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Humidifier/Dehumidifier",
+    "longICN": "013424440550100100",
+    "details": [
+      "MFGR LG ELECTRONICS",
+      "MOD LD301EL",
+      "WHITE",
+      "DEHUMIDIFIER"
+    ],
+    "price": 79.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Conditioner",
+    "longICN": "013424442326100100",
+    "details": [
+      "MFGR HAIER",
+      "MOD HPR09XC7",
+      "OFF WHITE",
+      "110",
+      "9000"
+    ],
+    "price": 159.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013424443940100100",
+    "details": [
+      "MFGR SYLVANIA",
+      "MOD X01A1",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013424444074100100",
+    "details": [
+      "MFGR LIVING SOLUTIONS",
+      "MOD X03AI",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Floor Standing Fan",
+    "longICN": "013424444075100100",
+    "details": [
+      "MFGR LIVING SOLUTIONS",
+      "MOD X03AI",
+      "BLK / SIL",
+      "VER"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Air Purifier",
+    "longICN": "013424445987100100",
+    "details": [
+      "MFGR ORECK XL",
+      "MOD AIR8SD"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  }
+]

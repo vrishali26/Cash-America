@@ -1,0 +1,1305 @@
+[
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030714006623100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD TR165",
+            "GREEN",
+            "16INCH \" BLADE"
+        ],
+        "price": 21.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031144003355200100",
+        "details": [
+            "MFGR TROYBILT",
+            "MOD TB310QS"
+        ],
+        "price": 79.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144003359200100",
+        "details": [
+            "MFGR ROCKWELL",
+            "MOD 37"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031144003444200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD NST2018"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031144003595200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 138.74544",
+            "BLACK AND RED",
+            "CUT WIDTH 12\" \""
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144003665200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD TR165"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144003669200300",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 31581591"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031144003679200100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD PS-05744"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144003882200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HS1010"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144006980100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HT018"
+        ],
+        "price": 17.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031144007009100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 8124",
+            "ORANGE",
+            "16 \" BLADE"
+        ],
+        "price": 11.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "031144007044100400",
+        "details": [
+            "MFGR MURRAY",
+            "MOD M22500",
+            "5.0 HP/CC",
+            "CUT WIDTH 22 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 79.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031144007884100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358.794730"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674004842200200",
+        "details": [
+            "MFGR BLACK AND DECKER",
+            "MOD TR165",
+            "GREEN",
+            "16 \" BLADE"
+        ],
+        "price": 16.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674004930200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 8124",
+            "ORANGE",
+            "16 \" BLADE"
+        ],
+        "price": 15.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Powered Edger",
+        "longICN": "030674005136200100",
+        "details": [
+            "MFGR BLACK AND DECKER",
+            "MOD LE750",
+            "ORANGE",
+            "2.25 HP/CC"
+        ],
+        "price": 44.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Garden Tool",
+        "longICN": "030674005181200100",
+        "details": [
+            "MFGR TORO",
+            "MOD 38310",
+            "RED BLACK",
+            "POWER SHOVEL"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674005252200100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD SS24"
+        ],
+        "price": 14.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Powered Edger",
+        "longICN": "030674005252200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD LE500",
+            "2-1/2 HP/CC"
+        ],
+        "price": 19.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "030674005326200100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT08085",
+            "BLACK & RED"
+        ],
+        "price": 44.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674005356200100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT44121"
+        ],
+        "price": 24.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674005356200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HT22D"
+        ],
+        "price": 19.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030674011244100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358.79158",
+            "RED"
+        ],
+        "price": 59.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030674011244100200",
+        "details": [
+            "MFGR TROYBILT",
+            "MOD TB20CS",
+            "RED",
+            "CUT WIDTH BLOWER \""
+        ],
+        "price": 59.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030674011486100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 316.711370",
+            "GRAY AND BLACK"
+        ],
+        "price": 51.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "030674011661100100",
+        "details": [
+            "MFGR LAWNBOY",
+            "MOD 7351",
+            "GREEN",
+            "6.0 HP/CC",
+            "CUT WIDTH 22 \"",
+            "WITH BAG ATTACHMENT"
+        ],
+        "price": 76.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030674011752100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358.745300",
+            "ORANGE",
+            "120V HP/CC"
+        ],
+        "price": 29.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030674011796100100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD 780R",
+            "SILVER",
+            "CUT WIDTH 6 INCH \""
+        ],
+        "price": 43.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030674011911100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HT2000",
+            "ORANGE",
+            "20 \" BLADE"
+        ],
+        "price": 14.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030674012185100100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD SG14",
+            "YELLOW GREEN",
+            "CUT WIDTH 10 \""
+        ],
+        "price": 32.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Powered Edger",
+        "longICN": "030674012612100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD NHT524",
+            "2-1/2 HP/CC"
+        ],
+        "price": 69.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030674012912100100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT20006",
+            "RED YELLOW",
+            "CUT WIDTH 12 \""
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030644003124200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD GSL.35",
+            "ORANGE"
+        ],
+        "price": 9.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031043010620200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 8124",
+            "ORANGE",
+            "120 VOLTS HP/CC",
+            "16 \" BLADE"
+        ],
+        "price": 49.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031044013945200100",
+        "details": [
+            "MFGR REMINGTON",
+            "MOD ST3812B"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031044014200200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD TR100"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031044014200200200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.797650"
+        ],
+        "price": 15.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031044014297200100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD 775R"
+        ],
+        "price": 39.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031044014311200100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD FEATHERLITE FL20"
+        ],
+        "price": 39.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031044020799100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD NST2018"
+        ],
+        "price": 59.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031044022855100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.798730",
+            "GREY",
+            "12 HP/CC",
+            "20 \" BLADE"
+        ],
+        "price": 24.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030673007374100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 900.799510",
+            "NATURAL",
+            "120 VOLTS HP/CC",
+            "18 \" BLADE"
+        ],
+        "price": 22.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030714003567200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 406MM",
+            "16 INCHES \" BLADE"
+        ],
+        "price": 29.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030714003619200200",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD EL-13TNE"
+        ],
+        "price": 14.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "030714006712100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD BV4000"
+        ],
+        "price": 19.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "030714006871100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 138.79771"
+        ],
+        "price": 24.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030714007246100100",
+        "details": [
+            "MFGR WORX",
+            "MOD WG160",
+            "BLACK",
+            "12.4 HP/CC",
+            "CUT WIDTH 12 \""
+        ],
+        "price": 99.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030934002743200100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD CS26",
+            "ORANGE AND GREY"
+        ],
+        "price": 35,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "030934003448100200",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD WE EL-15TNE"
+        ],
+        "price": 29.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Misc. Garden Tool",
+        "longICN": "031353004299200500",
+        "details": [
+            "MFGR UTILITECH",
+            "MOD 24840",
+            "LAWN PUMP"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031353004767200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD TR255",
+            "GREEN",
+            "2.4 HP/CC",
+            "16 \" BLADE"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Trimmer",
+        "longICN": "031353008945100100",
+        "details": [
+            "MFGR TASKFORCE",
+            "MOD 22013",
+            "RED/BLACK",
+            "CUT WIDTH 22IN \"",
+            "HEDGE TRIMMERS/ CORDLESS"
+        ],
+        "price": 34.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Tiller",
+        "longICN": "031353009965100200",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT-15099R",
+            "FRONT TINES"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031353011047100100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD FL1500LE"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031353011456100400",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 8115"
+        ],
+        "price": 14.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031353011813100100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD XT112"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "031353014519100100",
+        "details": [
+            "MFGR SOUTHLAND",
+            "MOD SM2010",
+            "5.0 HP/CC",
+            "CUT WIDTH 20 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 89.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031354006713200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HT020"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354007027200300",
+        "details": [
+            "MFGR RYOBI",
+            "MOD 320BVR",
+            "BLACK AND ORANGE",
+            "31 HP/CC"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031354007165200100",
+        "details": [
+            "MFGR WORX",
+            "MOD WG150.1",
+            "ORANGE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354007236200100",
+        "details": [
+            "MFGR TROYBILT",
+            "MOD TB70SS"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "031354007364200300",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358.799343"
+        ],
+        "price": 9.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354007454200100",
+        "details": [
+            "MFGR TROYBILT",
+            "MOD TB32EC"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031354007536200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD TR016"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "031354007656200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD BV2500"
+        ],
+        "price": 24.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Tiller",
+        "longICN": "031354007685200100",
+        "details": [
+            "MFGR YARD MACHINE",
+            "MOD 135202",
+            "5 TINES",
+            "FRONT TINES"
+        ],
+        "price": 599.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031354007708200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD U171"
+        ],
+        "price": 9.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "031354008077200300",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD WEB160"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "031354016290100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 917.385110",
+            "GREEN",
+            "5.5 HP/CC",
+            "CUT WIDTH 22 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 119.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "031354016307100100",
+        "details": [
+            "MFGR WORX",
+            "MOD WG500"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031354016450100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 138.74503"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elec. Leaf Blower",
+        "longICN": "031354016537100400",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358799370"
+        ],
+        "price": 19.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Self-Propelled Lawn Mower",
+        "longICN": "031354016895100100",
+        "details": [
+            "MFGR BRIGGS & STRATTON",
+            "MOD 30520",
+            "4.0 HP/CC",
+            "CUT WIDTH 21 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 124.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Self-Propelled Lawn Mower",
+        "longICN": "031354016943100100",
+        "details": [
+            "GREEN",
+            "6.0 HP/CC",
+            "CUT WIDTH 17 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 139.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017026100100",
+        "details": [
+            "MFGR POULAN",
+            "MOD BVM200VS"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Self-Propelled Lawn Mower",
+        "longICN": "031354017223100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 247.37037",
+            "7.0 HP/CC",
+            "CUT WIDTH 22 \"",
+            "WITH BAG ATTACHMENT"
+        ],
+        "price": 179.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017392100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD LEAF BLOWER",
+            "BLK AND GREY",
+            "25 HP/CC"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354017406100100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT20721"
+        ],
+        "price": 29.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Garden Tool",
+        "longICN": "031354017433100100",
+        "details": [
+            "MFGR KARCHER",
+            "MOD K2.35",
+            "YELLOW",
+            "PRESSURE WARSHER"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354017472100100",
+        "details": [
+            "MFGR EARTHWISE",
+            "MOD CST00012"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Hedge Trimmer",
+        "longICN": "031354017472100200",
+        "details": [
+            "MFGR EARTHWISE",
+            "MOD CHT10122"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Hedge Trimmer",
+        "longICN": "031354017520100100",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD GHT220"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Elect. Grass Trimmer",
+        "longICN": "031354017603100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD NST2118"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354017607100200",
+        "details": [
+            "MFGR MURRAY",
+            "MOD M2500"
+        ],
+        "price": 45.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017609100100",
+        "details": [
+            "MFGR STIHL",
+            "MOD BG86",
+            "ORANGE & WHITE W/ BLK NOZZLE"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017622100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 358.794941"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Tiller",
+        "longICN": "031354017703100100",
+        "details": [
+            "MFGR BOLENS",
+            "MOD BL410",
+            "4 TINES",
+            "REAR TINES"
+        ],
+        "price": 89.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Garden Tool",
+        "longICN": "031354017741100100",
+        "details": [
+            "MFGR POWERWASHER",
+            "MOD 11POE-150",
+            "PRESSURE WASHER"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Tiller",
+        "longICN": "031354017762100200",
+        "details": [
+            "MFGR RYOBI",
+            "MOD 410R",
+            "4 TINES",
+            "FRONT TINES"
+        ],
+        "price": 69.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017920100100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD BP250"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Leaf Blower",
+        "longICN": "031354017960100700",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD FL1500LE"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354018067100100",
+        "details": [
+            "ORANGE"
+        ],
+        "price": 119.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354018221100100",
+        "details": [
+            "MFGR YARD MACHINE",
+            "MOD Y"
+        ],
+        "price": 79.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354018239100100",
+        "details": [
+            "MFGR STIHL",
+            "MOD FS74"
+        ],
+        "price": 39.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "031354018354100100",
+        "details": [
+            "MFGR TROYBILT",
+            "MOD TB2044XP"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Self-Propelled Lawn Mower",
+        "longICN": "031354018361100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 917.376231",
+            "6.5 HP/CC",
+            "CUT WIDTH 22 \"",
+            "WITH BAG ATTACHMENT"
+        ],
+        "price": 179.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "031354018598100200",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD 96114001411",
+            "GREEN",
+            "4.5 HP/CC",
+            "CUT WIDTH 20 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Lawn Mower",
+        "longICN": "031354018670100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 550",
+            "5.5 HP/CC",
+            "CUT WIDTH 22 \"",
+            "NO BAG ATTACHMENT"
+        ],
+        "price": 49.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Powered Edger",
+        "longICN": "031354018714100200",
+        "details": [
+            "MFGR WEEDEATER",
+            "MOD FEATHERLITE FL21",
+            "2-1/4 HP/CC"
+        ],
+        "price": 51.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Gas Grass Trimmer",
+        "longICN": "030733003772100100",
+        "details": [
+            "MFGR HOMELITE",
+            "MOD UT20006",
+            "RED",
+            "CUT WIDTH 1 1/2 \""
+        ],
+        "price": 49.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    }
+]

@@ -1,0 +1,49 @@
+.home{
+  .bgPage{
+    .logo_img{
+      width: 50% !important;
+      margin: 35px 0px 0px !important;
+    }
+    .slider_img{
+      width:100% !important;
+      margin: 20px 0px 0px !important;
+    }
+    .carousel-control{
+      display:none;
+    }
+    .carousel-inner{
+      .active{
+        position:relative;
+      }
+    }
+    .carousel-indicators  {
+      bottom: 0px;
+      li {
+          width: 7px;
+          height: 7px;
+          background-color:#959595;
+          border:1px solid #959595;
+      }
+      .active
+      {
+        width: 7px;
+        height: 7px;
+        margin: 1px;
+        background-color:#fff;
+        border:1px solid #fff;
+        
+        
+      }
+    }
+    .offer_2{
+      width:100%;
+      // background:url('../images/cup.png') 0 0 no-repeat,url('../images/layer_2_bg.png')
+      // background:url('../images/CA_Moble_App_Graphic750x338_eBay.jpg');
+      text-align: left;
+      img{
+        width:100% !important; 
+        margin:0 !important;
+      }
+    }
+  }
+}

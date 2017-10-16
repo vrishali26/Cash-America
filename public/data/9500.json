@@ -1,0 +1,445 @@
+[
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "031144002905200100",
+    "details": [
+      "MFGR HOMEDICS",
+      "MOD BKL-100-2",
+      "BACK MASSAGER WITH HEAT",
+      "NO CASE"
+    ],
+    "price": 25.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+  },
+  {
+    "itemName": "Wheelchair",
+    "longICN": "030673006846100100",
+    "details": [
+      "MFGR INVACARE",
+      "MOD MS1P"
+    ],
+    "price": 274.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030934002764200100",
+    "details": [
+      "MFGR LIFESOURCE",
+      "MOD UA767",
+      "W/ CASE"
+    ],
+    "price": 19.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030934002802200200",
+    "details": [
+      "MFGR ONE TOUCH",
+      "MOD ULTRA2",
+      "GLUCOSE TESTER",
+      "W/ CASE"
+    ],
+    "price": 9.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030934003586100100",
+    "details": [
+      "MFGR CHOICEMMED",
+      "MOD OXY WATCH C29",
+      "PULSE AND OXIDIZER",
+      "W/ CASE"
+    ],
+    "price": 14.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030734004510200200",
+    "details": [
+      "MFGR MOORE MEDICAL",
+      "MOD ADCUFF",
+      "NO CASE"
+    ],
+    "price": 24.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "030734005290200200",
+    "details": [
+      "MFGR NOVA",
+      "MOD 4230RD"
+    ],
+    "price": 49.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+  },
+  {
+    "itemName": "Wheelchair",
+    "longICN": "030734006051100300",
+    "details": [
+      "MFGR MEDLINE",
+      "MOD EXCEL 2000"
+    ],
+    "price": 59.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "030694011563100100",
+    "details": [
+      "MFGR INVACARE",
+      "MOD 6291-A"
+    ],
+    "price": 9.99,
+    "distance": 347.7626,
+    "storeNumber": "03069",
+    "shortName": "C3069"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030954019852100100",
+    "details": [
+      "MFGR ULTIMA 5",
+      "MOD DIGITAL TENS UNIT",
+      "DIGITAL TENS UNIT",
+      "W/ CASE"
+    ],
+    "price": 14.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "031074004126200200",
+    "details": [
+      "MFGR STRATOS",
+      "MOD IRC 1710",
+      "COMPRESSOR NEBULIZER",
+      "NO CASE"
+    ],
+    "price": 49.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "030644003395200100",
+    "details": [
+      "MFGR DOLOMITE",
+      "MOD LEGACY 600"
+    ],
+    "price": 15.99,
+    "distance": 389.0208,
+    "storeNumber": "03064",
+    "shortName": "C3064"
+  },
+  {
+    "itemName": "Wheelchair",
+    "longICN": "030624005772200100",
+    "details": [
+      "MFGR MEDLINE",
+      "MOD EXCEL 2000"
+    ],
+    "price": 19.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "030623004355200100",
+    "details": [
+      "MFGR INVACARE",
+      "MOD 6291-A"
+    ],
+    "price": 39.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030624006418200100",
+    "details": [
+      "MFGR ICY HOT",
+      "MOD SMART RELIEF",
+      "ICY HOT SMART RELIEF",
+      "NO CASE"
+    ],
+    "price": 19.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030604006311200100",
+    "details": [
+      "MFGR OMRON",
+      "MOD HEM-712C",
+      "NO CASE"
+    ],
+    "price": 14.99,
+    "distance": 419.5354,
+    "storeNumber": "03060",
+    "shortName": "C3060"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030913004306200100",
+    "details": [
+      "SELF RESCUER",
+      "W/ CASE"
+    ],
+    "price": 149.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030913008226100100",
+    "details": [
+      "RESCUE BREATHING",
+      "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030913008561100100",
+    "details": [
+      "MFGR SELF RESCUE",
+      "MOD BREATHING DEVICE",
+      "SELF RESCUE BREATHING",
+      "NO CASE"
+    ],
+    "price": 99.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030913008618100100",
+    "details": [
+      "MFGR OCENCO",
+      "MOD EBA 6.5",
+      "SELF RESCUER",
+      "W/ CASE"
+    ],
+    "price": 299.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030914005514200100",
+    "details": [
+      "MFGR DIRECT SUPPLY",
+      "MOD ATTENDANT",
+      "FINGER PULSE",
+      "W/ CASE"
+    ],
+    "price": 49.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030914006966200100",
+    "details": [
+      "MFGR SPECTRA MED",
+      "MOD POLARIS 3000",
+      "TENS UNIT",
+      "W/ CASE"
+    ],
+    "price": 19.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "031173005837100100",
+    "details": [
+      "MFGR RS MEDICAL",
+      "MOD RS-TENS PLUS",
+      "MASSAGE STIMULATOR KIT",
+      "W/ CASE"
+    ],
+    "price": 199.99,
+    "distance": 427.2921,
+    "storeNumber": "03117",
+    "shortName": "C3117"
+  },
+  {
+    "itemName": "Wheelchair",
+    "longICN": "012325050872200100",
+    "details": [
+      "MFGR MERITS"
+    ],
+    "price": 899.99,
+    "distance": 435.3464,
+    "storeNumber": "01232",
+    "shortName": "WS02"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "031464005407200200",
+    "details": [
+      "MFGR HUGO",
+      "MOD ELITE EDITION"
+    ],
+    "price": 39.99,
+    "distance": 447.0815,
+    "storeNumber": "03146",
+    "shortName": "C3146"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "031364004239200200",
+    "details": [
+      "MFGR SAUNDERS",
+      "MOD CERVICAL",
+      "CERVICAL HOME TRAC",
+      "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 458.543,
+    "storeNumber": "03136",
+    "shortName": "C3136"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030224009436200200",
+    "details": [
+      "MFGR HOMEDICS",
+      "MOD WGNBPA-530",
+      "NO CASE"
+    ],
+    "price": 29.99,
+    "distance": 461.0653,
+    "storeNumber": "03034",
+    "shortName": "C3034"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030313013280100100",
+    "details": [
+      "MFGR PRESTIGE",
+      "MOD HM-30-OB",
+      "W/ CASE"
+    ],
+    "price": 19.99,
+    "distance": 477.8109,
+    "storeNumber": "03041",
+    "shortName": "C3041"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030344008842200100",
+    "details": [
+      "MFGR OAKWOOD",
+      "MOD TABLE",
+      "MASSAGE TABLE",
+      "W/ CASE"
+    ],
+    "price": 279.99,
+    "distance": 477.8109,
+    "storeNumber": "03041",
+    "shortName": "C3041"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030454023072100100",
+    "details": [
+      "MFGR LITTMANN QUALITY",
+      "MOD 3M LIGHTWEIGHT",
+      "STETHOSCOPE",
+      "NO CASE"
+    ],
+    "price": 34.99,
+    "distance": 479.333,
+    "storeNumber": "03045",
+    "shortName": "C3045"
+  },
+  {
+    "itemName": "Blood Pressure Kit",
+    "longICN": "030454010636200100",
+    "details": [
+      "MFGR LIFESOURCE",
+      "MOD UA767",
+      "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 479.333,
+    "storeNumber": "03045",
+    "shortName": "C3045"
+  },
+  {
+    "itemName": "Wheelchair",
+    "longICN": "030454010697200100",
+    "details": [
+      "MFGR PRONTO",
+      "MOD M51"
+    ],
+    "price": 199.99,
+    "distance": 479.333,
+    "storeNumber": "03045",
+    "shortName": "C3045"
+  },
+  {
+    "itemName": "Walker",
+    "longICN": "030444003231200100",
+    "details": [
+      "MFGR INVACARE",
+      "MOD 6240-5F"
+    ],
+    "price": 19.99,
+    "distance": 484.1487,
+    "storeNumber": "03044",
+    "shortName": "C3044"
+  },
+  {
+    "itemName": "Misc. Medical Equipment",
+    "longICN": "030264004932200100",
+    "details": [
+      "MFGR HUMIDIFIER",
+      "MOD V745A",
+      "WARM MIST",
+      "NO CASE"
+    ],
+    "price": 27.99,
+    "distance": 491.8525,
+    "storeNumber": "03026",
+    "shortName": "C3026"
+  }
+]

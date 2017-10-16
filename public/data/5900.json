@@ -1,0 +1,1693 @@
+[
+
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031144003701200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD CM3000",
+        "NIGHTSCOPE"
+    ],
+    "price": 69.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "030673007224100100",
+    "details": 
+
+    [
+        "MFGR CELESTRON",
+        "MOD TWINSTAR 1501400"
+    ],
+    "price": 314.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "030674004213200100",
+    "details": 
+
+    [
+        "MFGR OPTOMA",
+        "MOD EP749",
+        "COMPUTER PROJECTOR"
+    ],
+    "price": 184.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030674005243200100",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD 1107",
+        "10X50 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 24.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "030674010456100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 783618"
+    ],
+    "price": 64.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "030674010975100200",
+    "details": 
+
+    [
+        "MFGR MERCH SOURCE",
+        "MOD 1647916",
+        "LCD PROJECTOR"
+    ],
+    "price": 59.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "030674012140100100",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 40-114675"
+    ],
+    "price": 84.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031044012679200100",
+    "details": 
+
+    [
+        "MFGR COBRA",
+        "MOD 750",
+        "NO NIGHT VISION"
+    ],
+    "price": 49.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031044012769200500",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD MONOCULAR",
+        "MONOCULAR"
+    ],
+    "price": 4.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031044014030200500",
+    "details": 
+
+    [
+        "MFGR BOSCH",
+        "MOD OPTIKON",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031044014483200300",
+    "details": 
+
+    [
+        "MFGR THE SHARPER IMAGE",
+        "MOD 25X"
+    ],
+    "price": 14.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031044014503200100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD TROPHY XLT",
+        "8X32 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031044021712100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 11-1025",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "030934002857200200",
+    "details": 
+
+    [
+        "MFGR DAISY",
+        "MOD 4X15"
+    ],
+    "price": 9.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030934003546100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 7-15X25",
+        "7-15X25 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031351001905200300",
+    "details": 
+
+    [
+        "NIGHT VISION GOGGLES"
+    ],
+    "price": 69.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031352005485100100",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD LRF600",
+        "RANGE FINDER"
+    ],
+    "price": 59.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031353006300200100",
+    "details": 
+
+    [
+        "MFGR ZINA",
+        "MOD BINOPIX",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031353006300200200",
+    "details": 
+
+    [
+        "MFGR ALPEN",
+        "MOD 497",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031353006300200300",
+    "details": 
+
+    [
+        "MFGR PRO",
+        "MOD 7 X 35",
+        "7X35 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031353014516100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD LASER 440",
+        "RANGE FINDER"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Sun Glasses",
+    "longICN": "031354006891200100",
+    "details": 
+
+    [
+        "MFGR MAUI JIM",
+        "MOD MJ202",
+        "NO CASE"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354006976200200",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD TILT 600",
+        "NO NIGHT VISION"
+    ],
+    "price": 59.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007046200300",
+    "details": 
+
+    [
+        "MFGR LEUPOLD",
+        "MOD RB800C",
+        "NO NIGHT VISION"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007046200400",
+    "details": 
+
+    [
+        "MFGR LEUPOLD",
+        "MOD WIND RIVER",
+        "NO NIGHT VISION"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007376200500",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 168BCR",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007413200200",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD INSTAFOCUS",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007527200300",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 303",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031354007611200400",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD YARDAGE PRO"
+    ],
+    "price": 119.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354007765200100",
+    "details": 
+
+    [
+        "MFGR BARSKA",
+        "MOD 10X25",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031354007830200500",
+    "details": 
+
+    [
+        "MFGR CELESTRON",
+        "MOD MICROSCOPE",
+        "MICROSCOPE"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354008287200400",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 165BCR",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031354015978100100",
+    "details": 
+
+    [
+        "MFGR VULTURE",
+        "MOD VTR-5085",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 124.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031354017442100100",
+    "details": 
+
+    [
+        "MFGR WINCHESTER",
+        "MOD WLK-532"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "030734003834200200",
+    "details": 
+
+    [
+        "MFGR ORION",
+        "MOD 05662",
+        "MOON FILTER"
+    ],
+    "price": 19.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "030734003834200300",
+    "details": 
+
+    [
+        "MFGR ORION",
+        "MOD 317",
+        "2X BARLOW LENS"
+    ],
+    "price": 29.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030734005036200200",
+    "details": 
+
+    [
+        "MFGR MAGNACRAFT",
+        "MOD 20X60",
+        "20X60 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030734006350100100",
+    "details": 
+
+    [
+        "MFGR GORDON",
+        "10X25 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 8.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030734006613100300",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 178RB",
+        "12X25 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031090004067100100",
+    "details": 
+
+    [
+        "MFGR JORDY",
+        "MOD TWO LOW VISION SYSTEM",
+        "NIGHT VISION VIRTUAL GOGGLES"
+    ],
+    "price": 299.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "031093015867200200",
+    "details": 
+
+    [
+        "MFGR SONY",
+        "MOD VPLS500U",
+        "MOVIE PROJECTOR"
+    ],
+    "price": 99.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031093016862200100",
+    "details": 
+
+    [
+        "MFGR MEADE",
+        "MOD 219"
+    ],
+    "price": 129.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031093017162200100",
+    "details": 
+
+    [
+        "MFGR MEADE",
+        "MOD 60AZ-D"
+    ],
+    "price": 24.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031094019237200100",
+    "details": 
+
+    [
+        "MFGR VIVITAR",
+        "MOD 7X50",
+        "NO NIGHT VISION"
+    ],
+    "price": 29.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031094025908100100",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 15-20X50",
+        "20X50 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031094027476100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 7X35",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030694011828100100",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD 24152",
+        "NO NIGHT VISION"
+    ],
+    "price": 12.99,
+    "distance": 347.7626,
+    "storeNumber": "03069",
+    "shortName": "C3069"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030704007624100500",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD FOV-330FT",
+        "10X25 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 357.2251,
+    "storeNumber": "03070",
+    "shortName": "C3070"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030853027229100200",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 13-7735",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030854013515200100",
+    "details": 
+
+        [
+            "NO NIGHT VISION"
+        ],
+        "price": 24.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+},
+{
+
+    "itemName": "Overhead Projector",
+    "longICN": "030854031696100200",
+    "details": 
+
+    [
+        "MFGR OPTOMA",
+        "MOD PT105DLP"
+    ],
+    "price": 49.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030953007246200200",
+    "details": 
+
+    [
+        "MFGR JASON COMMANDER",
+        "MOD 161",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030953007269200400",
+    "details": 
+
+    [
+        "MFGR FOCAL",
+        "MOD 202035U",
+        "7X35 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 24.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030953010303100100",
+    "details": 
+
+    [
+        "MFGR ZEISS",
+        "MOD NI2",
+        "8X42 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 599.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030954008737200100",
+    "details": 
+
+    [
+        "MFGR OPTIC",
+        "MOD 1050",
+        "35X70 MM",
+        "W/ NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "030954009845200100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 789512"
+    ],
+    "price": 49.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "030954018493100500",
+    "details": 
+
+    [
+        "MFGR JUNGLEE",
+        "MOD 10X25"
+    ],
+    "price": 9.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030954018493100600",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD G-A1",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030954018493100700",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD G-AE",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Overhead Projector",
+    "longICN": "030954019269100100",
+    "details": 
+
+    [
+        "MFGR DREAMLAND",
+        "MOD PG-737"
+    ],
+    "price": 139.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030954019379100100",
+    "details": 
+
+    [
+        "MFGR GALLS",
+        "MOD STREETVIEW",
+        "NO NIGHT VISION"
+    ],
+    "price": 49.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Overhead Projector",
+    "longICN": "030954019872100100",
+    "details": 
+
+    [
+        "MFGR NEC",
+        "MOD NP100"
+    ],
+    "price": 79.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "030623006649100100",
+    "details": 
+
+    [
+        "MFGR FAVI",
+        "MOD RIO HD35",
+        "PROJECTOR"
+    ],
+    "price": 9.98,
+    "distance": 366.9398,
+    "storeNumber": "03081",
+    "shortName": "C3081"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030624007739200200",
+    "details": 
+
+    [
+        "MFGR EMERSON",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 366.9398,
+    "storeNumber": "03081",
+    "shortName": "C3081"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031493009395100100",
+    "details": 
+
+    [
+        "MFGR GALILEO",
+        "MOD MARS FINDER"
+    ],
+    "price": 69.99,
+    "distance": 375.8646,
+    "storeNumber": "03149",
+    "shortName": "C3149"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031494012281100200",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD LRF600"
+    ],
+    "price": 99.99,
+    "distance": 375.8646,
+    "storeNumber": "03149",
+    "shortName": "C3149"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031073005445100100",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 312",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031073005445100200",
+    "details": 
+
+    [
+        "MFGR FOCAL",
+        "MOD SIAMCAT",
+        "W/ NIGHT VISION"
+    ],
+    "price": 34.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004127200500",
+    "details": 
+
+    [
+        "MFGR MERCURY",
+        "MOD 1117",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004138200200",
+    "details": 
+
+    [
+        "MFGR SIMMONS",
+        "MOD 1137",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004561200800",
+    "details": 
+
+    [
+        "MFGR CAMO",
+        "MOD 20X36DCF",
+        "NO NIGHT VISION"
+    ],
+    "price": 5.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004775200100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD TRAILBLAZER",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004914200100",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 178BCR",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031074004931200100",
+    "details": 
+
+    [
+        "MFGR REX OPTICS",
+        "MOD RX8434"
+    ],
+    "price": 9.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031074004931200200",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD GOLDEN ANTLER",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031074006962100100",
+    "details": 
+
+    [
+        "MFGR MEADE"
+    ],
+    "price": 41.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031074007632100100",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 999VR"
+    ],
+    "price": 99.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "030624005453200100",
+    "details": 
+
+    [
+        "MFGR WILDGAME INNOVATIONS",
+        "MOD R400"
+    ],
+    "price": 49.99,
+    "distance": 389.0208,
+    "storeNumber": "03064",
+    "shortName": "C3064"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030623007923100200",
+    "details": 
+
+    [
+        "MFGR PENNCREST",
+        "MOD 2084561",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030624006196200100",
+    "details": 
+
+    [
+        "MFGR JASON",
+        "MOD 1111",
+        "7X35 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 9.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "030624006767200300",
+    "details": 
+
+    [
+        "MFGR MAG LITE",
+        "FLASHLIGHT"
+    ],
+    "price": 16.98,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030624007741200100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD T840",
+        "8X40 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 14.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "030624008508200100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 72-3943"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030624014566100200",
+    "details": 
+
+    [
+        "MFGR TASCO",
+        "MOD 168BCR",
+        "10X25 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "031274010370100100",
+    "details": 
+
+    [
+        "MFGR DISCOVERY EXPEDITION",
+        "MOD 1625075",
+        "PROJECTOR"
+    ],
+    "price": 49.99,
+    "distance": 400.4565,
+    "storeNumber": "03127",
+    "shortName": "C3127"
+
+},
+{
+
+    "itemName": "Overhead Projector",
+    "longICN": "031263013037100100",
+    "details": 
+
+    [
+        "MFGR NEC",
+        "MOD NP510"
+    ],
+    "price": 399.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Overhead Projector",
+    "longICN": "031264011603200100",
+    "details": 
+
+    [
+        "MFGR NEC",
+        "MOD NP215"
+    ],
+    "price": 249.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Projector",
+    "longICN": "031264012195200100",
+    "details": 
+
+    [
+        "MFGR FAVI",
+        "MOD RIO HD35",
+        "PROJECTOR"
+    ],
+    "price": 49.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031264017714100200",
+    "details": 
+
+    [
+        "MFGR COMET",
+        "MOD LONG EYE RELIEF",
+        "80X90 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031264019489100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD 13-7016",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 39.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Optic Equipment",
+    "longICN": "031443011360100100",
+    "details": 
+
+    [
+        "MFGR MOTOROLA",
+        "MOD MBP34BU",
+        "VIDEO CAPABLE BABY MONITOR"
+    ],
+    "price": 69.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031443011945100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD P-223"
+    ],
+    "price": 129.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031444009704200200",
+    "details": 
+
+    [
+        "MFGR ZIPPO",
+        "MOD 7550-123BK",
+        "NO NIGHT VISION"
+    ],
+    "price": 19.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "031444009751200100",
+    "details": 
+
+    [
+        "MFGR FOCAL",
+        "MOD 20-20-64"
+    ],
+    "price": 19.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031444013051100100",
+    "details": 
+
+    [
+        "MFGR BRUNTON",
+        "MOD ECHO842",
+        "84X42 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 149.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Spotting Scope",
+    "longICN": "031444013100100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD PROSTAFF 550"
+    ],
+    "price": 149.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "031444014427100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD AO",
+        "35X70 MM",
+        "NO NIGHT VISION"
+    ],
+    "price": 59.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030393013547100300",
+    "details": 
+
+    [
+        "MFGR VANGUARD",
+        "MOD BINOCULARS",
+        "NO NIGHT VISION"
+    ],
+    "price": 89.99,
+    "distance": 418.97,
+    "storeNumber": "03090",
+    "shortName": "C3090"
+
+},
+{
+
+    "itemName": "Telescope",
+    "longICN": "030604006257200100",
+    "details": 
+
+    [
+        "MFGR EDU SCIENCE",
+        "MOD MICRO/TELESCOPE"
+    ],
+    "price": 32.99,
+    "distance": 419.5354,
+    "storeNumber": "03060",
+    "shortName": "C3060"
+
+},
+{
+
+    "itemName": "Binoculars",
+    "longICN": "030604006453200100",
+    "details": 
+
+        [
+            "MFGR OPTEX",
+            "MOD 135",
+            "NO NIGHT VISION"
+        ],
+        "price": 19.99,
+        "distance": 419.5354,
+        "storeNumber": "03060",
+        "shortName": "C3060"
+    }
+
+]

@@ -1,0 +1,56 @@
+<div class="container-fluid text-center productpage" ng-controller="productCtrl">
+  <h4 class="panel-heading">Products</h4>
+  <form action="" class="navbar-form navbar-right">
+    <div class="input-group">
+      <div class="input-group-btn">
+        <button class="btn btn-info"> <span class="glyphicon glyphicon-search"></span> </button>
+      </div>
+      <input type="Search" placeholder="Search all products.." class="form-control" ng-change="searchKeys()" ng-model="searchKey.key"/>
+
+
+    <!--  <div class="panel-body" ng-repeat="search in searchResults"> 
+          <a href="" ui-sref="productsDetail" ng-click="product_Detail(search.categoryCode,search.categoryName)">
+            <img src="images/{{search.categoryCode}}.png" class="category-image" width="25"/> {{search.categoryName}} 
+          </a>
+      </div>-->
+    </div>
+    
+  </form>
+  <div class="panel-group">
+    <div class="panel panel-default" ng-repeat="search in searchResults">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a href="" ui-sref="productsDetail" ng-click="product_Detail(search.categoryCode,search.categoryName)">
+            <img src="images/{{search.categoryCode}}.png" class="category-image" width="25"/> {{search.categoryName}} 
+          </a> 
+        </h4>
+      </div>
+      
+    </div>
+  </div>
+ 
+  <div class="panel-group pan_height" id="accordion">
+    <div class="panel panel-default" ng-repeat="category in mainCategory">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+         <a href="javascript:;"  data-toggle="collapse" data-parent="#accordion"   data-target="#collapse{{category.categoryCode}}"> <img src="images/{{category.categoryCode}}.png" class="category-image" width="25"> {{category.categoryName}} <span class="glyphicon glyphicon-plus" ng-click="getSubcatagory($event)" 
+           data="{{category.categoryCode}}"></span>
+         </a> </h4>
+      </div>
+      <div id="collapse{{category.categoryCode}}" class="panel-collapse collapse" >
+        <div class="panel-body" ng-repeat="subcategory in subCategory"> 
+          <a href="" ui-sref="productsDetail" ng-click="product_Detail(subcategory.categoryCode,subcategory.categoryName)">
+            <img src="images/{{subcategory.categoryCode}}.png" class="category-image" width="25"/> {{subcategory.categoryName}} 
+          </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <ul class="nav nav-tabs navbar-fixed-bottom">
+    <li><a  data-toggle="tab" href="#" ui-sref="home" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>
+    <li ><a  data-toggle="tab" href="#" ui-sref="products"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>
+    <li><a href="#" data-toggle="tab" ui-sref="stores"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>
+    <li><a href="#" data-toggle="tab" ui-sref="offers"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>
+  </ul>
+</div>

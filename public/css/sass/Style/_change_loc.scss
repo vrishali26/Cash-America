@@ -1,0 +1,93 @@
+
+.change_loc{
+  h1{
+    font-size: 23px;
+    color: white;
+    .close{
+      width:20px;
+      height:20px;
+      background-image:url("../images/close.png");
+      background-repeat:no-repeat;
+      margin-right: 20px;
+      margin-top: 5px;
+    }
+  }
+  input,select{
+    padding-left:60px;
+    height: 45px;
+    font-size:17.5px;
+    width:100%;
+  }
+  .glyphicon-city{
+    width:20px;
+    height:20px;
+      background: transparent url("../images/city.png") no-repeat scroll 0px 0px;
+      background-size: 100%;
+      position: absolute;
+      left: 25px;
+      top: 30%;
+    }
+    
+  .glyphicon-state{
+    width:20px;
+    height:20px;
+      background: transparent url("../images/state.png") no-repeat scroll 0px 0px;
+      background-size: 100%;
+      position: absolute;
+      left: 25px;
+      top: 30%;
+    }
+  .glyphicon-location{
+    width:20px;
+    height:20px;
+      background: transparent url("../images/location.png") no-repeat scroll 0px 0px;
+      background-size: 75%;
+      position: absolute;
+      left: 25px;
+      top: 50%;
+    }
+    .form-control[disabled]{
+      cursor: default;
+     
+    }
+    .form-control{
+      border: none;
+      box-shadow:none;
+    }
+    .form-group{
+      p{
+        text-align:left;
+        margin-left:25px;
+        margin-top: 5px;
+        margin-bottom: 0;
+        color:#3478c3;
+      }
+    }
+    .disabledInput {
+      width:100%;
+      background-color: #FFF;
+      border: none;
+    }
+    .blue-btn{
+      background: transparent linear-gradient(to bottom, #50AAE2 0%, #2A8AD4 99%) repeat scroll 0% 0%;
+      height: 38px;
+      color: #FFF;
+      width: 80%;
+      border: medium none;
+      margin-top: 20px;
+      margin-bottom:20px;
+    }
+   input::-webkit-input-placeholder { font-size: 17.5px; color: #bababa; }
+  input::-moz-placeholder { font-size: 17.5px; color: #bababa; }
+  input:-ms-input-placeholder { font-size: 17.5px; color: #bababa; }
+  input:-moz-placeholder { font-size: 17.5px; color: #bababa; }
+  
+  .disabledInput{
+    padding-left:25px;
+  }
+   input.disabledInput::-webkit-input-placeholder { font-size: 17.5px; color: #3478c3; opacity:1;}
+  input.disabledInput::-moz-placeholder { font-size: 17.5px; color: #3478c3;  opacity:1;}
+  input.disabledInput:-ms-input-placeholder { font-size: 17.5px; color: #3478c3;  opacity:1;}
+  input.disabledInput:-moz-placeholder { font-size: 17.5px; color: #3478c3;  opacity:1;}
+  
+}

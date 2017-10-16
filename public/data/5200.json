@@ -1,0 +1,1623 @@
+[
+
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031144002680200100",
+    "details": 
+
+    [
+        "MFGR SIREN",
+        "MOD FOTOFRAME",
+        "DIGITALFRAME"
+    ],
+    "price": 9.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "031144003210200200",
+    "details": 
+
+    [
+        "MFGR AMBICO",
+        "MOD TRIPOD"
+    ],
+    "price": 5.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030674004540200100",
+    "details": 
+
+    [
+        "MFGR POLAROID",
+        "MOD ZINK CZA-10011B",
+        "PORTABLE PRINTER"
+    ],
+    "price": 32.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030674010394100200",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD E-72MM",
+        "28-135MM MM"
+    ],
+    "price": 169.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030674011190100100",
+    "details": 
+
+    [
+        "MFGR LS",
+        "MOD PRO PHOTO STUDIO",
+        "PRO STUDIO SET UP"
+    ],
+    "price": 99.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "030714003545200100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD SB-800"
+    ],
+    "price": 45.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030714003901200100",
+    "details": 
+
+    [
+        "MFGR HEWLETT PACKARD",
+        "MOD PHOTOSMART A716",
+        "CAMERA PRINTER"
+    ],
+    "price": 79.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030714006472100100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD EF 75-300MM",
+        "F/4-5.6 III F-STOP"
+    ],
+    "price": 79.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030714006874100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF-S VR-NIKKOR 70-200MM",
+        "70-200 MM",
+        "30 F-STOP"
+    ],
+    "price": 399.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030714006874100200",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF-S NIKKOR 17-55MM",
+        "10 F-STOP"
+    ],
+    "price": 399.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030714006883100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD NIKKOR",
+        "NO F-STOP"
+    ],
+    "price": 179.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030714006900100100",
+    "details": 
+
+    [
+        "70-300 MM",
+        "50 F-STOP"
+    ],
+    "price": 79.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030714006903100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF NIKKOR 70-210MM",
+        "1:4-5.6 F-STOP"
+    ],
+    "price": 179.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030714006925100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF NIKKOR 300",
+        "1:2.8 F-STOP"
+    ],
+    "price": 2999.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031143002390200100",
+    "details": 
+
+    [
+        "MFGR GIINII",
+        "MOD GN-801W",
+        "DIGITAL PIC FRAME"
+    ],
+    "price": 24.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031144006246100200",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD DOCK SERIES 3",
+        "KODAKEASYSHAREPRINTER"
+    ],
+    "price": 74.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "031351001973100200",
+    "details": 
+
+    [
+        "MFGR VIVITAR",
+        "MOD STARTER KIT"
+    ],
+    "price": 9.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031351002396200100",
+    "details": 
+
+    [
+        "MFGR NEXTAR",
+        "MOD N5-105",
+        "DIGITAL PIC FRAME"
+    ],
+    "price": 4.88,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031352003580200200",
+    "details": 
+
+    [
+        "BATTERY"
+    ],
+    "price": 9.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "031352006594100100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD ZOOM LENS EF-S",
+        "18-55 MM",
+        "?? F-STOP"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "031352006594100200",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD SPEEDLITE 430EX"
+    ],
+    "price": 109.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031353004705200100",
+    "details": 
+
+    [
+        "MFGR NOVATRON",
+        "MOD 500",
+        "STUDIO LIGHTS"
+    ],
+    "price": 349.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031353006184200100",
+    "details": 
+
+    [
+        "WEB CAM"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "031353009526100300",
+    "details": 
+
+    [
+        "MFGR CANON"
+    ],
+    "price": 139.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "031353011732100100",
+    "details": 
+
+    [
+        "MFGR SONY",
+        "MOD HVL-F36AM"
+    ],
+    "price": 69.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031354006676200100",
+    "details": 
+
+    [
+        "MFGR SLICE",
+        "MOD 30750",
+        "CORDLESS DESIGN CUTTER"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "031354007624200100",
+    "details": 
+
+    [
+        "MFGR NIKKON",
+        "MOD AFS",
+        "1 F-STOP"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Fixed Focus Camera Lens",
+    "longICN": "030714003458200100",
+    "details": 
+
+    [
+        "#4 F-STOP"
+    ],
+    "price": 19.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030733003265200100",
+    "details": 
+
+    [
+        "MFGR SUNPAK",
+        "MOD PLATINUM PLUS 6400UT"
+    ],
+    "price": 9.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030733003744100100",
+    "details": 
+
+    [
+        "MFGR SIGMA",
+        "MOD EXDC FISHEYE HSM",
+        "10MM MM",
+        "F2 F-STOP"
+    ],
+    "price": 329.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030733003812100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD TAMRON 70-300",
+        "70-300MM MM",
+        "F4 F-STOP"
+    ],
+    "price": 99.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030734004864200200",
+    "details": 
+
+    [
+        "MFGR VELBON",
+        "MOD CX300"
+    ],
+    "price": 9.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030734004880200200",
+    "details": 
+
+    [
+        "MFGR SMARTPARTS",
+        "MOD SP800WS",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 29.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030734006691100100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD 226779",
+        "77MM MM",
+        "70-200MM ULTRA SONIC F-STOP"
+    ],
+    "price": 149.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030734006691100200",
+    "details": 
+
+    [
+        "MFGR TOKINA",
+        "MOD 67",
+        "24-70MM MM",
+        "4.8 F-STOP"
+    ],
+    "price": 39.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030734006691100300",
+    "details": 
+
+    [
+        "MFGR TAMRON",
+        "MOD ASPHERICAL XR DI.",
+        "28-75MM F-STOP"
+    ],
+    "price": 39.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031093016542200100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD EASYSHARE P85",
+        "DIGITAL PHOTO FRAME"
+    ],
+    "price": 24.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031093016556100200",
+    "details": 
+
+    [
+        "MFGR COBY",
+        "MOD DP700WD",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 19.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031093020498100200",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD PRINTERDOCK",
+        "PRINTER DOCK"
+    ],
+    "price": 29.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094018278200100",
+    "details": 
+
+    [
+        "MFGR SMARTPARTS",
+        "MOD SPX8E",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 9.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094018618200100",
+    "details": 
+
+    [
+        "MFGR CEIVA",
+        "MOD CEIVA3",
+        "DIGITAL PHOTO FRAME"
+    ],
+    "price": 29.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094018931200100",
+    "details": 
+
+    [
+        "MFGR SONY",
+        "MOD DPF-D70",
+        "PICTURE FRAME"
+    ],
+    "price": 49.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "031094019672200100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD EF 135 MM",
+        "2L USM F-STOP"
+    ],
+    "price": 599.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094023572100200",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD EASYSHARE PRINTER DOCK SERIES",
+        "PRINTER DOCK"
+    ],
+    "price": 19.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094023981100300",
+    "details": 
+
+    [
+        "MFGR GIGAWARE",
+        "MOD 16-952",
+        "PICTURE FRAME"
+    ],
+    "price": 9.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031094024458100100",
+    "details": 
+
+    [
+        "MFGR COBY",
+        "MOD DP702",
+        "DIGITAL PIC FRAME"
+    ],
+    "price": 14.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030854014196200100",
+    "details": 
+
+    [
+        "MFGR GEAR HEAD",
+        "MOD 8-5DPF150",
+        "KEYBOARD"
+    ],
+    "price": 9.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030854014244200100",
+    "details": 
+
+    [
+        "MFGR POLARIOD",
+        "MOD CZA 10011B",
+        "POCKET PRINTER FOR PICS"
+    ],
+    "price": 39.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030854014313200100",
+    "details": 
+
+    [
+        "MFGR ALURATEK",
+        "MOD ADMPF110",
+        "INTERNET RADIO ALARM CLOCK"
+    ],
+    "price": 14.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030954008878200200",
+    "details": 
+
+        [
+            "MFGR KODAK",
+            "MOD K630",
+            "CAMERA BATTERY CHARGER"
+        ],
+        "price": 4.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030954020010100100",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF-S NIKKOR 70-300MM",
+        "4.5-5.6 F-STOP"
+    ],
+    "price": 299.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031074007077100100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD N137",
+        "9.2 MPX CAMERA"
+    ],
+    "price": 9.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030622004977100300",
+    "details": 
+
+    [
+        "MFGR OPTEKA",
+        "MOD XGRIP"
+    ],
+    "price": 24.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030623008559100400",
+    "details": 
+
+    [
+        "MFGR PHILIPS",
+        "MOD SPF3007D/G7",
+        "DIGITAL PIC FRAME"
+    ],
+    "price": 14.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030624005558200100",
+    "details": 
+
+    [
+        "MFGR CULLMANN",
+        "MOD 53200"
+    ],
+    "price": 29.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624006346200200",
+    "details": 
+
+    [
+        "MFGR APPLE",
+        "MOD A1441",
+        "SD CARD CAMERA READER"
+    ],
+    "price": 9.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030624006377200100",
+    "details": 
+
+    [
+        "MFGR ZEIKOS",
+        "MOD ZETR26A"
+    ],
+    "price": 9.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624007204200100",
+    "details": 
+
+    [
+        "MFGR MEMORY FRAME",
+        "MOD MF-801",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 9.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624007225200100",
+    "details": 
+
+    [
+        "MFGR BPIDON",
+        "MOD SDP-704C",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 29.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624007469200100",
+    "details": 
+
+    [
+        "MFGR SHARPER IMAGE",
+        "MOD 1631045",
+        "DIGITAL PICTURE KEY CHAIN"
+    ],
+    "price": 9.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030624007674200200",
+    "details": 
+
+    [
+        "MFGR NIKON",
+        "MOD AF-SNIKKOR",
+        "55-200 F-STOP"
+    ],
+    "price": 99.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624007795200400",
+    "details": 
+
+    [
+        "MFGR HEWLETT PACKARD",
+        "MOD Q8475A",
+        "PHOTO PRINTER"
+    ],
+    "price": 39.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030624007980200100",
+    "details": 
+
+    [
+        "MFGR NIXPLAY",
+        "MOD W12A-01",
+        "DIGITAL PICTURE FRAME"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030624008632200100",
+    "details": 
+
+    [
+        "MFGR OPTEKA",
+        "MOD HD2"
+    ],
+    "price": 29.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030624014433100100",
+    "details": 
+
+    [
+        "MFGR SIGMA",
+        "MOD 300 MM F2.8"
+    ],
+    "price": 1699.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "031264010623200100",
+    "details": 
+
+    [
+        "MFGR SIGMA",
+        "MOD DL ZOOM"
+    ],
+    "price": 29.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031264011683200100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD CP-220",
+        "PHOTO PRINTER"
+    ],
+    "price": 29.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031264011865200100",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD CP760",
+        "PHOTO PRINTER"
+    ],
+    "price": 44.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031264011865200200",
+    "details": 
+
+    [
+        "MFGR CANON",
+        "MOD CP760",
+        "PHOTO PRINTER"
+    ],
+    "price": 44.99,
+    "distance": 406.3567,
+    "storeNumber": "03126",
+    "shortName": "C3126"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031444014240100200",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD N137",
+        "KODAK DOCKING STATION"
+    ],
+    "price": 59.99,
+    "distance": 414.6729,
+    "storeNumber": "03144",
+    "shortName": "C3144"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030603004941200100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD EASYSHARE PRINTER DOCK",
+        "PRINTER W/CAMERA"
+    ],
+    "price": 19.99,
+    "distance": 419.5354,
+    "storeNumber": "03060",
+    "shortName": "C3060"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "012234003825200100",
+    "details": 
+
+    [
+        "MFGR CANON"
+    ],
+    "price": 169.99,
+    "distance": 420.375,
+    "storeNumber": "01223",
+    "shortName": "Grb03"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "012234011532100600",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 420.375,
+    "storeNumber": "01223",
+    "shortName": "Grb03"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "012235004760200100",
+    "details": 
+
+    [
+        "MFGR YASHICA"
+    ],
+    "price": 19.99,
+    "distance": 420.375,
+    "storeNumber": "01223",
+    "shortName": "Grb03"
+
+},
+{
+
+    "itemName": "Misc. Camera Lens",
+    "longICN": "012224044169100100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "012224044169100200",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Misc. Camera Lens",
+    "longICN": "012224044169100300",
+    "details": [ ],
+    "price": 9.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Fixed Focus Camera Lens",
+    "longICN": "012224044169100400",
+    "details": [ ],
+    "price": 29.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "012225153677200100",
+    "details": [ ],
+    "price": 89.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030913004753200500",
+    "details": 
+
+    [
+        "MFGR VANGUARD",
+        "MOD VT548"
+    ],
+    "price": 29.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Auto Focus Camera Lens",
+    "longICN": "030913004881200300",
+    "details": 
+
+    [
+        "MFGR TAMRON",
+        "MOD 171D",
+        "28-200M F-STOP"
+    ],
+    "price": 64.98,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030913004963200100",
+    "details": 
+
+    [
+        "MFGR NEXTAR",
+        "MOD N7T-106",
+        "DIGITAL PHOTO FRAME"
+    ],
+    "price": 19.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030913008931100200",
+    "details": 
+
+    [
+        "MFGR MINOLTA",
+        "MOD 70-210AF",
+        "70-210 F-STOP"
+    ],
+    "price": 99.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "030913008931100300",
+    "details": 
+
+    [
+        "MFGR MINOLTA",
+        "MOD AF 50",
+        "50 F-STOP"
+    ],
+    "price": 49.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "030913008931100400",
+    "details": 
+
+    [
+        "MFGR MINOLTA",
+        "MOD 2800AF"
+    ],
+    "price": 29.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030914006857200100",
+    "details": 
+
+    [
+        "MFGR GIINII",
+        "MOD GT-7AWP-1",
+        "DIGITAL PHOTO FRAME"
+    ],
+    "price": 14.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030914007348200100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD G610",
+        "PRINTER"
+    ],
+    "price": 19.99,
+    "distance": 424.2471,
+    "storeNumber": "03091",
+    "shortName": "C3091"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "012215350480100100",
+    "details": 
+
+    [
+        "MFGR CANON"
+    ],
+    "price": 99.99,
+    "distance": 424.2808,
+    "storeNumber": "01221",
+    "shortName": "Grb01"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "012215350857100200",
+    "details": 
+
+    [
+        "MFGR NIKON"
+    ],
+    "price": 199.99,
+    "distance": 424.2808,
+    "storeNumber": "01221",
+    "shortName": "Grb01"
+
+},
+{
+
+    "itemName": "Fixed Focus Camera Lens",
+    "longICN": "030643002599200200",
+    "details": 
+
+    [
+        "MFGR JCPENNEY",
+        "MOD SLR LENS",
+        "NO F-STOP"
+    ],
+    "price": 9.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Camera Flash",
+    "longICN": "030643002599200300",
+    "details": 
+
+    [
+        "MFGR JCPENNEY",
+        "MOD ELECTRONIC STROBE"
+    ],
+    "price": 0.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "031153008744100200",
+    "details": 
+
+    [
+        "MFGR QUICK-SET",
+        "MOD SD2"
+    ],
+    "price": 9.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031154006176200100",
+    "details": 
+
+    [
+        "MFGR INSIGNIA",
+        "MOD NS-DPF0712G",
+        "DIGITAL PIC FRAME"
+    ],
+    "price": 9.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "031154010893100200",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD G610",
+        "PHOTO PRINTING DOCK"
+    ],
+    "price": 39.99,
+    "distance": 425.872,
+    "storeNumber": "03115",
+    "shortName": "C3115"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "030373001857200200",
+    "details": 
+
+    [
+        "MFGR DIGITAL CONCEPTS",
+        "MOD NOT VISIABLE"
+    ],
+    "price": 14.97,
+    "distance": 432.7651,
+    "storeNumber": "03043",
+    "shortName": "C3043"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030614004962200100",
+    "details": 
+
+    [
+        "MFGR KODAK",
+        "MOD P730",
+        "DIGITAL PHOTO FRAME"
+    ],
+    "price": 19.99,
+    "distance": 432.8797,
+    "storeNumber": "03061",
+    "shortName": "C3061"
+
+},
+{
+
+    "itemName": "Misc. Camera Accessory",
+    "longICN": "030614005405200100",
+    "details": 
+
+    [
+        "MFGR SHIFT3",
+        "MOD DIGITAL PHOTO ALBUM",
+        "PHOTO ALBUM KEYCHAIN"
+    ],
+    "price": 9.99,
+    "distance": 432.8797,
+    "storeNumber": "03061",
+    "shortName": "C3061"
+
+},
+{
+
+    "itemName": "Camera Tripod",
+    "longICN": "012325050967200200",
+    "details": [ ],
+    "price": 9.99,
+    "distance": 435.3464,
+    "storeNumber": "01232",
+    "shortName": "WS02"
+
+},
+{
+
+    "itemName": "Fixed Focus Camera Lens",
+    "longICN": "012314057788200100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 436.6521,
+    "storeNumber": "01231",
+    "shortName": "WS01"
+
+},
+{
+
+    "itemName": "Zoom Camera Lens",
+    "longICN": "012314058484200100",
+    "details": 
+
+        [
+            "MFGR SIGMA"
+        ],
+        "price": 39.99,
+        "distance": 436.6521,
+        "storeNumber": "01231",
+        "shortName": "WS01"
+    }
+
+]

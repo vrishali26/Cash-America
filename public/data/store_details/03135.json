@@ -1,0 +1,85 @@
+{
+  "phone": "7406762395",
+  "address": {
+    "address1": "380 38Th Street",
+    "address2": "",
+    "state": "OH",
+    "city": "Bellaire",
+    "zipCode": "43906"
+  },
+  "services": [
+    "Pawn Loans",
+    "Payday Advances",
+    "Check Cashing",
+    "Prepaid Debit Card",
+    "Money Orders",
+    "Auto Equity Loans",
+    "Insurance",
+    "Gold Purchase",
+    "Money Transfers",
+    "Income Tax"
+  ],
+  "weeklyHours": [
+    {
+      "weekDay": "Monday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": true
+    },
+    {
+      "weekDay": "Tuesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Wednesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Thursday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Friday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Saturday",
+      "openTime": "9:00 am",
+      "closeTime": "5:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Sunday",
+      "openTime": "CLOSED",
+      "closeTime": "CLOSED",
+      "isToday": false
+    }
+  ],
+  "licenses": [
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "100486.043-BR",
+      "licenseType": "Pawnbroker License"
+    },
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "700274.131-BR",
+      "licenseType": "Check Cashing License"
+    },
+    {
+      "businessEntity": "Cashland Financial Services Inc.",
+      "licenseNumber": "SM.501561.126-BR",
+      "licenseType": "Payday Loan License"
+    }
+  ],
+  "storeNumber": "03135",
+  "shortName": "C3135"
+}

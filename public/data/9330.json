@@ -1,0 +1,1491 @@
+[
+  {
+    "itemName": "Coat",
+    "longICN": "013514266117100100",
+    "details": [
+      "MFGR N/A",
+      "MENS",
+      "SIZE XL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013515268424100100",
+    "details": [
+      "MFGR WILSON",
+      "MENS",
+      "SIZE 1X",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013515270016200100",
+    "details": [
+      "MFGR WILSONS",
+      "BLUE LINED",
+      "SIZE L",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013515272583200100",
+    "details": [
+      "MFGR BEYOND",
+      "MENS",
+      "SIZE XXL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013533268660100100",
+    "details": [
+      "MFGR LEATHERWORKS",
+      "LEATHER JACKET",
+      "SIZE SMALL",
+      "LEATHER JACKET",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454270200100100",
+    "details": [
+      "MFGR BURTON",
+      "SNOW",
+      "SIZE 10-12",
+      "NYLON",
+      "TEAL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454272581100100",
+    "details": [
+      "MFGR N/A",
+      "MODERN",
+      "SIZE S",
+      "LEATHER",
+      "RED"
+    ],
+    "price": 119.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454273808100100",
+    "details": [
+      "MFGR N/A",
+      "TRENCHCOAT",
+      "SIZE M",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454277414200100",
+    "details": [
+      "MFGR MICHAEL KORS",
+      "PEA COAT",
+      "SIZE 10",
+      "WOOL",
+      "MANDARIN ORANGE"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454280075100100",
+    "details": [
+      "MFGR N/A",
+      "TRENCH COAT",
+      "SIZE XL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454282310100100",
+    "details": [
+      "MFGR NFL",
+      "SUPERBOWL DETROIT",
+      "SIZE XXL",
+      "LEATHER",
+      "RED/BLUE/BLK"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454283707200100",
+    "details": [
+      "MFGR KENNETH COLE",
+      "RIDING",
+      "SIZE S/M",
+      "POLY",
+      "BLK"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013454283955100100",
+    "details": [
+      "MFGR CHARLES KLEIN",
+      "LEATHER",
+      "SIZE L",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013455286661200100",
+    "details": [
+      "MFGR BONUS",
+      "BIKER",
+      "SIZE 46",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624114425200100",
+    "details": [
+      "MFGR CASUAL CORNER",
+      "LETHER",
+      "SIZE 9-10",
+      "KOREAN LEATHER",
+      "BROWN"
+    ],
+    "price": 12.0,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624115897200100",
+    "details": [
+      "MFGR N/A",
+      "LADIES",
+      "SIZE L",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 5.0,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624116235100100",
+    "details": [
+      "MFGR AVIVA",
+      "ALLIGATOR",
+      "SIZE XL",
+      "ALLIGATER",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624120286100100",
+    "details": [
+      "MFGR N/A",
+      "JEANS",
+      "SIZE 2X",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624123648100100",
+    "details": [
+      "MFGR PELLE PELLE",
+      "LAKERS JACKET",
+      "SIZE 56",
+      "LEATHER",
+      "WHITE, YELLOW, AND BLUE"
+    ],
+    "price": 299.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624124700100100",
+    "details": [
+      "MFGR NIKE",
+      "SIZE 3XL",
+      "WOOL",
+      "BLK",
+      "BIB"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624125497200100",
+    "details": [
+      "MFGR WILSON",
+      "FASHION",
+      "SIZE L",
+      "LEATHER",
+      "BLK, PURPLE INSIDE"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624126817200100",
+    "details": [
+      "MFGR ALPINESTARS",
+      "MOTORCYCLE JACKET",
+      "SIZE XXL",
+      "MESH",
+      "BLK, WHITE, BLUE"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624126911100100",
+    "details": [
+      "MFGR COOGI",
+      "LEATHER",
+      "SIZE XL",
+      "LEATHER",
+      "BLK W/ MULTI COLO INTERIOR"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624127043100100",
+    "details": [
+      "MFGR RUE 21",
+      "WOMENS",
+      "SIZE XL",
+      "SYNTHETIC LEATHER",
+      "WHITE & BLK"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624128642100100",
+    "details": [
+      "MFGR FIRST",
+      "LEATHER",
+      "SIZE M",
+      "BLK"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624130278100100",
+    "details": [
+      "MFGR LEATHER KING",
+      "VEST",
+      "SIZE 46",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624130336100100",
+    "details": [
+      "MFGR JOE ROCKET",
+      "WOMENS",
+      "SIZE L",
+      "POLYESTER",
+      "BLK/PINK"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013624131221100100",
+    "details": [
+      "MFGR INTERNATIONAL CONCEPTS",
+      "SIZE M",
+      "FAUX FUR",
+      "BEIGE"
+    ],
+    "price": 54.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013625131828100100",
+    "details": [
+      "MFGR N/A",
+      "MENS",
+      "SIZE NOT LISTED",
+      "LEATHER",
+      "WHITE/BLUE/RED/SILVER"
+    ],
+    "price": 44.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013625132124200100",
+    "details": [
+      "MFGR BBDAKOTA",
+      "LEATHER",
+      "SIZE S",
+      "LEATHER & NYLON",
+      "TAN"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013625132125200100",
+    "details": [
+      "MFGR MAXIMA",
+      "LEATHER",
+      "SIZE M",
+      "LEATHER & NYLON",
+      "DARK BROWN & GREEN"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013625136490200100",
+    "details": [
+      "MFGR MARK ECKO",
+      "CLASSIC",
+      "SIZE 2X",
+      "CORDUROY",
+      "BROWN"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323369625100100",
+    "details": [
+      "MFGR REPORTAGE",
+      "SIZE M",
+      "SWADE",
+      "TAN"
+    ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323372079100100",
+    "details": [
+      "MFGR KING SIZE",
+      "LEATHER JACKET",
+      "SIZE 4XL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323372245100100",
+    "details": [
+      "MFGR JACQUELINE FERRAR",
+      "FASHION",
+      "SIZE LARGE",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323373336100100",
+    "details": [
+      "MFGR A/E",
+      "FASHION",
+      "SIZE XXL",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323373382100100",
+    "details": [
+      "MFGR TERRITORY AHEAD",
+      "MID LENTH",
+      "SIZE L",
+      "LEATHER",
+      "BRO",
+      "BIB"
+    ],
+    "price": 290.0,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323373864200100",
+    "details": [
+      "MFGR WILSONS LEATHER",
+      "JACKET",
+      "SIZE M",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013323376455100100",
+    "details": [
+      "MFGR N/A",
+      "LEATHER",
+      "SIZE 5XL",
+      "TAN"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324382036100100",
+    "details": [
+      "MFGR WILSONS LEATHER",
+      "FASHION",
+      "SIZE MEDIUM",
+      "LEATHER",
+      "BLK/RED"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324382430200100",
+    "details": [
+      "MFGR WILSON",
+      "MNS",
+      "SIZE XL",
+      "LEATHER",
+      "BRO"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324386621100100",
+    "details": [
+      "MFGR WILSON",
+      "SUDE&LEATEER",
+      "SIZE 42",
+      "LETER",
+      "BRO"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324388040200100",
+    "details": [
+      "MFGR M. JULIAN",
+      "FASHION",
+      "SIZE SMALL",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324393627100100",
+    "details": [
+      "MFGR COVINGTON",
+      "SIZE M",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324394358100100",
+    "details": [
+      "MFGR I-N-C",
+      "LEATHER",
+      "SIZE S",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324396215200100",
+    "details": [
+      "MFGR JULIANO CELINI",
+      "ALL",
+      "SIZE 2XL",
+      "LEATER",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324396216200100",
+    "details": [
+      "MFGR R.G.A",
+      "LEATER",
+      "SIZE L",
+      "LEATER",
+      "BLK"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324399921100100",
+    "details": [
+      "MFGR AMERICAN LEATHER",
+      "SIZE L",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324399937100100",
+    "details": [
+      "MFGR VIVACCI",
+      "MODERN",
+      "SIZE LARGE",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013324401666100100",
+    "details": [
+      "MFGR JIM & MARYLOU",
+      "SIZE L",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+    {
+    "itemName": "Coat",
+    "longICN": "013324402361100100",
+    "details": [
+      "MFGR MISS ME",
+      "SIZE L",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013325406943200100",
+    "details": [
+      "MFGR ROUNDTREE & YORKE",
+      "SIZE XL",
+      "LEATHER",
+      "BRO"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013333496376200100",
+    "details": [
+      "MFGR N/A",
+      "LEATHER",
+      "SIZE N/V",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013333503237100100",
+    "details": [
+      "MFGR JACLYN",
+      "FASHION",
+      "SIZE S",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013333503273200100",
+    "details": [
+      "MFGR EXCELLED",
+      "FASHION",
+      "SIZE 36",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334507236200100",
+    "details": [
+      "MFGR WILSON",
+      "LEATHER",
+      "SIZE XL",
+      "LEATHER",
+      "BLK",
+      "PER ROGER"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334512796100100",
+    "details": [
+      "MFGR CITY STREETS",
+      "LEATHER",
+      "SIZE XL",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334515786100100",
+    "details": [
+      "MFGR ZONE",
+      "WINTER",
+      "SIZE L",
+      "LEATER",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334517457100100",
+    "details": [
+      "MFGR KILLTEC",
+      "SIZE L",
+      "SNOW BOARD",
+      "BLK"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334517458100100",
+    "details": [
+      "MFGR 686",
+      "SNOW BOARD",
+      "SIZE L",
+      "GREY/TAN"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013334521575200100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "BIKER",
+      "SIZE LARGE",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013335531442200100",
+    "details": [
+      "MFGR WILSONS",
+      "JACKET",
+      "SIZE S",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013464352580100100",
+    "details": [
+      "MFGR MITCHELL & NESS",
+      "ZIP UP",
+      "SIZE LARGE",
+      "COTTON",
+      "GREEN"
+    ],
+    "price": 99.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013464360725200100",
+    "details": [
+      "MFGR N/A",
+      "SIZE 12",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474270682100100",
+    "details": [
+      "MFGR WILSONS LEATHER",
+      "BLACK LEATHER",
+      "SIZE M",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 89.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474271021100100",
+    "details": [
+      "MFGR WILSONS LEATHER",
+      "WOMENS",
+      "SIZE L",
+      "SPECIAL LEATHER",
+      "BLACK"
+    ],
+    "price": 34.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474272933100100",
+    "details": [
+      "MFGR NY&CO",
+      "LEATHER",
+      "SIZE L",
+      "LEATHER",
+      "BRO"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474275224100100",
+    "details": [
+      "MFGR COWBOYS",
+      "NFL FOOTBALL",
+      "SIZE XL",
+      "DARK BLUE  GREY"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474277682100100",
+    "details": [
+      "MFGR EXCELLED",
+      "REVERSIBLE",
+      "SIZE MED",
+      "LEATHER AND IMITATION  FUR",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474277894100100",
+    "details": [
+      "MFGR SAVANNAH",
+      "MENS",
+      "SIZE M",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 39.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474279474100100",
+    "details": [
+      "MFGR STAFFORD",
+      "MENS",
+      "SIZE L",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474280178100100",
+    "details": [
+      "MFGR ROUNDTREE & YORKE",
+      "MENS",
+      "SIZE XL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474280239100100",
+    "details": [
+      "MFGR ICON",
+      "MENS",
+      "SIZE MEDIUM",
+      "BROWN",
+      "BIB@ LV 12"
+    ],
+    "price": 89.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474281109100100",
+    "details": [
+      "MFGR STACY ADAMS",
+      "OUTDOORS",
+      "SIZE LARGE",
+      "LEATHER/POLYESTER",
+      "GREY"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474281967100100",
+    "details": [
+      "MFGR HARD ROCK",
+      "LEATHER",
+      "SIZE XXL",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474283804100100",
+    "details": [
+      "MFGR MERONA",
+      "SIZE M",
+      "LEATHER",
+      "BRO"
+    ],
+    "price": 24.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474286104100100",
+    "details": [
+      "MFGR ROUNDTREE",
+      "SIZE L",
+      "LEATHER",
+      "CRACKED UP BRO"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013474290962100100",
+    "details": [
+      "MFGR SONS OF ANARCHY",
+      "LEATHER AND CLOTH",
+      "SIZE L",
+      "LEATHER",
+      "BLACK",
+      "BIB"
+    ],
+    "price": 79.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013421372363100100",
+    "details": [
+      "MFGR TERRY LEWIS",
+      "FAUX FUR",
+      "SIZE LARGE",
+      "FAUX FUR",
+      "BROWN"
+    ],
+    "price": 50.0,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013422381671100100",
+    "details": [
+      "MFGR STATE PROPERTY",
+      "3/4 TREANCH",
+      "SIZE 6X",
+      "NYLON",
+      "BLUE"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013422382975100100",
+    "details": [
+      "MFGR HINGE",
+      "FUR COAT IMITATION",
+      "SIZE M",
+      "FAUX FUR",
+      "DARK PURPLE"
+    ],
+    "price": 119.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013422384103100100",
+    "details": [
+      "MFGR WILSONS",
+      "COAT",
+      "SIZE M",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 26.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013422390642100100",
+    "details": [
+      "MFGR N/A",
+      "1/2 TRENCH",
+      "SIZE 2X",
+      "LEATHER",
+      "BLK",
+      "BIB"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423406533200100",
+    "details": [
+      "MFGR KAWASAKI",
+      "RIDING",
+      "SIZE LG",
+      "MESH",
+      "BLUE AND BLACK"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423412172100100",
+    "details": [
+      "MFGR L FURS",
+      "SHORT HAIT MINK FUR COAT",
+      "SIZE 20",
+      "MINK FUR",
+      "BLACK"
+    ],
+    "price": 399.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423415539200100",
+    "details": [
+      "MFGR ICON MOTOSPORTS",
+      "MOTORCYCLE JACKET",
+      "SIZE SMALL",
+      "COTTON",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423422470100100",
+    "details": [
+      "MFGR BRUNO GIOVANNI",
+      "MOTORCYCLE",
+      "SIZE MEDIUM",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423423982100100",
+    "details": [
+      "MFGR COLEBROOK",
+      "BLACK JACKER",
+      "SIZE XL",
+      "PLEATHER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423425650100100",
+    "details": [
+      "MFGR UNIK",
+      "BIKER",
+      "SIZE XXL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423426297100100",
+    "details": [
+      "MFGR BECOOL",
+      "PEACOAT",
+      "SIZE MED",
+      "FLEECE",
+      "GREY"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423427060200100",
+    "details": [
+      "MFGR CHARLES KLEIN",
+      "LEATHER",
+      "SIZE XL",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423427062200100",
+    "details": [
+      "MFGR OTELLO PELLE",
+      "HOODED",
+      "SIZE L",
+      "LEATHER",
+
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423427063200100",
+    "details": [
+      "MFGR GIII",
+      "RN54544",
+      "SIZE M",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013423427291100100",
+    "details": [
+      "MFGR N/A",
+      "LETHERMANS",
+      "SIZE XXL",
+      "SUADE",
+      "BLK/GREEN"
+    ],
+    "price": 69.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424428246200100",
+    "details": [
+      "MFGR WILSONS LEATHER",
+      "SIZE 2XL",
+      "LEATHER",
+      "BLK",
+      "BLK NASCAR LEATHER JACKET"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424428937200100",
+    "details": [
+      "MFGR N/A",
+      "LEATHER COAT",
+      "SIZE L",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424443936200100",
+    "details": [
+      "MFGR NFL",
+      "NFL",
+      "SIZE M",
+      "CANVAS",
+      "GOLD",
+      "SF 49RS JACKET GOLD"
+    ],
+    "price": 59.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424448243200100",
+    "details": [
+      "MFGR DANIEL CREMIEUX",
+      "SPORT",
+      "SIZE XL",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424449203100100",
+    "details": [
+      "MFGR N/A",
+      "JACKET",
+      "SIZE XL",
+      "POLYESTER",
+      "BLUE"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Coat",
+    "longICN": "013424449331200100",
+    "details": [
+      "MFGR BUELL",
+      "SPORTS",
+      "SIZE LARGE",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  }
+]

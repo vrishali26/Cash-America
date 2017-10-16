@@ -1,0 +1,1794 @@
+[
+
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030714006344100100",
+    "details": 
+
+    [
+        "MFGR ESTEBAN",
+        "MOD G-10",
+        "12 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Misc. Prof. Equipment",
+    "longICN": "031144003787200100",
+    "details": 
+
+    [
+        "MFGR KORG",
+        "MOD KO-1",
+        "YELLOW",
+        "NO CASE",
+        "SYNTHESIZER"
+    ],
+    "price": 39.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144006085100100",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GT15R",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 64.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "031144006879100100",
+    "details": 
+
+    [
+        "MFGR CAD",
+        "MOD GXL2200"
+    ],
+    "price": 94.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144006908100300",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD TD-35",
+        "160 WATTS",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 49.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144007357100200",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD MA104",
+        "4 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 14.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "031144007642100100",
+    "details": 
+
+    [
+        "MFGR SHURE BROTHERS",
+        "MOD SM58"
+    ],
+    "price": 29.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "031144007814100200",
+    "details": 
+
+    [
+        "MFGR IBANEZ",
+        "MOD IBZ15B",
+        "38 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Pa Mixer",
+    "longICN": "031144007988100100",
+    "details": 
+
+    [
+        "MFGR KUSTOM MUSIC",
+        "MOD KPM4080",
+        "120 WATTS",
+        "4 CHANNELS"
+    ],
+    "price": 79.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Power Amplifier",
+    "longICN": "030673005105100200",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD BXR-300C",
+        "300 WATTS"
+    ],
+    "price": 229.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Pa Speaker",
+    "longICN": "030673006553100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD 112H",
+        "300 WATTS",
+        "12 \" WOOFER"
+    ],
+    "price": 74.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Multitrack Recorder",
+    "longICN": "030673007749100100",
+    "details": 
+
+    [
+        "MFGR ROLAND",
+        "MOD VP-9000",
+        "BLACK",
+        "NO CASE",
+        "PROCESSOR/MIXER",
+        "0 TRACKS"
+    ],
+    "price": 429.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Pa Mixer",
+    "longICN": "030673007885100100",
+    "details": 
+
+    [
+        "MFGR KUSTOM MUSIC",
+        "MOD KPM4060",
+        "60 WATTS",
+        "4 CHANNELS"
+    ],
+    "price": 84.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Pa Speaker",
+    "longICN": "030673007885100200",
+    "details": 
+
+    [
+        "MFGR MTX",
+        "MOD TP112",
+        "150 WATTS",
+        "12 \" WOOFER"
+    ],
+    "price": 74.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030673008416100300",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD MINITWIN",
+        "4 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 24.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030673008416100400",
+    "details": 
+
+    [
+        "MFGR HONEYTONE",
+        "MOD DANALECTRO",
+        "4 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 16.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030673009081100100",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD MA2039",
+        "11.2 WATTS",
+        "4 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 16.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030673009081100300",
+    "details": 
+
+    [
+        "MFGR HARMONY",
+        "MOD MN18",
+        "28 WATTS",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 34.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030674004514200500",
+    "details": 
+
+    [
+        "MFGR RADIO SHACK",
+        "MOD 33-3004"
+    ],
+    "price": 8.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Misc. Prof. Equipment",
+    "longICN": "030674005020200200",
+    "details": 
+
+    [
+        "MFGR TASCAM",
+        "MOD US-144MKII",
+        "BLACK/SILVER",
+        "NO CASE",
+        "AUDIO/MIDI INTERFACE"
+    ],
+    "price": 34.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030674005020200300",
+    "details": 
+
+    [
+        "MFGR STERLING AUDIO",
+        "MOD ST51"
+    ],
+    "price": 38.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030674005020200400",
+    "details": 
+
+    [
+        "MFGR MXL",
+        "MOD USB.006"
+    ],
+    "price": 39.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030674005352200100",
+    "details": 
+
+    [
+        "MFGR SQUIER",
+        "MOD SP.10",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030674011463100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD GT-5",
+        "9V WATTS",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 45.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Instrument Pre-Amplifier",
+    "longICN": "030674011582100100",
+    "details": 
+
+    [
+        "MFGR M-AUDIO",
+        "MOD MOBILE PRE"
+    ],
+    "price": 82.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030674011870100100",
+    "details": 
+
+    [
+        "MFGR LINE 6",
+        "MOD SPIDER III 75",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 119.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "030674012141100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD 112MB",
+        "840 WATTS",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 139.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "030674012264100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD PRO BASS 500",
+        "600 WATTS",
+        "0 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 164.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030674012306100100",
+    "details": 
+
+    [
+        "MFGR AUDIO TECHNICA",
+        "MOD AT2035"
+    ],
+    "price": 54.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030674012742100100",
+    "details": 
+
+    [
+        "MFGR EPIPHONE",
+        "MOD ELECTAR 10",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030674012788100100",
+    "details": 
+
+    [
+        "MFGR DYNAMIC MICROPHONE",
+        "MOD 600"
+    ],
+    "price": 29.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031043011710200100",
+    "details": 
+
+    [
+        "MFGR LINE 6",
+        "MOD SPIDER II",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 199.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044014440200100",
+    "details": 
+
+    [
+        "MFGR RADIO SHACK",
+        "MOD MPS-50",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044014572200100",
+    "details": 
+
+    [
+        "MFGR DEAN",
+        "MOD DA-20",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044019423100100",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GFX212T",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 94.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044022504100200",
+    "details": 
+
+    [
+        "MFGR KONA",
+        "MOD KA-10",
+        "10 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 9.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044022627100200",
+    "details": 
+
+    [
+        "MFGR DEAN",
+        "MOD M-10",
+        "10 WATTS",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 9.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "031044022721100100",
+    "details": 
+
+    [
+        "MFGR HARTKE SYSTEMS",
+        "MOD 1400",
+        "140 WATTS",
+        "15 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 74.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031044022947100300",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GTX15",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030933002876100100",
+    "details": 
+
+    [
+        "MFGR MESA BOOGIE",
+        "MOD ROAD KING",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 1799.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030934002610200100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD KB/A30",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030934002860200100",
+    "details": 
+
+    [
+        "MFGR SAMSON",
+        "MOD R13S"
+    ],
+    "price": 14.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030934003085200100",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD ULTRA CHORUS PR204",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 129.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030934003106200200",
+    "details": 
+
+    [
+        "MFGR ESTEBAN",
+        "MOD G-10",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030934003131200200",
+    "details": 
+
+    [
+        "MFGR REALISTIC/",
+        "MOD 33-1090B"
+    ],
+    "price": 39.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Speaker Box",
+    "longICN": "030934003131200300",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD WINDSOR",
+        "120W PER SPEAKER WATTS",
+        "0 \" WOOFER"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030934003928100200",
+    "details": 
+
+    [
+        "MFGR TRAYNOR",
+        "MOD BASS MATE 10",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144003831200200",
+    "details": 
+
+    [
+        "MFGR INDIANA",
+        "MOD RD15",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 24.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144003837200200",
+    "details": 
+
+    [
+        "MFGR TRANZAMP",
+        "MOD G8",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031144003897200100",
+    "details": 
+
+        [
+            "MFGR TRANZAMP",
+            "MOD G8",
+            "55 WATTS",
+            "8 \" WOOFER",
+            "1 SPKR(S)"
+        ],
+        "price": 29.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031352004010200200",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD MA104",
+        "4 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004320200100",
+    "details": 
+
+    [
+        "MFGR RANDALL AMPLIFIERS",
+        "MOD EX15FX",
+        "00 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004348200100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD AUDITION",
+        "15 WATTS",
+        "8 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004383200400",
+    "details": 
+
+    [
+        "MFGR STARCASTER",
+        "MOD 15G",
+        "5 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004423200300",
+    "details": 
+
+    [
+        "MFGR MARSHALL",
+        "MOD MS-4",
+        "4 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004797200100",
+    "details": 
+
+    [
+        "MFGR RANDALL AMPLIFIERS",
+        "MOD R412",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 24.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353004955200100",
+    "details": 
+
+    [
+        "MFGR MARSHALL",
+        "MOD MG50DFX",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 279.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353005079200100",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GT212",
+        "120 WATTS",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 199.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353005265200100",
+    "details": 
+
+    [
+        "MFGR TUBEWORKS",
+        "MOD TD-752",
+        "250 WATTS",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 279.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Signal Processor",
+    "longICN": "031353009016100100",
+    "details": 
+
+    [
+        "MFGR DIGITECH",
+        "MOD RP55V",
+        "NO CASE"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Signal Processor",
+    "longICN": "031353010540100100",
+    "details": 
+
+    [
+        "MFGR SYMETRIX",
+        "MOD 522",
+        "NO CASE"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353010701100200",
+    "details": 
+
+    [
+        "MFGR IBANEZ",
+        "MOD TB15D",
+        "22 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353010810100200",
+    "details": 
+
+    [
+        "MFGR MARSHALL",
+        "MOD MG15DFX",
+        "45 WATTS",
+        "8 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353011190100100",
+    "details": 
+
+    [
+        "MFGR SQUIER",
+        "MOD SD-6NAT",
+        "6 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353011857100100",
+    "details": 
+
+    [
+        "MFGR SPIDER",
+        "MOD 212",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 199.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031353014153100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD AUDITION",
+        "15 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354006793200200",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD FRONTMAN 15G",
+        "150 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "031354006918200100",
+    "details": 
+
+    [
+        "1 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354006989200300",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD FRONTMAN 15G",
+        "38 WATTS",
+        "6 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354007286200200",
+    "details": 
+
+    [
+        "MFGR ESTEBAN",
+        "MOD G-10",
+        "6 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354007461200200",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GX10",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354007479200100",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD AL103",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Power Amplifier",
+    "longICN": "031354007604200300",
+    "details": 
+
+    [
+        "MFGR JAY TURSER",
+        "MOD LS-G10CT",
+        "12 WATTS"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "031354007750200200",
+    "details": 
+
+    [
+        "MFGR SAMSON",
+        "MOD METEOR MIC"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354007867200100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD VYPYR15",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354015496100100",
+    "details": 
+
+    [
+        "MFGR GUITAR RESEARCH",
+        "MOD AC30R",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 59.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354015523100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD E110",
+        "100 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 139.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354015993100200",
+    "details": 
+
+    [
+        "MFGR MARSHALL",
+        "MOD MC10KK",
+        "6 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354015993100300",
+    "details": 
+
+    [
+        "MFGR LINE 6",
+        "MOD SPIDER III HD75",
+        "4 \" WOOFER",
+        "4 SPKR(S)"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "031354016041100100",
+    "details": 
+
+    [
+        "MFGR SWR",
+        "MOD LA10",
+        "12 \" WOOFER",
+        "2 SPKR(S)"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Misc. Microphone",
+    "longICN": "031354016614100100",
+    "details": 
+
+    [
+        "MFGR MXL",
+        "MOD 770",
+        "RECORDING MIC"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354017466100200",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD 10G",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354017687100200",
+    "details": 
+
+    [
+        "MFGR CRATE",
+        "MOD GX-15",
+        "30 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Signal Processor",
+    "longICN": "031354017723100200",
+    "details": 
+
+    [
+        "MFGR NADY",
+        "MOD SRM-12X",
+        "NO CASE"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "031354017793100100",
+    "details": 
+
+    [
+        "MFGR DIME",
+        "MOD D100",
+        "0 \" WOOFER",
+        "0 SPKR(S)"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030713005107100200",
+    "details": 
+
+    [
+        "MFGR IBANEZ",
+        "MOD IBZ10G",
+        "22W WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 49.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030733003944100200",
+    "details": 
+
+    [
+        "MFGR DANVILLE",
+        "MOD TEC10D",
+        "10 WATTS",
+        "6 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 19.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030733004374100100",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD 15G",
+        "15 WATTS",
+        "5 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 34.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030733004402100100",
+    "details": 
+
+    [
+        "MFGR LINE 6",
+        "MOD SPIDER III 15",
+        "15 WATTS",
+        "10 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 79.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030733004966100100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD VALVEKING 112",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 229.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Signal Processor",
+    "longICN": "030733005025100200",
+    "details": 
+
+    [
+        "MFGR PYLE PRO AUDIO",
+        "MOD PYD1919",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Power Amplifier",
+    "longICN": "030733005025100300",
+    "details": 
+
+    [
+        "MFGR PYLE PRO AUDIO",
+        "MOD PPA300",
+        "3000 WATTS"
+    ],
+    "price": 199.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Bass Amp",
+    "longICN": "030734003804200200",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD DELTABASS",
+        "160 WATTS",
+        "0 \" WOOFER",
+        "0 SPKR(S)"
+    ],
+    "price": 119.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Digital Video Mixer",
+    "longICN": "030734003806200100",
+    "details": 
+
+    [
+        "MFGR BEHRINGER",
+        "MOD XENYX1202FX"
+    ],
+    "price": 59.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030734004120200100",
+    "details": 
+
+    [
+        "MFGR FENDER",
+        "MOD MUSTANG 2",
+        "110 WATTS",
+        "12 \" WOOFER",
+        "1 SPKR(S)"
+    ],
+    "price": 159.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Guitar Amp",
+    "longICN": "030734004398200100",
+    "details": 
+
+    [
+        "MFGR MARSHALL",
+        "MOD G100RCD",
+        "50 WATTS",
+        "12 \" WOOFER",
+        "3 SPKR(S)"
+    ],
+    "price": 99.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Professional Equalizer",
+    "longICN": "030734004569200100",
+    "details": 
+
+    [
+        "MFGR ALESIS",
+        "MOD MULTIMIX 8"
+    ],
+    "price": 89.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Microphone",
+    "longICN": "030734004604200100",
+    "details": 
+
+    [
+        "MFGR STERLING AUDIO",
+        "MOD ST51"
+    ],
+    "price": 39.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Pa Mixer",
+    "longICN": "030734004701200100",
+    "details": 
+
+    [
+        "MFGR PEAVEY",
+        "MOD XR500C",
+        "5 CHANNELS"
+    ],
+    "price": 175.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Pa Speaker",
+    "longICN": "030734004701200200",
+    "details": 
+
+        [
+            "MFGR PEAVEY",
+            "MOD 115H",
+            "12 \" WOOFER"
+        ],
+        "price": 175.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    }
+
+]

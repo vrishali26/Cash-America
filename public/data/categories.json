@@ -1,0 +1,464 @@
+[
+  {
+    "categoryCode": "1000",
+    "categoryName": "Jewelry",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "2000",
+    "categoryName": "Tools",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "3000",
+    "categoryName": "Electronics",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "4000",
+    "categoryName": "Firearms",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "5000",
+    "categoryName": "Cameras and Projectors",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "6000",
+    "categoryName": "Musical Instruments",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "7000",
+    "categoryName": "Sporting Goods",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "8000",
+    "categoryName": "Home Goods",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "9300",
+    "categoryName": "Clothes and Purses",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "9400",
+    "categoryName": "Motor Vehicles",
+    "parentID": "0",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9500",
+    "categoryName": "Medical Equipment",
+    "parentID": "0",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9700",
+    "categoryName": "Bulk Coins & Bullion",
+    "parentID": "0",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1100",
+    "categoryName": "Pendants and Charms",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1200",
+    "categoryName": "Bracelets",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1300",
+    "categoryName": "Earrings",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1410",
+    "categoryName": "Women's Rings",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1420",
+    "categoryName": "Men's Rings",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1440",
+    "categoryName": "Wedding Sets",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1500",
+    "categoryName": "Watches",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1600",
+    "categoryName": "Chains",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1893",
+    "categoryName": "Cuff Links",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1900",
+    "categoryName": "Treasure Chest",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2100",
+    "categoryName": "Lawn and Garden Tools",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2200",
+    "categoryName": "Electric Tools",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2300",
+    "categoryName": "Air Powered Tools",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2400",
+    "categoryName": "Gas Powered Tools",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2500",
+    "categoryName": "Hand Tools & Tool Boxes",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2600",
+    "categoryName": "Automotive Equipment",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2700",
+    "categoryName": "Electronic Testers",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "2800",
+    "categoryName": "Welding",
+    "parentID": "2000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3100",
+    "categoryName": "Televisions",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3200",
+    "categoryName": "Home Stereos",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3360",
+    "categoryName": "Video Game Consoles",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3370",
+    "categoryName": "DVD Players",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3400",
+    "categoryName": "Telephones & Office Equipment",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3500",
+    "categoryName": "Radios & Jamboxes",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3600",
+    "categoryName": "Car Stereos & Accessories",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3700",
+    "categoryName": "Scanners & Radar Detectors",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "3800",
+    "categoryName": "Computer Equipment",
+    "parentID": "3000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "4100",
+    "categoryName": "Rifles",
+    "parentID": "4000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "4200",
+    "categoryName": "Shotguns",
+    "parentID": "4000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "4300",
+    "categoryName": "Handguns",
+    "parentID": "4000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "4400",
+    "categoryName": "Firearm Accessories",
+    "parentID": "4000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "4500",
+    "categoryName": "Police Equipment",
+    "parentID": "4000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "5100",
+    "categoryName": "Cameras",
+    "parentID": "5000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "5200",
+    "categoryName": "Photo Accessories",
+    "parentID": "5000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "5900",
+    "categoryName": "Projectors & Telescopes",
+    "parentID": "5000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6100",
+    "categoryName": "Keyboards & Synthesizers",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6200",
+    "categoryName": "Guitars & String Instruments",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6300",
+    "categoryName": "Wind Instruments",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6400",
+    "categoryName": "Amplifiers & PA Equipment",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6500",
+    "categoryName": "Percussion Instruments",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6600",
+    "categoryName": "Music Accessories",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "6700",
+    "categoryName": "Accordions",
+    "parentID": "6000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7100",
+    "categoryName": "Fishing Equipment",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7200",
+    "categoryName": "Golf Equipment",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7300",
+    "categoryName": "Water Sports Equipment",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7400",
+    "categoryName": "Recreational Vehicles",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7500",
+    "categoryName": "Air Guns, Archery, Knives",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7600",
+    "categoryName": "Camping Equipment",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7700",
+    "categoryName": "Winter Recreational",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "7900",
+    "categoryName": "Other Equipment",
+    "parentID": "7000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8100",
+    "categoryName": "Home Appliances",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8200",
+    "categoryName": "Heaters",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8300",
+    "categoryName": "Air Coolers and Fans",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8400",
+    "categoryName": "Exercise Equipment",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8500",
+    "categoryName": "Sewing Machines",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8600",
+    "categoryName": "Floor Cleaners",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8700",
+    "categoryName": "Clocks & Furniture",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8800",
+    "categoryName": "Home Interiors",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "8910",
+    "categoryName": "Luggage",
+    "parentID": "8000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9310",
+    "categoryName": "Boots",
+    "parentID": "9300",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9320",
+    "categoryName": "Suits",
+    "parentID": "9300",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9330",
+    "categoryName": "Coats",
+    "parentID": "9300",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9340",
+    "categoryName": "Hats",
+    "parentID": "9300",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9350",
+    "categoryName": "Shoes",
+    "parentID": "9300",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9360",
+    "categoryName": "Purses",
+    "parentID": "9300",
+    "hasChildren": false
+  }
+]

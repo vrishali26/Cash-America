@@ -1,0 +1,63 @@
+{
+  "phone": "7044142595",
+  "address": {
+    "address1": "3101 N Sharon Amity Road",
+    "address2": "",
+    "state": "NC",
+    "city": "Charlotte",
+    "zipCode": "28205"
+  },
+  "services": [
+    "Pawn Loans",
+    "Preowned Merchandise",
+    "Money Orders",
+    "Gold Purchase"
+  ],
+  "weeklyHours": [
+    {
+      "weekDay": "Monday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": true
+    },
+    {
+      "weekDay": "Tuesday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Wednesday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Thursday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Friday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Saturday",
+      "openTime": "9:00 am",
+      "closeTime": "6:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Sunday",
+      "openTime": "CLOSED",
+      "closeTime": "CLOSED",
+      "isToday": false
+    }
+  ],
+  "licenses": [],
+  "storeNumber": "01208",
+  "shortName": "Cha08"
+}

@@ -1,0 +1,48 @@
+<div class="container-fluid text-center socialsignin" ng-controller="socialCtrl">
+  <img class="logo" src="images/01-Launch-Screen.png" />
+  	<h4 class="panel-heading">Hi Sarah</h4>
+    <form>
+    	<div class="form-group has-feedback">
+		<input type="text" class="form-control form-controlmodified"  placeholder="Zip Code"/>
+	    <span class="location"></span>
+		<!-- <span class="greenarrow"></span> -->
+  		</div>
+  		
+  		<div class="form-group has-feedback">
+				  <label for="signup email" class="signuplabel">Sign up for<br>  email savings & updates</label>
+				  <div class="rounded_corner" toggle-class="rounded_corner_active">
+				  	<img class="circle_move" src="images/circle.png" />
+				  </div>
+				</div>
+				<div class="form-group has-feedback">
+				  <label for="textmessage" class="signuplabel">Sign up fortext message savings and updates</label>
+				  <div class="rounded_corner" toggle-class="rounded_corner_active">
+				  	<img class="circle_move" src="images/circle.png" />
+				  </div>
+				</div>
+    </form>
+    <p class="terms">By pressing continue you agree to our <a data-toggle="modal" data-target="#myModal">Terms and Privacy policy</a></p>
+   
+    <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+       
+        <div class="modal-body">
+        <h1>Text Message Terms and conditions</h1>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Accept</button>
+           <button type="button" class="btn btn-default" data-dismiss="modal">Decline</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+
+     <button class="btn continuebtn">Continue</button>
+</div>

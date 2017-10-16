@@ -1,0 +1,112 @@
+[
+  {
+    "itemName": "Hat",
+    "longICN": "013454271182200100",
+    "details": [
+      "SIZE M",
+      "LEATHER"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013624127184200100",
+    "details": [
+      "WESTERN"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013624129990100100",
+    "details": [
+      "MFGR MICHAEL KORS",
+      "SIZE"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013335534088200100",
+    "details": [],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013374638093200100",
+    "details": [
+      "SIZE"
+    ],
+    "price": 0.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013304496159100200",
+    "details": [
+      "GREEN"
+    ],
+    "price": 19.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013444691374100100",
+    "details": [
+      "BLACK"
+    ],
+    "price": 199.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013445699219100100",
+    "details": [
+      "SIZE"
+    ],
+    "price": 19.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013494632383200100",
+    "details": [
+      "MFGR STETSON"
+    ],
+    "price": 49.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Hat",
+    "longICN": "013314711964100100",
+    "details": [
+      "MFGR STETSON"
+    ],
+    "price": 79.99,
+    "distance": 410.4623,
+    "storeNumber": "01331",
+    "shortName": "LV02"
+  }
+]

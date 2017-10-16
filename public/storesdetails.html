@@ -1,0 +1,74 @@
+<div class="container-fluid  text-center storesDetails" ng-controller="storesDetailctrl">
+	<!-- <div class="row">
+		<div class="col-md-12"> -->
+			 <h4 class="panel-heading"><a href="#" ui-sref="stores"><span class="glyphicon glyphicon-chevron-left" ></span></a>Store Detail
+			 </h4>
+			 <div class="detailsinfo">
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 			<span>Visit Store</span>
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 			<h4>
+			 				<span>{{storedetail.address.address1}}</span><span>{{storedetail.address.address2}}</span>
+					 		<span>{{storedetail.address.city}} ,{{storedetail.address.state}} {{storedetail.address.zipCode}}</span>
+						</h4>
+			 			<!-- Visit Store -->
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 		 Store Hours
+			 		</div>
+			 		<div class="panel panel-default">
+			 			<ul class="alignchange">
+			            	<li class="listappystyle" ng-repeat="detail in storedetail.weeklyHours" ng-click="showhours(detail.openTime,detail.closeTime)">{{detail.weekDay | uppercase |limitTo : 3 : 0}}</li>
+			          	</ul>
+			          	<hr>
+			           <p class="floatL"><span class="start">START</span><span class="opentiime">{{openTime}}</span></p>
+			          	<p class="floatR"><span class="start ">CLOSE</span><span class="opentiime">{{closeTime}}</span></p>
+			 		</div>
+			 		
+			 			
+			 		
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 		 Contact
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title contact">
+			 		 <h4 class="phondetails">{{storedetail.phone}}</h4>
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 		 Services
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 		  <ul>
+			            <li ng-repeat="detail in storedetail.services">{{detail}}</li>
+			          </ul>
+			 		</div>
+			 	</div>
+			 	<div class="panel panel-default">
+			 		<div class="panel-title">
+			 		 <ul>
+			            <li ng-repeat="detail in storedetail.licenses">
+			            	{{detail.businessEntity}}<br>
+			            	{{detail.licenseType}} {{detail.licenseNumber}}
+			            </li>
+			          </ul>
+			 		</div>
+			 	</div>
+			 	
+			 </div>
+		</div>
+	<!-- </div>
+	 
+</div> -->

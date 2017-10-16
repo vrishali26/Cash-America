@@ -1,0 +1,58 @@
+.signinpage{
+   margin-top:40px;
+   form{
+     width:80%;
+     margin:0 auto;
+     input{
+       padding-right:0;
+       height:40px;
+       padding-left:50px;
+     }
+   }
+    .btn-pinterest{
+     width:78.125%;
+     margin:0 auto;
+     height: 40px;
+     padding-top: 7px;
+     padding-bottom: 10px;
+     font-size: 16px;
+     margin-top:25px;
+     background: rgb(194,12,36); /* Old browsers */
+     background: -moz-linear-gradient(top,  rgba(194,12,36,1) 0%, rgba(225,2,63,1) 99%); /* FF3.6+ */
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(194,12,36,1)), color-stop(99%,rgba(225,2,63,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(194,12,36,1) 0%,rgba(225,2,63,1) 99%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(194,12,36,1) 0%,rgba(225,2,63,1) 99%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(194,12,36,1) 0%,rgba(225,2,63,1) 99%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(194,12,36,1) 0%,rgba(225,2,63,1) 99%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c20c24', endColorstr='#e1023f',GradientType=0 ); /* IE6-9 */
+    border:none;
+   }
+    .btn-facebook{
+     width:78.125%;
+     margin:0 auto;
+     height: 40px;
+     padding-top: 7px;
+     padding-bottom: 10px;
+     font-size: 16px;
+     margin-top:50px;
+   }
+   .btn-dropbox{
+    width:78.125%;
+     margin:0 auto;
+     height: 40px;
+     padding-top: 7px;
+     padding-bottom: 10px;
+     font-size: 16px;
+     margin-top:50px;
+     background: rgb(91,174,225); /* Old browsers */
+      background: -moz-linear-gradient(top,  rgba(91,174,225,1) 0%, rgba(41,136,211,1) 100%); /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(91,174,225,1)), color-stop(100%,rgba(41,136,211,1))); /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top,  rgba(91,174,225,1) 0%,rgba(41,136,211,1) 100%); /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top,  rgba(91,174,225,1) 0%,rgba(41,136,211,1) 100%); /* Opera 11.10+ */
+      background: -ms-linear-gradient(top,  rgba(91,174,225,1) 0%,rgba(41,136,211,1) 100%); /* IE10+ */
+      background: linear-gradient(to bottom,  rgba(91,174,225,1) 0%,rgba(41,136,211,1) 100%); /* W3C */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5baee1', endColorstr='#2988d3',GradientType=0 ); /* IE6-9 */
+
+       border: 1px solid #5092c0;
+   }
+}

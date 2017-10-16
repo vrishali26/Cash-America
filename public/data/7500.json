@@ -1,0 +1,1822 @@
+[
+
+{
+
+    "itemName": "Sword",
+    "longICN": "013523196956100200",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 18.61,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013524205380200100",
+    "details": 
+
+    [
+        "MFGR BUCK",
+        "MOD 110",
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013524206675200100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "W/SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013524212612100100",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013524212891100100",
+    "details": 
+
+    [
+        "MFGR MATHEWS"
+    ],
+    "price": 249.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013524213467100100",
+    "details": 
+
+    [
+        "MFGR HIGH COUNTRY"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013524213539100100",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 69.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013525215367200100",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 99.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013525216337200100",
+    "details": 
+
+    [
+        "MFGR FROST CUTLERY",
+        "MOD FLYING FALCON",
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013512229490100100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 239.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514256446200100",
+    "details": 
+
+    [
+        "MFGR PREMIUM DESIGN",
+        "MOD JUNGLE MASTER",
+        "CARBON STEEL",
+        "8 \" BLADE",
+        "GREEN/BLACK",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514257222100100",
+    "details": 
+
+    [
+        "MFGR THE ALABAMA SLAMMER",
+        "MOD KNIFE",
+        "S/S",
+        "8\" \" BLADE",
+        "BLACK AND SS",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514257940100200",
+    "details": 
+
+    [
+        "MFGR JAPANESE",
+        "MOD SUSHI KNIFE",
+        "SUSHI KNIFE",
+        "S/S",
+        "10 \" BLADE",
+        "SILVER",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 89.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514257940100300",
+    "details": 
+
+    [
+        "MFGR PIZAZZ",
+        "MOD NONE",
+        "CUTTING KNIFE",
+        "S/S",
+        "5 \" BLADE",
+        "SILVER",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514260466200100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "S/S",
+        "4 \" BLADE",
+        "SILVER/BONE",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514260539100100",
+    "details": 
+
+    [
+        "MFGR CRKT",
+        "MOD SAWTOOTH 2000",
+        "S/S",
+        "6 \" BLADE",
+        "BLACK AND SILVER",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514261615100100",
+    "details": 
+
+    [
+        "MFGR UNITED",
+        "MOD UNDERCOVER",
+        "S/S",
+        "2 \" BLADE",
+        "BLK",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514261958200100",
+    "details": 
+
+    [
+        "MFGR CHIPAWAY",
+        "MOD HUNTING",
+        "S/S",
+        "7 \" BLADE",
+        "BONE/BLUE/SILVER",
+        "W/SHEATH",
+        "2 KNIVES"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514262051100100",
+    "details": 
+
+    [
+        "MFGR SOG",
+        "MOD SOGFARI",
+        "MACHETE",
+        "S/S",
+        "18 \" BLADE",
+        "SILVER/BLACK",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514262208100100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "S/S",
+        "9 \" BLADE",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514262314100200",
+    "details": 
+
+    [
+        "MFGR TOMAHAWK",
+        "MOD XL1498",
+        "MARINES DECORATIVE KNIFE",
+        "S/S",
+        "11 \" BLADE",
+        "YELLOW-SS",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 39.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514262652200100",
+    "details": 
+
+    [
+        "MFGR NONE",
+        "MOD MACHETTE",
+        "18\" \" BLADE",
+        "BLACK-RUSTY",
+        "W/SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514264169100100",
+    "details": 
+
+    [
+        "MFGR KNIFE",
+        "MOD HU",
+        "S/S",
+        "6\" \" BLADE",
+        "WOOD",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Sword",
+    "longICN": "013514264318100100",
+    "details": 
+
+    [
+        "MFGR SWORD",
+        "MOD N/A",
+        "S/S",
+        "24\" \" BLADE",
+        "1 PCS.",
+        "2",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514266440100200",
+    "details": 
+
+    [
+        "MFGR US",
+        "MOD M6",
+        "S/S",
+        "7\" \" BLADE",
+        "BLACK",
+        "NO SHEATH"
+    ],
+    "price": 49.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514266441200100",
+    "details": 
+
+    [
+        "MFGR GERBER",
+        "MOD MACHETE",
+        "S/S",
+        "13.5 \" BLADE",
+        "GREY-ORANGE",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514266714100100",
+    "details": 
+
+    [
+        "MFGR ONTARIO KNIFE CO.",
+        "MOD SAWBACK",
+        "SAWBACK MACHETE",
+        "CARBON STEEL",
+        "18 \" BLADE",
+        "GREEN /BLACK",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 59.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514266714100200",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "PAKISTANI SWORD",
+        "S/S",
+        "18 \" BLADE",
+        "SILVER/BRASS",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 59.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514266715100200",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "SAMURAI SWORD",
+        "S/S",
+        "18 \" BLADE",
+        "SILVER/BLACK",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 49.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514266759100200",
+    "details": 
+
+    [
+        "MFGR HENCKELS INTERNATIONAL",
+        "MOD YHROWING",
+        "THROWING KNIVES",
+        "S/S",
+        "5 \" BLADE",
+        "SILVER",
+        "NO LOCK",
+        "W/SHEATH",
+        "SET OF 2"
+    ],
+    "price": 49.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013515268364100100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "S/S",
+        "9 \" BLADE",
+        "SILVER",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013515268507100100",
+    "details": 
+
+    [
+        "MFGR COLONIAL",
+        "MOD KNIFE",
+        "S/S",
+        "4.5 \" BLADE",
+        "BLACK",
+        "W/SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013515270273200300",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "S/S",
+        "7 \" BLADE",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013515271834200100",
+    "details": 
+
+    [
+        "MFGR CHIPAWAY",
+        "MOD UNDERTAKER WARRIOR",
+        "S/S",
+        "12 \" BLADE",
+        "MULTY COLOR",
+        "W/SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Black Powder Rifle",
+    "longICN": "013652027860100100",
+    "details": [ ],
+    "price": 389.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013654040178100100",
+    "details": 
+
+    [
+        "MFGR HOYT",
+        "MOD FASTFLITE"
+    ],
+    "price": 109.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013654042505100100",
+    "details": 
+
+    [
+        "MFGR BUCK",
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Paintball Gun",
+    "longICN": "013654043782100100",
+    "details": 
+
+    [
+        "MFGR TIPPMANN",
+        "BLACK",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Paintball Gun",
+    "longICN": "013654044425200100",
+    "details": 
+
+    [
+        "MFGR TIPPMANN",
+        "MOD 98 CUSTOM",
+        "BLACK",
+        "NO CASE"
+    ],
+    "price": 109.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013655046302200100",
+    "details": 
+
+    [
+        "MFGR BROWNING"
+    ],
+    "price": 129.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc. Accessory",
+    "longICN": "013655047126200100",
+    "details": 
+
+    [
+        "MFGR LEATHERMAN",
+        "NO CASE"
+    ],
+    "price": 69.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013511218539100100",
+    "details": 
+
+    [
+        "MFGR SOLINGEN",
+        "S/S",
+        "2 \" BLADE",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013511219040200200",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013512231657100100",
+    "details": 
+
+    [
+        "MFGR HUSKY",
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Paintball Gun",
+    "longICN": "013514253391100100",
+    "details": 
+
+    [
+        "BLACK",
+        "NO CASE"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Air Gun",
+    "longICN": "013514255856200100",
+    "details": 
+
+    [
+        "BLACK",
+        "SINGLE ACTION"
+    ],
+    "price": 99.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514256675100100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 6.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514256949100100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514257234100100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514257378200100",
+    "details": 
+
+        [
+            "MFGR FROST",
+            "S/S",
+            "YELLOW",
+            "NO LOCK",
+            "NO SHEATH"
+        ],
+        "price": 19.99,
+        "distance": 192.955,
+        "storeNumber": "01351",
+        "shortName": "Ren01"
+},
+{
+
+    "itemName": "Sword",
+    "longICN": "013514257551100100",
+    "details": 
+
+    [
+        "S/S",
+        "30 \" BLADE",
+        "NO SHEATH"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Pellet Air Rifle",
+    "longICN": "013514257966100100",
+    "details": 
+
+    [
+        "SINGLE ACTION"
+    ],
+    "price": 159.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Sword",
+    "longICN": "013514258717100100",
+    "details": 
+
+    [
+        "MFGR CORONA",
+        "CARBON STEEL",
+        "18 \" BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514258983100100",
+    "details": 
+
+    [
+        "MFGR COAST",
+        "CARBON STEEL",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514259847200100",
+    "details": 
+
+    [
+        "MFGR SMITH & WESSON",
+        "CARBON STEEL",
+        "2 \" BLADE",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514260148200100",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514260158200100",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 12.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514260372200200",
+    "details": 
+
+    [
+        "MFGR KERSHAW",
+        "S/S",
+        "2 \" BLADE",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Paintball Gun",
+    "longICN": "013514261056100100",
+    "details": 
+
+    [
+        "MFGR JT",
+        "BLACK",
+        "NO CASE"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Paintball Gun",
+    "longICN": "013514261189200100",
+    "details": 
+
+    [
+        "MFGR TIPPMANN",
+        "MOD 98",
+        "BLACK",
+        "NO CASE"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514262082100100",
+    "details": 
+
+    [
+        "MFGR CRKT",
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514262115100100",
+    "details": 
+
+    [
+        "MFGR KERSHAW",
+        "MOD 1475",
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013514262452100100",
+    "details": 
+
+    [
+        "MFGR PARKER"
+    ],
+    "price": 299.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514262737200100",
+    "details": 
+
+    [
+        "MFGR LEATHERMAN",
+        "MOD WAVE",
+        "S/S",
+        "SILVER",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Bb Air Pistol",
+    "longICN": "013514262746200100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514262996200200",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514263757100100",
+    "details": 
+
+    [
+        "MFGR KERSHAW",
+        "S/S",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514263766100100",
+    "details": 
+
+    [
+        "MFGR LEATHERMAN",
+        "CARBON STEEL",
+        "BLACK",
+        "LOCK BLADE",
+        "W/SHEATH"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514263769100100",
+    "details": 
+
+    [
+        "MFGR KOBALT",
+        "S/S",
+        "BLUE",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514263987100200",
+    "details": 
+
+    [
+        "MFGR CAMILLUS",
+        "MOD TITANIUM",
+        "CARBON STEEL",
+        "BLACK",
+        "LOCK BLADE",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514264437200100",
+    "details": 
+
+    [
+        "MFGR FROST CUTLERY",
+        "S/S",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514264460100100",
+    "details": 
+
+    [
+        "MFGR LEATHERMAN",
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514264743100100",
+    "details": 
+
+    [
+        "MFGR LEATHERMAN",
+        "S/S",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514264764100200",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Accessory",
+    "longICN": "013514264815100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD AXE",
+        "BLACK",
+        "W/ CASE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514264832100100",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514265359100100",
+    "details": 
+
+    [
+        "MFGR GERBER",
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Sword",
+    "longICN": "013514265434100100",
+    "details": 
+
+    [
+        "S/S",
+        "30 \" BLADE",
+        "W/SHEATH"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514265437100100",
+    "details": 
+
+    [
+        "S/S",
+        "SILVER",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514265458100200",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013514265605100100",
+    "details": 
+
+    [
+        "MFGR PARKER"
+    ],
+    "price": 399.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514265839100200",
+    "details": 
+
+    [
+        "MFGR BUCK",
+        "MOD 503",
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514266152200100",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266233100200",
+    "details": 
+
+    [
+        "S/S",
+        "2 \" BLADE",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514266274100100",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514266320100100",
+    "details": 
+
+    [
+        "MFGR BUCK",
+        "MOD 655",
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266456100200",
+    "details": 
+
+    [
+        "MFGR GUARDIAN",
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266501100100",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266600100100",
+    "details": 
+
+    [
+        "MFGR SMITH & WESSON",
+        "S/S",
+        "BLACK",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266600100200",
+    "details": 
+
+    [
+        "MFGR MILWAUKEE",
+        "MOD FASTBACK",
+        "S/S",
+        "2 \" BLADE",
+        "RED",
+        "NO LOCK",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514266833200100",
+    "details": 
+
+    [
+        "S/S",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514266882200100",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Bb Air Pistol",
+    "longICN": "013514266942100100",
+    "details": 
+
+    [
+        "MFGR DAISY",
+        "AIR ACTION"
+    ],
+    "price": 44.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Compound Bow",
+    "longICN": "013514267379100100",
+    "details": 
+
+    [
+        "MFGR PSE"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514267388200100",
+    "details": 
+
+    [
+        "MFGR WINCHESTER",
+        "S/S",
+        "SILVER",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514267528200200",
+    "details": 
+
+    [
+        "S/S",
+        "BLACK",
+        "LOCK BLADE",
+        "NO SHEATH"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514267602100100",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Hunting Knife",
+    "longICN": "013514267602100200",
+    "details": 
+
+    [
+        "S/S",
+        "W/SHEATH"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Knife Or Accessory",
+    "longICN": "013514267602100300",
+    "details": 
+
+    [
+        "CARBON STEEL",
+        "BLACK",
+        "NO LOCK",
+        "W/SHEATH"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Folding Knife",
+    "longICN": "013514267688200100",
+    "details": 
+
+        [
+            "MFGR KERSHAW",
+            "MOD 1830",
+            "S/S",
+            "LOCK BLADE",
+            "NO SHEATH"
+        ],
+        "price": 14.99,
+        "distance": 192.955,
+        "storeNumber": "01351",
+        "shortName": "Ren01"
+}
+]

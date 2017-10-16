@@ -1,0 +1,88 @@
+[
+  {
+    "itemName": "Luggage",
+    "longICN": "013364619729100100",
+    "details": [
+      "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013364619951100100",
+    "details": [
+      "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013374629906100100",
+    "details": [
+      "MFGR NAUTICA",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013305504553100100",
+    "details": [
+      "BLACK"
+    ],
+    "price": 269.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013444689817100100",
+    "details": [],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013444689818100100",
+    "details": [],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013404270568100100",
+    "details": [
+      "MFGR KENNETH COLE",
+      "BLACK"
+    ],
+    "price": 60.0,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  },
+  {
+    "itemName": "Luggage",
+    "longICN": "013404279170100100",
+    "details": [
+      "MFGR LARK"
+    ],
+    "price": 49.99,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  }
+]

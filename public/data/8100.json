@@ -1,0 +1,1409 @@
+[
+  {
+    "itemName": "Blender",
+    "longICN": "013534287417100100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD SPB-7CH",
+      "BLACK/SILVER"
+    ],
+    "price": 39.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013534286510200100",
+    "details": [
+      "MFGR SANYO",
+      "MOD SR172W",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Food Processor",
+    "longICN": "013534287176100100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD DLC5",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013654040669200100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD 45237H",
+      "BLACK",
+      "PROGRAMMABLE"
+    ],
+    "price": 29.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013654040939200100",
+    "details": [
+      "MFGR MR. COFFEE",
+      "MOD CG13",
+      "BLACK",
+      "NON-PROGRAMMABLE"
+    ],
+    "price": 10.0,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Food Processor",
+    "longICN": "013654043864100100",
+    "details": [
+      "MFGR ROBOT COUPE",
+      "MOD R 301 ULTRA",
+      "SILVER & GRAY"
+    ],
+    "price": 649.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013654044686200100",
+    "details": [
+      "MFGR SENSIO",
+      "MOD TSK-2116WB",
+      "WAFFLE BOWL MAKER",
+      "RED"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013655045651100100",
+    "details": [
+      "MFGR BREVILLE",
+      "MOD 800BLXL",
+      "SILVER"
+    ],
+    "price": 129.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013655045832100100",
+    "details": [
+      "MFGR AROMA",
+      "MOD ARC-150SB",
+      "RICE COOKER",
+      "SILVER"
+    ],
+    "price": 19.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013510206688200100",
+    "details": [
+      "MFGR KENMORE",
+      "MOD 721.66109500",
+      "BLACK",
+      "800 WATTS",
+      "NON-PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514251785100100",
+    "details": [
+      "MFGR CABELAS",
+      "MOD LW-6101",
+      "MEET GRINDER",
+      "WHTIE"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514255921100100",
+    "details": [
+      "MFGR RIVAL",
+      "MOD KOR-9G3A",
+      "BLK",
+      ". WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Food Processor",
+    "longICN": "013514256067100100",
+    "details": [
+      "MFGR BLACK & DECKER",
+      "MOD SHORTCUT",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013514256721100100",
+    "details": [
+      "MFGR MAGIC CHEF",
+      "MOD HMBR445BE",
+      "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514256919100100",
+    "details": [
+      "MFGR KITCHEN AID",
+      "MOD 250 WATTS",
+      "MIXER",
+      "WHITE"
+    ],
+    "price": 1.44,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514258030100100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD 2379",
+      "STAND MIXER",
+      "SILVER/BLACK"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Freezer",
+    "longICN": "013514258603100100",
+    "details": [
+      "MFGR WHYNTER",
+      "MOD UIM-155",
+      "BLACK/SILVER",
+      "UP-RIGHT TYPE"
+    ],
+    "price": 119.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514259484100100",
+    "details": [
+      "MFGR EMERSON",
+      "MOD MW7300W",
+      "WHITE",
+      "700 WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL",
+      "B"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514259677100100",
+    "details": [
+      "MFGR KITCHEN GOURMET",
+      "MOD OMELET MAKER",
+      "OMELET MAKER",
+      "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013514261583200100",
+    "details": [
+      "MFGR MR. COFFEE",
+      "MOD BVMC-ECM260",
+      "BLK AND CHROME",
+      "NON-PROGRAMMABLE"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Toaster Oven",
+    "longICN": "013514261694200100",
+    "details": [
+      "MFGR TOASTMASTER",
+      "MOD SNACKSTER",
+      "WHITE",
+      "C"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514265219200200",
+    "details": [
+      "MFGR SUPEA",
+      "MOD ST09",
+      "THERMOMETER",
+      "BLUE"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Gas Stoves & Ovens",
+    "longICN": "013514265271100100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD N/A",
+      "CORDED GRILL",
+      "STAINLESS STEEL"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514265362100100",
+    "details": [
+      "MFGR WESTBEND",
+      "BLK",
+      "900W WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514265466100100",
+    "details": [
+      "MFGR PROCTOR SILEX",
+      "MOD 26050",
+      "WAFFEL MAKER",
+      "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514265965100100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD SES0730DM1WW",
+      "WHITE",
+      "700 WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL",
+      "BIB/ MAX LOAN"
+    ],
+    "price": 34.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514266423100100",
+    "details": [
+      "MFGR BUTTERBALL",
+      "MOD 23010711",
+      "FREYER",
+      "SILVER"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013514266520100100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD 50161N",
+      "WHITE"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013514267153100100",
+    "details": [
+      "MFGR OSTER",
+      "MOD 6650",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514267204200100",
+    "details": [
+      "MFGR CROCK POT",
+      "MOD COOKER",
+      "POT",
+      "BLAKC"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514267235100100",
+    "details": [
+      "MFGR RIVAL",
+      "WHITE",
+      "700 WATTS",
+      "NON-PROGRAMMABLE",
+      "NO CAROUSEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013514267404100100",
+    "details": [
+      "MFGR RIVAL",
+      "MOD CROCKPOT",
+      "CROCKPOT",
+      "GRN-WHT"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013514267612100100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD 680-5",
+      "WHITE"
+    ],
+    "price": 4.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013514267691100100",
+    "details": [
+      "MFGR MR COFFEE",
+      "MOD CGX20",
+      "WHITE",
+      "PROGRAMMABLE"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013514267903200100",
+    "details": [
+      "MFGR GALANZ",
+      "MOD 25 RONGGUI",
+      "WHITE",
+      "850 WATTS",
+      "NON-PROGRAMMABLE",
+      "NO CAROUSEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Gas Stoves & Ovens",
+    "longICN": "013515268203100100",
+    "details": [
+      "MFGR HEARTHWARE INC.",
+      "MOD NUWAVE PRO",
+      "INFRARED OVEN",
+      "COBALT BLUE"
+    ],
+    "price": 89.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013515268259100100",
+    "details": [
+      "MFGR RIVAL",
+      "WHITE",
+      ". WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013515268616200100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD CMW100",
+      "GRAY",
+      "100 WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 99.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013515268710200100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD 5891",
+      "BREADMAKER",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013515269978200100",
+    "details": [
+      "MFGR CROCK-POT",
+      "MOD SCR503UM-NP",
+      "CROCK POT",
+      "STAINLESS STEEL"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013515270322200100",
+    "details": [
+      "MFGR GENERAL ELECTRIC",
+      "MOD 169201",
+      "JUICER",
+      "BLACK",
+      "800 WATTS"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013515270976200100",
+    "details": [
+      "MFGR RIVAL",
+      "MOD RGTM702",
+      "BLK",
+      ". WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013515272404200100",
+    "details": [
+      "MFGR SYLVANIA",
+      "MOD P70D20AL-D5",
+      "BLK",
+      ". WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013515272512200100",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD PRO INFARED OVEN",
+      "NUWAVE OVEN",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013515272513200100",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD PRECISION 2",
+      "INDUCTION COOKTOP",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Gas Stoves & Ovens",
+    "longICN": "013515272549200100",
+    "details": [
+      "MFGR HARVEST COOKWARE",
+      "MOD PRESSURE PRO",
+      "PRESSURE COOKER",
+      "RED/SILVER"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013553326775200100",
+    "details": [
+      "MFGR COOLPOINT",
+      "MOD AHT",
+      "BLUE"
+    ],
+    "price": 199.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013554344376100100",
+    "details": [
+      "MFGR PROCTOR SILEX",
+      "MOD 25461",
+      "SANDWICH TOASTER",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013554349167200100",
+    "details": [
+      "MFGR RONCO",
+      "MOD SHOWTIME",
+      "ROTISSERIE",
+      "WHITE"
+    ],
+    "price": 59.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013554351109100100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD DGB-600BC",
+      "BLACK",
+      "PROGRAMMABLE",
+      "BIB@ CLEAR ACRE"
+    ],
+    "price": 69.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+    {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013554353738100100",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD 30301",
+      "INDUCTION COOKTOP",
+      "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013554353738100200",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD 30301",
+      "INDUCTION COOKTOP",
+      "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013554353945100100",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD 20371",
+      "INFRARED OVEN",
+      "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013554354481100100",
+    "details": [
+      "MFGR NINJA",
+      "MOD BL800",
+      "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013555354937200100",
+    "details": [
+      "MFGR DASH",
+      "MOD DSY007SS",
+      "YOGURT MAKER",
+      "WHITE N SILVER"
+    ],
+    "price": 19.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013555358258200100",
+    "details": [
+      "MFGR OSTER",
+      "MOD 0GD2112",
+      "BLACK",
+      "1600W WATTS",
+      "PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 34.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013559239578100100",
+    "details": [
+      "MFGR EMERSON",
+      "MOD MW8781SB",
+      "BLK",
+      "1.05KW WATTS",
+      "NON-PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 29.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534278301100100",
+    "details": [
+      "MFGR RIVAL",
+      "MOD VS112",
+      "VACUUM SEAL",
+      "WHITE"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013534280568200100",
+    "details": [
+      "MFGR DOMETIC",
+      "MOD RH4470",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534281858100100",
+    "details": [
+      "MFGR NUWAVE",
+      "MOD 20353",
+      "ELECTRIC OVEN",
+      "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013534282329100100",
+    "details": [
+      "MFGR DANBY",
+      "MOD DCR412W",
+      "WHITE"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534283386100100",
+    "details": [
+      "MFGR KEURIG",
+      "MOD K70",
+      "BLACK N SILVER",
+      "PROGRAMMABLE"
+    ],
+    "price": 99.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534285026200100",
+    "details": [
+      "MFGR REGAL",
+      "MOD K6774",
+      "BREAD MAKER",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534285411100100",
+    "details": [
+      "MFGR JACK LALANNE",
+      "MOD CL-003AP",
+      "POWER JUICER",
+      "WHITE"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534285489200100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD ICE-45",
+      "ICE CREAM MAKER",
+      "RED"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534285803100100",
+    "details": [
+      "MFGR GEORGE FOREMAN",
+      "MOD GR8BLK",
+      "GRILL",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Toaster Oven",
+    "longICN": "013534285949100100",
+    "details": [
+      "MFGR OSTER",
+      "MOD TSSTTVXLDG-001",
+      "SILVER"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534287950100100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD DGB-600BC",
+      "SILVER/BLACK",
+      "PROGRAMMABLE"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534288101100100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD DGB-600BC",
+      "STAINLESS STEEL",
+      "PROGRAMMABLE"
+    ],
+    "price": 29.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534288439100100",
+    "details": [
+      "MFGR BABYCAKES",
+      "MOD DN-95LZ",
+      "DNUT MAKER",
+      "YELLOW"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013534289024100100",
+    "details": [
+      "MFGR LG",
+      "MOD NSA30LACG",
+      "WHITE"
+    ],
+    "price": 54.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534289223100100",
+    "details": [
+      "MFGR BELLA KITCHEN",
+      "MOD XJ-6K116G",
+      "FRYER",
+      "SILVER"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534289224100100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD CKSBSW1525",
+      "QUESADILLA MAKER",
+      "PINK"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534289424200100",
+    "details": [
+      "MFGR PRECISION",
+      "MOD NUWAVE 2",
+      "INDUCTION COOK TOP",
+      "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Toaster Oven",
+    "longICN": "013534289441100100",
+    "details": [
+      "MFGR FARBERWARE",
+      "MOD 103738",
+      "BLACK N SILVER"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Toaster Oven",
+    "longICN": "013534289692200100",
+    "details": [
+      "MFGR RONCO",
+      "MOD 4000",
+      "WHITE"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534289801200100",
+    "details": [
+      "MFGR TASSIMO",
+      "MOD BOSCH",
+      "BLACK",
+      "PROGRAMMABLE"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Toaster Oven",
+    "longICN": "013534289835200100",
+    "details": [
+      "MFGR ELITE",
+      "MOD RO-1010X",
+      "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534289851200100",
+    "details": [
+      "MFGR BRENTWOOD",
+      "MOD JC-250",
+      "JUICER",
+      "WHITE"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534289912100100",
+    "details": [
+      "MFGR JUICEMAN",
+      "MOD JM550S",
+      "JUICER",
+      "SILVER"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534290062100100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD 25475",
+      "BREAKFAST SANDWICH MAKER",
+      "GREY"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534290071100100",
+    "details": [
+      "MFGR KEURIG",
+      "MOD K60WR",
+      "BLACK",
+      "PROGRAMMABLE"
+    ],
+    "price": 124.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534290817100100",
+    "details": [
+      "MFGR KITCHEN AID",
+      "MOD K5SS",
+      "MIXER",
+      "WHITE"
+    ],
+    "price": 119.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534291095200100",
+    "details": [
+      "MFGR SMART PLANET",
+      "MOD CPM-1K",
+      "DONUTHOLE MAKER",
+      "RED"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534292181100100",
+    "details": [
+      "MFGR KITCHENAID",
+      "MOD KSM150PSER",
+      "STAND MIXER",
+      "ARTISAN RED"
+    ],
+    "price": 199.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534292288100100",
+    "details": [
+      "MFGR BC CLASSIC",
+      "MOD HSS-09",
+      "SANDWHICH MAKER",
+      "WHITE"
+    ],
+    "price": 12.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534292455200100",
+    "details": [
+      "MFGR KEURIG",
+      "MOD K2.0-500",
+      "BLACK",
+      "PROGRAMMABLE"
+    ],
+    "price": 149.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534293351200100",
+    "details": [
+      "MFGR RIVAL",
+      "MOD CKRVSTLM20",
+      "STEAMER",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013534294292200100",
+    "details": [
+      "MFGR CUISINART",
+      "MOD DCC3000",
+      "BLK",
+      "PROGRAMMABLE"
+    ],
+    "price": 54.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013534294419200100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD 33245",
+      "CROCK POT",
+      "BLACK/SILVER"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013534294990100100",
+    "details": [
+      "MFGR SHAHAAR",
+      "MOD YD2088E",
+      "BLK"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013535295675100100",
+    "details": [
+      "MFGR JACK LALANNE",
+      "MOD POWER JUICER PRO",
+      "JUICER",
+      "S STEEL"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Coffee Maker",
+    "longICN": "013535295742100100",
+    "details": [
+      "MFGR KEURIG",
+      "MOD B3000",
+      "BLACK&SILVER",
+      "PROGRAMMABLE",
+      "IN BOX"
+    ],
+    "price": 219.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013535297566200100",
+    "details": [
+      "MFGR SENSIO",
+      "MOD GH815",
+      "PANINI MAKER",
+      "SSBLK"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Blender",
+    "longICN": "013535298184200100",
+    "details": [
+      "MFGR NUTRIBULLET",
+      "MOD MAGIC BULLET",
+      "GREY"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013535298763200100",
+    "details": [
+      "MFGR GALANZ",
+      "MOD GL31S5",
+      "GRAY"
+    ],
+    "price": 119.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013535299027200100",
+    "details": [
+      "MFGR OSTER",
+      "MOD 5834",
+      "BREAD MAKER",
+      "WHITE"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Microwave",
+    "longICN": "013535299029200100",
+    "details": [
+      "MFGR HAMILTON BEACH",
+      "MOD HB-P100N30AL-S3",
+      "WHITE",
+      "1500 WATTS",
+      "NON-PROGRAMMABLE",
+      "WITH CAROUSEL"
+    ],
+    "price": 34.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Refrigerator",
+    "longICN": "013535300099200100",
+    "details": [
+      "MFGR DANBY",
+      "MOD DCR412BLS",
+      "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc.Kitchen Accessory",
+    "longICN": "013535300123200100",
+    "details": [
+      "MFGR SODA STREAM",
+      "MOD SODA MAKER KIT",
+      "AT HOME SODA MAKER",
+      "BLACK"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  }
+]

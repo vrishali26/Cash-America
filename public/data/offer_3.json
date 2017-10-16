@@ -1,0 +1,12 @@
+{
+  "offerID": 3,
+  "offerCode": "0",
+  "offerTitle": "Layaway",
+  "imageURL": "http://www.cashamerica.com/images/offer/r_Layaway.jpg",
+  "bigImageURL": "http://www.cashamerica.com/images/offer/d_Layaway.jpg",
+  "description": "If you see something in one of our stores that you like, but don't have the cash on hand to buy it, don't worry. We have an easy layaway program. With just 10% down and easy payments, it'll be yours in no time!",
+  "linkURL": "",
+  "barcode": "",
+  "isDisplayRotator": true,
+  "hasTerms": true
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013524205051100100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "BACK LIT TIGER PICTURE",
+      "BIB"
+    ],
+    "price": 39.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013524207839100100",
+    "details": [
+      "MFGR CRYSTAL PICTURE FRAME",
+      "MOD N/A",
+      "Pat. NONE",
+      "1 PCS",
+      "PICTURE FRAME"
+    ],
+    "price": 5.0,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013524212874100100",
+    "details": [
+      "MFGR CASTLETON",
+      "MOD 4872",
+      "SILVER SERVING PLATTER"
+    ],
+    "price": 39.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013514257867100100",
+    "details": [
+      "MFGR SCRIBED POPPY",
+      "MOD N/A",
+      "OIL JAR W/ DRIZZLE SPOUT",
+      "SELLS FOR $15 ON MANUFACTURE W"
+    ],
+    "price": 12.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013514257867100200",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "ANGLE W/ HARP"
+    ],
+    "price": 12.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013514262892100100",
+    "details": [
+      "MFGR WATERFORD",
+      "MOD SIREN 16\" VASE",
+      "Pat. TWIST",
+      "1 PCS",
+      "16\" VASE"
+    ],
+    "price": 299.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013515268430100100",
+    "details": [
+      "MFGR SHARON TIMM",
+      "MOD VASE",
+      "DECRATIVE VASE",
+      "HALF BACK LOAN"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013515269671200100",
+    "details": [
+      "MFGR SWAROVSKI",
+      "MOD CRYSTAL PIG",
+      "CRYSTAL PIG"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013515269964200100",
+    "details": [
+      "MFGR GOLDINGER",
+      "MOD SERVING/CAKE",
+      "SERVING/CAKE KNIFE SET"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013534280109100100",
+    "details": [
+      "MFGR MR CHRISTMAS",
+      "MOD K33",
+      "MUSIC BOX W/ DANCERS"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013554338055100100",
+    "details": [
+      "MFGR ICEHOUSE",
+      "MOD N/A",
+      "ICEHOUSE MIRROR"
+    ],
+    "price": 45.0,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531206359100200",
+    "details": [
+      "MFGR DECROATIVE PLATE",
+      "MOD NV",
+      "DECORATIVE PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531206359100500",
+    "details": [
+      "MFGR DECROATIVE PLATE",
+      "MOD NV",
+      "DECORATIVE PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531206359100800",
+    "details": [
+      "MFGR DECROATIVE PLATE",
+      "MOD NV",
+      "DECORATIVE PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531206359101000",
+    "details": [
+      "MFGR DECROATIVE PLATE",
+      "MOD NV",
+      "DECORATIVE PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531218067100200",
+    "details": [
+      "MFGR MJ HUMMEL",
+      "MOD COME BACK SOON",
+      "DECORATIVE PLATE"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531218827200100",
+    "details": [
+      "MFGR DANIEL WRIGHT",
+      "MOD MYSTIC WARRIORS",
+      "4470B-SET OF SIX NAT AM PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531218827200600",
+    "details": [
+      "MFGR DANIEL WRIGHT",
+      "MOD MYSTIC WARRIORS",
+      "4470B-SET OF SIX NAT AM PLATES"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531219445200100",
+    "details": [
+      "MFGR W.L.GEORGE",
+      "MOD MORNING SERENADE",
+      "DECORATIVE PLATE"
+    ],
+    "price": 12.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531219446200100",
+    "details": [
+      "MFGR KNOWLES",
+      "MOD THE SINGING LESSON",
+      "DECORATIVE PLATE"
+    ],
+    "price": 12.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531219447200200",
+    "details": [
+      "MFGR JL WHITING",
+      "MOD IN WINTER WOODS",
+      "DECORATIVE PLATE"
+    ],
+    "price": 12.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531220968100700",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "13 COLLECTORS PLATES"
+    ],
+    "price": 9.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013531220968100800",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "13 COLLECTORS PLATES"
+    ],
+    "price": 9.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013531228195100100",
+    "details": [
+      "MFGR CRESTWOOD",
+      "MOD PLATINUM DINNER WARE",
+      "Pat. PLANTINUM BOARDER",
+      "10 PCS"
+    ],
+    "price": 129.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013532229884100100",
+    "details": [
+      "MFGR ORCHIDS OF HAWAII",
+      "MOD BUDHA DOLLS",
+      "6 SMALL GREEN BUDDHAS"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013454273130100100",
+    "details": [
+      "MFGR PHILLIPS PETROLEUM",
+      "MOD AVIATION SERIES PRINTS",
+      "PRINTS"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013454273130100200",
+    "details": [
+      "MFGR PHILLIPS PETROLEUM",
+      "MOD AVIATION SERIES PRINTS",
+      "PRINTS"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013454273130100300",
+    "details": [
+      "MFGR PHILLIPS PETROLEUM",
+      "MOD AVIATION SERIES PRINTS",
+
+      "PRINTS"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013454273130100400",
+    "details": [
+      "MFGR PHILLIPS PETROLEUM",
+      "MOD AVIATION SERIES PRINTS",
+      "PRINTS"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013454273130100500",
+    "details": [
+      "MFGR PHILLIPS PETROLEUM",
+      "MOD AVIATION SERIES PRINTS",
+      "PRINTS"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013454275867200100",
+    "details": [
+      "MFGR BAVARIA",
+      "MOD WALDERSHOF",
+      "VASE",
+      "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013454277472200100",
+    "details": [
+      "MFGR INTL.SILVER  COMPANY",
+      "MOD N/A",
+      "SLVR PLATED SERVING PLATER"
+    ],
+    "price": 24.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013454279095200100",
+    "details": [
+      "MFGR WESTMORLAND",
+      "MOD N/A",
+      "Pat. UNKNOWN",
+      "31 PCS"
+    ],
+    "price": 39.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013454284966200100",
+    "details": [
+      "MFGR SONY",
+      "MOD DPF-A72N",
+      "DIGITAL PHOTO FRAME"
+    ],
+    "price": 69.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013455288404200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "SWORD W/PAINTED EAGLES"
+    ],
+    "price": 24.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624112353100100",
+    "details": [
+      "MFGR B.J WILLIAMS",
+      "MOD GUARDIAN SPIRIT",
+      "MARBLE PRINT"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624120891200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "CANDY DISH"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013624120892200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "Pat. FANCY",
+      "8 PCS"
+    ],
+    "price": 17.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624121072100100",
+    "details": [
+      "MFGR WATERFORD",
+      "MOD N/A",
+      "Pat. DIAMONDS",
+      "8 PCS",
+      "CUPS"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624121073100100",
+    "details": [
+      "MFGR WATERFORD",
+      "MOD N/A",
+      "Pat. DIAMOND",
+      "8 PCS",
+      "WATER CUPS"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624121075100100",
+    "details": [
+      "MFGR WATERFORD",
+      "MOD N/A",
+      "Pat. XXXX",
+      "7 PCS",
+      "CHAMPAGNE DESSERT BOWLS"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624121622200100",
+    "details": [
+      "MFGR EDWIN M KNOWLES",
+      "MOD MAKING BELIEVE AT THE MIRROR",
+      "PLATE",
+      "IN ORIGINAL BOX"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624124680100100",
+    "details": [
+      "MFGR THE HIGHLAND MINT",
+      "MOD MARIO LEMIEUX",
+      "TOPPS #9 1985 BRONZE",
+      "0742 OF 5000"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624124680100200",
+    "details": [
+      "MFGR THE HIGHLAND MINT",
+      "MOD DALE EARNHARDT",
+      "PRESSPASS 1994 BRONZE",
+      "2313 OF 5000"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624124827200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "Pat. FREE FORM",
+      "2 PCS",
+      "DECORATIVE"
+    ],
+    "price": 89.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624125335100100",
+    "details": [
+      "MFGR WALT DISNEY CLASSICS",
+      "MOD WELCOME HOME LITTLE DARLING",
+      "LADY&THE TRAMP FIGURINE"
+    ],
+    "price": 44.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624125718200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "Pat. CANDLE HOLDER",
+      "1 PCS",
+      "CANDLE HOLDER"
+    ],
+    "price": 4.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624127383100100",
+    "details": [
+      "MFGR PICTURE GALLERIES INC.",
+      "MOD WHO",
+      "PAINTING"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128299100100",
+    "details": [
+      "MFGR LENOX",
+      "MOD WHITE HORSE",
+      "HORSE FIGURINE WITH PARROT"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624128480100100",
+    "details": [
+      "MFGR RIEDEL",
+      "MOD DECANTER",
+      "Pat.",
+      "1 PCS",
+      "RED WINE DECANTER"
+    ],
+    "price": 129.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+    {
+    "itemName": "Crystal",
+    "longICN": "013624128481100100",
+    "details": [
+      "MFGR WATERFORD",
+      "MOD VASE",
+      "Pat.",
+      "1 PCS",
+      "VASE"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128517100200",
+    "details": [
+      "MFGR LENOX",
+      "MOD N/A",
+      "YELLOW CAROSEL HORSE"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128528100200",
+    "details": [
+      "MFGR LENOX",
+      "MOD N/A",
+      "HORSE: PINK & YLW SADDLE"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128530100100",
+    "details": [
+      "MFGR LENOX",
+      "MOD N/A",
+      "HORSE: RED & GREEN SADDLE"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128536100100",
+    "details": [
+      "MFGR GEOBEL",
+      "MOD 153",
+      "AUF WEIDERSEHEN"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624128540100100",
+    "details": [
+      "MFGR HADLEY HOUSE",
+      "MOD PLATES"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624129134100100",
+    "details": [
+      "MFGR AUSTIN PROD",
+      "MOD INDIAN MOTHER AND CHILD",
+      "STATUE"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624129601100100",
+    "details": [
+      "MFGR CHARLES WYSOCKI",
+      "MOD PAGE'S BAKE SHOP",
+      "PAINTING"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624129602100100",
+    "details": [
+      "MFGR DUCKS",
+      "MOD PAINTING",
+      "DUCKS BY WATER PAINTING"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624129604100100",
+    "details": [
+      "MFGR JEAN VIETOR",
+      "MOD COTTON WORLD",
+      "RABBIT IN  THE SNOW"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624131054100100",
+    "details": [
+      "MFGR BOB PEJMAN",
+      "MOD RENDEZVOUS IN VENICE",
+      "OIL PAINTING CANVAS",
+      "38/45 PP CANVAS EDITION LARGE"
+    ],
+    "price": 1999.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624131069100100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "WHITE LAMP"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013624131204100100",
+    "details": [
+      "MFGR VERSACE",
+      "MOD MEDUSA SMALL GLASS",
+      "Pat. GREEN WITH WHITE MEDUSA HEAD",
+      "1 PCS",
+      "WINE GLASS"
+    ],
+    "price": 159.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013624131251100100",
+    "details": [
+      "MFGR VERSACE",
+      "MOD CHAMPAGNE GLASS",
+      "CHAMPAGNE GLASS",
+      "BIB"
+    ],
+    "price": 159.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013624131409200100",
+    "details": [
+      "MFGR KATHY MORROW",
+      "MOD Z IS FOR ZEBRA",
+      "ZEBRA BUTTERFLY"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624131461200100",
+    "details": [
+      "MFGR THE TRAIL OF PAINTED PONIES",
+      "MOD 12251 DYNASTY PONY",
+      "COLLECTOR PONY"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624131462200100",
+    "details": [
+      "MFGR THE TRAIL OF PAINTED PONIES",
+      "MOD 12267 TRAIL OF HONOR",
+      "COLLECTOR PONY"
+    ],
+    "price": 89.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013624131472200100",
+    "details": [
+      "MFGR MONTANA SILVERSMITHS",
+      "MOD IT'S DAYS LIKE THIS...",
+      "2 HORSES"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625132394100100",
+    "details": [
+      "MFGR DEPARTMENT 56",
+      "MOD 4030744",
+      "SNOW VILLAGE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133450200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133451200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133454200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133455200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "POOH & TIGGER ON RAFT"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133456200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133457200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133459200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "MICKEY & MINNIE PLAYING MUSIC"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133460200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133461200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 199.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625133462200100",
+    "details": [
+      "MFGR LENOX",
+      "MOD DISNEY SHOWCASE",
+      "FIGURINE"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Painting",
+    "longICN": "013625133737200100",
+    "details": [
+      "MFGR SUE SWERDLOW",
+      "MOD JUNGLESCAPE SUIT NO.1",
+      "PORTRAIT"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013625134851200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "SANTA"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013324387363100100",
+    "details": [
+      "MFGR SMALL WORLD RHYTHM",
+      "MOD T0939F",
+      "WALL CLOCK"
+    ],
+    "price": 35.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013324387662100200",
+    "details": [
+      "MFGR KRISTAL",
+      "MOD BELL",
+      "Pat. BELL",
+      "2 PCS",
+      "BELL"
+    ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Set Of Fine China",
+    "longICN": "013324393115100100",
+    "details": [
+      "MFGR OLD COUNTRY ROSE",
+      "MOD ROYAL ALBERT",
+      "Pat. ROSE",
+      "43 PCS"
+    ],
+    "price": 89.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013324393115100200",
+    "details": [
+      "MFGR HOME CONCEPTS",
+      "MOD N/A",
+      "Pat.",
+      "49 PCS"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013324397392100100",
+    "details": [
+      "MFGR LENOX",
+      "MOD CRYSTAL DOLPHINE CANDLE HOLD",
+      "Pat. DOLPHINE",
+      "2 PCS",
+      "CANDLE HOLDERS"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Sign(S)",
+    "longICN": "013324401722100200",
+    "details": [
+      "MFGR U2",
+      "MOD AT WAR",
+      "WOODEN POSTER"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013325403867100100",
+    "details": [
+      "MFGR WM ROGERSON & SON",
+      "MOD N/A",
+      "Pat. FLOWERS",
+      "50 PCS",
+      "GOLDPLATED"
+    ],
+    "price": 89.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013325408328200100",
+    "details": [
+      "MFGR TIFFANY & CO",
+      "MOD DECANTER",
+      "Pat. LINING UP AND ACROSS",
+      "2 PCS",
+      "DECANTER"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013325408336200100",
+    "details": [
+      "MFGR GORHAM",
+      "MOD NORMAN ROCKWELL",
+      "DECORATIVE PLATE"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013325408337200100",
+    "details": [
+      "MFGR GORHAM",
+      "MOD NORMAL ROCKWELL",
+      "DECORATIVE PLATE"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013325408338200100",
+    "details": [
+      "MFGR GORHAM",
+      "MOD NORMAN ROCKWELL",
+      "DECORATIVE PLATE"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013325408339200100",
+    "details": [
+      "MFGR GORHAM",
+      "MOD NORMAN ROCKWELL",
+      "DECORATIVE PLATE"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Set Of Casual Dinnerware",
+    "longICN": "013334509310100100",
+    "details": [
+      "MFGR JOHNYS GEMS",
+      "MOD SILVERWARE 200PC SET",
+      "Pat. THIALAND SET",
+      "200 PCS"
+    ],
+    "price": 199.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013334509523100100",
+    "details": [
+      "MFGR BREIKRISTALL",
+      "MOD N/A",
+      "Pat. N/A",
+      "4 PCS",
+      "BLUE/CLEAR CRYSTAL WINE GLASSE"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013334512232100100",
+    "details": [
+      "MFGR DISNEY",
+      "MOD N/A",
+      "MICKEY AND MINNIE MOUSE",
+      "PER SONYA"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Figurine(S)",
+    "longICN": "013334512235100100",
+    "details": [
+      "MFGR LENOX",
+      "MOD N/A",
+      "POOH AND TIGGER DANCE",
+      "PER SONYA"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013334512897100100",
+    "details": [
+      "MFGR JOAN WALSH",
+      "MOD N/A",
+      "PLATE"
+    ],
+    "price": 2.0,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Misc. Accessory",
+    "longICN": "013334513515100100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "CLAY VASE"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Crystal",
+    "longICN": "013334513738200100",
+    "details": [
+      "MFGR PRINCESS HOUSE",
+      "MOD N/A",
+      "Pat. FLOWERS",
+      "1 PCS",
+      "BOWL",
+      "00"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  }
+]

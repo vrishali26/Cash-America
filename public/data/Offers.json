@@ -1,0 +1,14 @@
+[
+  {
+    "offerID": 1,
+    "imageURL": "http://www.cashamerica.com/images/offer/r_Save10.jpg"
+  },
+  {
+    "offerID": 2,
+    "imageURL": "http://www.cashamerica.com/images/offer/r_Pledge.jpg"
+  },
+  {
+    "offerID": 3,
+    "imageURL": "http://www.cashamerica.com/images/offer/r_Layaway.jpg"
+  }
+]

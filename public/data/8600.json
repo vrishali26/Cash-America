@@ -1,0 +1,1340 @@
+[
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013523197095100100",
+    "details": [
+      "MFGR RAINBOW",
+      "MOD PN-2E",
+      "1? GAL",
+      "NO BLOWER"
+    ],
+    "price": 167.0,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013524207754100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD U6430-900",
+      "12 AMPS",
+      "GREEN"
+    ],
+    "price": 19.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013524209804200100",
+    "details": [
+      "MFGR ORECK",
+      "MOD U4090H2BPD",
+      "4.0 AMPS",
+      "BLUE/BLK"
+    ],
+    "price": 99.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013524212272100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC07",
+      "12 AMPS",
+      "BLUE"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013524212811100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD PRO HEAT"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Buffer",
+    "longICN": "013653038949100100",
+    "details": [
+      "MFGR MASTERCRAFT",
+      "MOD MHS-20E",
+      "0 PAD SIZE",
+      "60HZ 120V 15.2AMP HP/CC"
+    ],
+    "price": 399.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013654041085200100",
+    "details": [
+      "MFGR EUREKA",
+      "MOD 980",
+      "11 AMPS"
+    ],
+    "price": 39.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013654042686200100",
+    "details": [
+      "MFGR BON AIRE",
+      "MOD N/A",
+      "CAR VACUUME"
+    ],
+    "price": 9.88,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013654042767100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD POWERGLIDE",
+      "2X17 AMPS",
+      "BLUE"
+    ],
+    "price": 124.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013654044589100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD SK410",
+      "KOHLS 100 NEW"
+    ],
+    "price": 49.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013514257980200200",
+    "details": [
+      "MFGR SHARK",
+      "MOD V1510",
+      "GRAY/BLACK"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013514257982100100",
+    "details": [
+      "MFGR GENIE",
+      "MOD PRO600Q",
+      "6.0 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013514258193100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 3881-L",
+      "2 AMPS",
+      "GREY"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013514259837100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD PRO HEAT PET",
+      "12 AMPS",
+      "MAX"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013514263696200100",
+    "details": [
+      "MFGR CRAFTSMAN",
+      "MOD 113.175550",
+      "SHOP VAC"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013514263838100100",
+    "details": [
+      "MFGR SCUNCI",
+      "MOD SS1000"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013554339396100100",
+    "details": [
+      "MFGR MINUTEMAN",
+      "MOD 4XK49",
+      "FLOOR SCRUBBER"
+    ],
+    "price": 699.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013554341355200100",
+    "details": [
+      "MFGR KIRBY",
+      "MOD GENERATION 3",
+      "GREY ZEBRA STRIPE"
+    ],
+    "price": 109.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013554343077100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC17",
+      "12 AMPS",
+      "CLR/BLU",
+      "MAX"
+    ],
+    "price": 124.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013554344350100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD F5810",
+      "7.1 AMPS"
+    ],
+    "price": 39.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Misc. Vacuum Cleaner",
+    "longICN": "013554344446200100",
+    "details": [
+      "MFGR IROBOT",
+      "MOD ROOMBA",
+      "ROBOT VACUUM"
+    ],
+    "price": 249.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013554347106100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC24",
+      "24 AMPS",
+      "ORANGE"
+    ],
+    "price": 129.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013554350118100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD SC630W"
+    ],
+    "price": 44.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013554352126100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC40",
+      "12 AMPS"
+    ],
+    "price": 119.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Buffer",
+    "longICN": "013554352310100100",
+    "details": [
+      "MFGR TENNANT NOBLES",
+      "MOD BR2000",
+      "18-20 PAD SIZE",
+      ". HP/CC"
+    ],
+    "price": 1479.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013531223183100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD EP85SS",
+      "GREY"
+    ],
+    "price": 11.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013534275669200100",
+    "details": [
+      "MFGR ORECK",
+      "MOD BB870-AW",
+      "4 AMPS"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013534279604200100",
+    "details": [
+      "MFGR CONAIR",
+      "MOD VO8480"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013534280107100100",
+    "details": [
+      "MFGR EMERSON",
+      "MOD WD20250",
+      "2.5 GAL",
+      "WITH BLOWER"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013534282988100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC23",
+      "12A AMPS"
+    ],
+    "price": 249.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013534286361100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC14",
+      "PURPLE"
+    ],
+    "price": 89.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Vacuum Cleaner",
+    "longICN": "013534287695100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC39",
+      "DYSON ANIMAL CANISTER VACUUM"
+    ],
+    "price": 129.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Misc. Vacuum Cleaner",
+    "longICN": "013534289796100100",
+    "details": [
+      "MFGR I ROBOT",
+      "MOD 4210",
+      "REMOTE CONT VACUUM"
+    ],
+    "price": 79.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013534292502100100",
+    "details": [
+      "MFGR KIRBY",
+      "MOD G10D",
+      "N AMPS",
+      "SILVER",
+      "IT WAS BOUGHT HERE"
+    ],
+    "price": 69.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013535295782100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC28",
+      "12 AMPS",
+      "PURPLE"
+    ],
+    "price": 159.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013535295946100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC25",
+      "11 AMPS",
+      "PURPLE & GREY"
+    ],
+    "price": 119.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013454269700100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC23"
+    ],
+    "price": 174.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013454270207100100",
+    "details": [
+      "MFGR SHOP VAC",
+      "MOD N/A",
+      "5 GAL",
+      "2 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013454271748200100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD STEAM VAC"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013454275443200100",
+    "details": [
+      "MFGR SCUNCI",
+      "MOD SS1000"
+    ],
+    "price": 22.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013454276269100100",
+    "details": [
+      "MFGR KENT",
+      "MOD KX120"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013454278144100100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD DYNAMITE",
+      "12 AMPS",
+      "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013454278856100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 1770"
+    ],
+    "price": 34.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013454279583200100",
+    "details": [
+      "MFGR RIDGID",
+      "MOD WD1270",
+      "12 GAL",
+      "5 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013454279988100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD H3060",
+      "GREEN"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013454281514200100",
+    "details": [
+      "MFGR SHARK",
+      "MOD SC630W",
+      "STEAMER"
+    ],
+    "price": 22.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013454281599200100",
+    "details": [
+      "MFGR RAINBOW",
+      "MOD E SERIES",
+      "120 AMPS"
+    ],
+    "price": 159.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013454281951100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC50",
+      "6 AMPS",
+      "PURPLE",
+      "MAX"
+    ],
+    "price": 199.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Vacuum Cleaner",
+    "longICN": "013454283059100100",
+    "details": [
+      "MFGR RAINBOW",
+      "MOD R12102M",
+      "VACUUM",
+      "BIB"
+    ],
+    "price": 399.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013454283517100100",
+    "details": [
+      "MFGR AERUS",
+      "MOD C134F"
+    ],
+    "price": 79.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+    {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013454283799200100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD UD70150",
+      "10 AMPS",
+      "RED"
+    ],
+    "price": 34.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013454284030200100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD H3000",
+      "WET/DRY VACUUM"
+    ],
+    "price": 39.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013454284680200100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD N/A",
+      "12 AMPS"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013455285623200100",
+    "details": [
+      "MFGR CRAFTSMAN",
+      "MOD 113.177610",
+      "16 GAL",
+      "6 HP/CC",
+      "WITH BLOWER"
+    ],
+    "price": 79.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013455288723200100",
+    "details": [
+      "MFGR EURO-PRO",
+      "MOD SC 500H"
+    ],
+    "price": 34.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Commercial Vacuum",
+    "longICN": "013624112507100100",
+    "details": [
+      "MFGR SHOP VAC",
+      "MOD MAC11-250",
+      "CORDED AMPS"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013624114190100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD FH50020"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013624116707100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD S3300",
+      "STEAM CLEANER"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013624118963100100",
+    "details": [
+      "MFGR RIGID",
+      "MOD WD09700",
+      "8.2 AMPS"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013624121613200100",
+    "details": [
+      "MFGR RIDGID",
+      "MOD WD18500",
+      "16 GAL",
+      "6.5 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 37.0,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013624121814100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 25A3",
+      "12 AMPS",
+      "MAX 20.00"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013624125860100100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD 08230",
+      "RED"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Shampooer",
+    "longICN": "013624126785100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 9200-P"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013624127402200100",
+    "details": [
+      "MFGR EUREKA",
+      "MOD 169",
+      "2.0 AMPS",
+      "YELLOW"
+    ],
+    "price": 13.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013624127852100100",
+    "details": [
+      "MFGR EUREKA",
+      "MOD 3282",
+      "2 AMPS",
+      "RED"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013624128131100100",
+    "details": [
+      "MFGR EUREKA",
+      "MOD 169",
+      "2.0 AMPS",
+      "YELLOW"
+    ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013624128154100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD NV44-FS",
+      "1 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013624130281100100",
+    "details": [
+      "MFGR AVON",
+      "MOD CAR VAC",
+      "CAR VAC"
+    ],
+    "price": 8.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013624131202200100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD H3044"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013625131963100100",
+    "details": [
+      "MFGR ALL AROUND",
+      "MOD QAS60",
+      "5 GAL",
+      "1 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013625132111100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD S3251"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013625132113100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD NV500W26",
+      "10 AMPS",
+      "WHITE & RED"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013625132451100100",
+    "details": [
+      "MFGR DYSON",
+      "MOD DC65",
+      "GRAY & PRUPLE",
+      "BIB"
+    ],
+    "price": 249.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013625134984200100",
+    "details": [
+      "MFGR SHOP VAC",
+      "MOD QL60",
+      "6 GAL",
+      "WITH BLOWER"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013625136169200100",
+    "details": [
+      "MFGR AIR SPEED",
+      "MOD ZUUM",
+      "12 AMPS",
+      "YELLOW"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013625136375200100",
+    "details": [
+      "MFGR SHOP VAC",
+      "MOD 5 GAL",
+      "5 GAL GAL",
+      "2.0 HP HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 4.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013625136616200100",
+    "details": [
+      "MFGR IROBOT",
+      "MOD SCOOBA 330",
+      "FLOOR WASHING ROBOT"
+    ],
+    "price": 89.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013625136635200100",
+    "details": [
+      "MFGR SHARK",
+      "MOD S3101N3"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013625137170200100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 1425-R",
+      "UPHOLSTRY CLEANER"
+    ],
+    "price": 44.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013321325424100100",
+    "details": [
+      "MFGR SHOP VAC",
+      "MOD 86L400",
+      "4.0 GAL",
+      "WITH BLOWER"
+    ],
+    "price": 59.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Commercial Vacuum",
+    "longICN": "013322334280200100",
+    "details": [
+      "MFGR SHARK",
+      "MOD SV769SP14",
+      "1 GAL",
+      "1 AMPS"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013323358352100100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD 08240",
+      "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013323371328100100",
+    "details": [
+      "MFGR MYTEE",
+      "MOD LITE II",
+      "EXTRACTOR"
+    ],
+    "price": 399.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Commercial Vacuum",
+    "longICN": "013323371329100100",
+    "details": [
+      "MFGR TENNANT",
+      "MOD 3500",
+      "8.5 AMPS"
+    ],
+    "price": 199.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013324381968200100",
+    "details": [
+      "MFGR METRO",
+      "MOD VM500",
+      "BLK"
+    ],
+    "price": 99.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013324383179100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD EUROPRO"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Handheld Vacuum",
+    "longICN": "013324383987100100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD M08230C",
+      "RED"
+    ],
+    "price": 13.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013324386100100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD XL21",
+      "12 AMPS",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013324387319100100",
+    "details": [
+      "MFGR GENIE",
+      "MOD SV200Q",
+      "6 GAL",
+      "2.0 HP/CC",
+      "WITH BLOWER"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013324389121100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD UH70140",
+      "12.0 AMPS",
+      "RED"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Vacuum Cleaner",
+    "longICN": "013324389122100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD BB870-AD",
+      "VACUUM CLEANER"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013324389633100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD XL2800H2",
+      "12 AMPS",
+      "GRAY AND BLK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Steam Cleaner",
+    "longICN": "013324391133200100",
+    "details": [
+      "MFGR ORECK",
+      "MOD STEAM100LRH"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Upright Vacuum Cleaner",
+    "longICN": "013324391145100100",
+    "details": [
+      "MFGR ORECK",
+      "MOD XL21",
+      "12 AMPS",
+      "BRWON AND BLACK"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013324391237100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 23T7-V",
+      "7 AMPS"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013324391309200100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 5200",
+      "20 OZ GAL",
+      "60 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 49.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Wet/Dry Vacuum",
+    "longICN": "013324391599100100",
+    "details": [
+      "MFGR DIRT DEVIL",
+      "MOD UD40350",
+      "120 HP/CC",
+      "NO BLOWER"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Floor Cleaner",
+    "longICN": "013324391916100100",
+    "details": [
+      "MFGR SHARK",
+      "MOD MV2010WM2",
+      "VACCUM THEN STEAMER"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Commercial Vacuum",
+    "longICN": "013324392155100100",
+    "details": [
+      "MFGR BISSELL",
+      "MOD 53F8",
+      "12 GAL",
+      "12 AMPS"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Canister Vacuum Cleaner",
+    "longICN": "013324393980100100",
+    "details": [
+      "MFGR HOOVER",
+      "MOD UH72400",
+      "11 AMPS"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  }
+]

@@ -1,0 +1,44 @@
+.socialsignin{
+  .terms{
+     color:#fff;
+     margin:0 auto;
+     margin-top:125px;
+     width:80%;
+     a{
+       color:#67c4ff;
+       text-decoration:none;
+     }
+  }
+  .continuebtn{
+    background: rgb(80,170,226); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(80,170,226,1) 0%, rgba(42,138,212,1) 99%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(80,170,226,1)), color-stop(99%,rgba(42,138,212,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(80,170,226,1) 0%,rgba(42,138,212,1) 99%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(80,170,226,1) 0%,rgba(42,138,212,1) 99%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(80,170,226,1) 0%,rgba(42,138,212,1) 99%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(80,170,226,1) 0%,rgba(42,138,212,1) 99%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#50aae2', endColorstr='#2a8ad4',GradientType=0 ); /* IE6-9 */
+    height:38px;
+    color:#fff;
+    width:80%;
+    border:none;
+    margin-top:20px;
+  }
+  .modal{
+  top:20%;
+  
+  }
+  .modal-body{
+  text-align:left;
+  h1{
+  font-size:18px;
+  }
+  }
+  .modal-footer{
+
+  button{
+  width:48%;
+    color:#5090ce;
+  }
+  }
+}

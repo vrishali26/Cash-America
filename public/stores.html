@@ -1,0 +1,30 @@
+<div class="container-fluid  text-center" ng-controller="storesctrl" id="storepage">
+	 <h4 class="panel-heading">Stores</h4>
+	 <span class="neargetDirection">
+	 	 <a ui-sref="changeLocation">Near you</a>
+	 	</span>
+	 <div class="panel-group pan_height" id="accordion">
+	 	<div class="panel panel-default" ng-repeat="store in mainCategoryStore">
+	 		<div class="panel-heading">
+	 			<h4 class="panel-title">
+	 				<a ui-sref="storesdetails" ng-click="storedDeatils(store.storeNumber)" href="javascript:;" data-toggle="collapse" data-parent="#accordion" data-target="#collapsestored" >
+	 					<p><span class="headingstored">{{store.brand}}</span><span class="floatL">{{store.address.address1}}</span></p>
+	 					<span class="floatR">{{(store.distance/1000).toFixed(1) +"miles"}}</span>
+	 				</a>
+	 			</h4>
+	 		</div>
+	 		<div id="collapsestored" class="panel-collapse collapse in" >
+      	<div class="panel-body" ng-repeat="subcategory in subCategory">
+     	{{store.address}}
+     	 </div>
+    	</div>
+	 		
+	 	</div>
+	 </div>
+	<ul class="nav nav-tabs navbar-fixed-bottom">
+		<li><a  data-toggle="tab" href="#" ui-sref="home" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>
+		<li ><a  data-toggle="tab" href="#" ui-sref="products"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>
+		<li><a href="#" data-toggle="tab" ui-sref="stores"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>
+		<li><a href="#" data-toggle="tab" ui-sref="offers"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>
+	</ul>
+</div>

@@ -1,0 +1,129 @@
+.container-fluid.offersdetails {
+		padding: 0;
+		background-color: #fff;
+
+		h4{
+			color:#555;
+			margin:0;
+			color:#fff;
+			padding : 20px 15px;
+background: transparent linear-gradient(to bottom, #2c70bf 0%, #4c8dcd 99%) repeat scroll 0% 0%;
+			a > span.glyphicon-chevron-left {
+				float:left;
+				color:#fff;
+			}
+		}	
+
+	.offer_details {
+		div{
+			width:100%;
+			text-align: left;
+			background-color: #fff;
+			img {
+				width: 100%;
+			}
+			h3 {
+				padding:0 15px;
+			}
+			p {
+				padding:0 15px;
+			}
+			a {
+			width: 78.125%;
+margin: 25px auto 35px;
+height: 40px;
+padding-top: 7px;
+padding-bottom: 10px;
+font-size: 16px;
+background: transparent linear-gradient(to bottom, #46a5e0 0%, #2272b3 99%) repeat scroll 0% 0%;
+border: medium none;
+			}
+			img.barcode{
+				width: 48%;
+				margin: 25px 26%;
+			}
+			hr {
+			margin: 0 11%;
+width: 78%;
+			}
+			p.o_code{
+				text-align: center;
+				margin-bottom: 60px;
+			}
+			a.see_terms {
+				background: transparent linear-gradient(to bottom, #ebebeb 0%, #e0e0e0 99%) repeat scroll 0% 0%;
+				color: #2a9ae4;
+			}
+		}
+		
+	
+
+	}
+
+
+	.nav {
+		width:100%;
+		li{
+		background-color:#286197;
+		width:25%;
+		}
+		.glyphicon{
+		background-size:50%;
+		height: 33px;
+	   // left: 28%;
+	    position: absolute;
+	    top: 8px;
+	    width: 42px;
+		margin-left:-5px;
+		}
+		.glyphicon-stores{
+		background: url("../images/store.png") no-repeat scroll 0px 0px;
+		background-size: 32% auto;
+		}
+		.glyphicon-promotions{
+		background: url("../images/promotions.png") no-repeat scroll 0px 0px;
+		background-size: 60% auto;
+		}
+		a{
+		padding:10px 7px;
+		color:#fff;
+		}
+		a:hover,a.active,a:focus{
+		background-color:#1b436a;
+		border:none;
+		border-bottom:none;
+		margin-bottom:1px;
+		}
+	}	
+	.glyphicon-product{
+	background: url("../images/product.png") no-repeat scroll 0px 0px;
+	}
+	.glyphicon-homeicon{
+	background: url("../images/home.png") no-repeat scroll 0px 0px;
+	}
+	.btn-info{
+	color:#b9b9b9;
+	background-color:#fff;
+	border-color:#b9b9b9;
+	}
+	.panel-title{
+		position:relative;
+		text-align: left;
+		.glyphicon {
+		text-align:right;
+		}
+		a:hover{
+		text-decoration:none;
+		}
+		img{
+		position:absolute;
+		left:0;
+		}
+		span{
+		position:absolute;
+		right:0;
+		}
+	}
+	
+}
+

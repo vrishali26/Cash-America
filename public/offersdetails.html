@@ -1,0 +1,29 @@
+<div class="container-fluid text-center offersdetails">
+  <h4 class="panel-heading"><a href="#" ui-sref="offers"><span class="glyphicon glyphicon-chevron-left" ></span></a>Special Offer</h4>
+  <div class="offer_details" ng-controller="specialOffersController">
+
+      <div>
+        <img ng-src="{{offerdetail.imageURL}}"/>
+        <h3>{{offerdetail.offerTitle}}</h3>
+        <p>{{offerdetail.description}}</p>
+        <a href="#" class="btn btn-block  btn-pinterest">
+                   Visit Website
+         </a>
+         <hr>
+        <img class="barcode" ng-src="{{offerdetail.barcode}}"/>
+        <p class="o_code"><strong>CODE : </strong>{{offerdetail.offerCode}}</p>
+
+        <a href="#" class="btn btn-block see_terms">
+                  See Terms
+         </a>
+      </div>
+
+      <!-- <ul>
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Save10.jpg"></a></li>
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Pledge.jpg"></a></li>
+          <li><a href="#"><img src="http://www.cashamerica.com/images/offer/r_Layaway.jpg"></a></li>
+      </ul>
+ -->
+  </div> 
+</div>
+

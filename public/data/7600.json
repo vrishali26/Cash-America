@@ -1,0 +1,1815 @@
+[
+
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013525215263200100",
+    "details": 
+
+    [
+        "MFGR KELTY",
+        "MOD REDCLOUD 90",
+        "BACKPACK",
+        "GREEN"
+    ],
+    "price": 119.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013512233808200100",
+    "details": 
+
+    [
+        "MFGR HARDIGG",
+        "MOD TL500I",
+        "PELICAN CASE",
+        "ARMY GREEN W/ AFGHAN DIRT"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514261307100100",
+    "details": 
+
+    [
+        "MFGR BUSHNELL",
+        "MOD TRKR T500L",
+        "FLASHLIGHT",
+        "BLK"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514263542100100",
+    "details": 
+
+    [
+        "MFGR ZIPPO",
+        "MOD LIGHTER",
+        "LIGHTER",
+        "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514264209100200",
+    "details": 
+
+    [
+        "MFGR MAGLITE",
+        "MOD MINI",
+        "MAG LITE MINI",
+        "BLUE"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514265930100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD CT-15MC",
+        "FLASHLIGHT",
+        "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514265930100200",
+    "details": 
+
+    [
+        "MFGR MAGLITE",
+        "MOD LED PRO",
+        "FLASHLIGHT",
+        "PURPLE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514265930100300",
+    "details": 
+
+    [
+        "MFGR MAGLITE",
+        "MOD LED PRO",
+        "FLASHLIGHT",
+        "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013515269154200300",
+    "details": 
+
+    [
+        "MFGR ZIPPO",
+        "MOD LIGHTER",
+        "LIGHTER",
+        "SILVER"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013514260590100100",
+    "details": 
+
+    [
+        "MFGR AEROBED,COLEMAN,ETC",
+        "MOD TENT,AIRBED,CONVERTER,CHAIR",
+        "TENT,AIRBED,CONVERTER,CHAIR",
+        "BLUE,GRY,RED"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "White Gas Camp Stove",
+    "longICN": "013514255876200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 425E",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013514260295100100",
+    "details": 
+
+    [
+        "MFGR PRIMUS",
+        "MOD 329285",
+        "RED & GRY",
+        "2 BURNERS"
+    ],
+    "price": 74.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013515269554200100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD GCT904W",
+        "BLACK",
+        "2 BURNERS"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013514260274100100",
+    "details": 
+
+    [
+        "MFGR OTTLITE",
+        "MOD CDO-006",
+        "0 MANTELS",
+        "WHITE"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013514260986100100",
+    "details": 
+
+    [
+        "MFGR LASTER GENETICS",
+        "MOD ND.5 MINI",
+        "1 MANTELS",
+        "BLACK"
+    ],
+    "price": 89.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013514260590100200",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD TENT",
+        "SIZE M",
+        "CANVAS",
+        ".",
+        "BLUE"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013514260590100300",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD TENT",
+        "SIZE L",
+        "PLASTIC",
+        "CABIN",
+        "RED"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013514261217200100",
+    "details": 
+
+    [
+        "MFGR BLUE RHINO",
+        "MOD GBT806T",
+        "GAS",
+        "SIZE 17\" X 13.5\"",
+        "NO ROTISSERIE"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013555355802200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5433700",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 29.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013555355802200200",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 425B",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 19.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013535295865100100",
+    "details": 
+
+    [
+        "MFGR OAKLEY",
+        "MOD 2D-S1242-0",
+        "BACK PACK",
+        "BLK"
+    ],
+    "price": 54.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013454285033100100",
+    "details": 
+
+    [
+        "MFGR PRIMUS",
+        "MOD DUO-FLOW EIGHT",
+        "CATALYTIC HEATER",
+        "GREEN"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013454272269100100",
+    "details": 
+
+    [
+        "MFGR AVENTURER",
+        "MOD 960",
+        "PORTABLE TOILET",
+        "TAN"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013454272720100100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "2 FLASHLIGHTS",
+        "RED"
+    ],
+    "price": 7.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013454272720100200",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "2 FLASHLIGHTS",
+        "RED"
+    ],
+    "price": 7.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013454273871200100",
+    "details": 
+
+    [
+        "MFGR NORCOLD",
+        "MOD DE0051",
+        "RV FRIG",
+        "GREY"
+    ],
+    "price": 79.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Propane Lantern",
+    "longICN": "013454272232100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5107",
+        "1 MANTELS",
+        "GREEN"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013454274170200100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "GAS",
+        "SIZE SMALL",
+        "NO ROTISSERIE"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013454279556100100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD WMT-5100",
+        "SIZE 8X6 +10X9.5",
+        "CANVAS",
+        "DOME",
+        "RED/WHITE"
+    ],
+    "price": 199.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013454283749200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 288A700",
+        "2 MANTELS",
+        "GRN"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013455286290200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD CIMMARON",
+        "SIZE 8 PERSON",
+        "CANVAS",
+        "DOME",
+        "RED"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013624118938100100",
+    "details": 
+
+    [
+        "MFGR TEXSPORT",
+        "MOD 02776",
+        "SIZE LARGE",
+        "PLASTIC",
+        "MESH",
+        "BLUE RED WHITE"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013624124267100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5400A700",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013624124425100100",
+    "details": 
+
+    [
+        "MFGR KELTY",
+        "MOD REDCLOUD 5600",
+        "BACK PACKS FOR HIKING",
+        "BLU/BLK"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013624124426100100",
+    "details": 
+
+    [
+        "MFGR N/A",
+        "MOD N/A",
+        "HIKING BACK PACK",
+        "GRY/BLU"
+    ],
+    "price": 69.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013624113155100100",
+    "details": 
+
+    [
+        "MFGR AEROBED",
+        "MOD QUEEN MATTRESS",
+        "INFLATABLE MATTRESS",
+        "TAN"
+    ],
+    "price": 89.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013325405301200100",
+    "details": 
+
+    [
+        "MFGR EMBARK",
+        "MOD QUAD CHAIR",
+        "CAMPING CHAIR",
+        "GREEN"
+    ],
+    "price": 9.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013323374266100100",
+    "details": 
+
+    [
+        "MFGR DEUTER",
+        "MOD N/A",
+        "HIKING BACKPACK",
+        "GREY"
+    ],
+    "price": 59.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013324398643100100",
+    "details": 
+
+    [
+        "MFGR HAMMOCK",
+        "MOD SINGLE NEST",
+        "SINGLE NEST HAMMOCK",
+        "GRAY"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013324400418200100",
+    "details": 
+
+    [
+        "MFGR NORTHWEST",
+        "MOD N/A",
+        "FOLDING CHAIR",
+        "BLUE/STEAK OF YELLOW"
+    ],
+    "price": 15.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013324400419200100",
+    "details": 
+
+    [
+        "MFGR NORTHWEST",
+        "MOD N/A",
+        "FOLDING CHAIR",
+        "BLUE"
+    ],
+    "price": 15.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "White Gas Camp Stove",
+    "longICN": "013324401525100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 508",
+        "REN",
+        "1 BURNERS"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013325406657200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD ROADTRIP LXE",
+        "GAS",
+        "SIZE N/A",
+        "NO ROTISSERIE"
+    ],
+    "price": 139.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013334509991200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5430B700",
+        "BLK",
+        "1 BURNERS"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013334515089100100",
+    "details": 
+
+    [
+        "MFGR FROST CUTLERY",
+        "MOD N/A",
+        "GIANT KNIFE",
+        "BROWN/SILVER"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013334519255200100",
+    "details": 
+
+    [
+        "MFGR SOG",
+        "MOD SOGFARI",
+        "MACHETE",
+        "STEEL & BLK"
+    ],
+    "price": 19.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013464343053100100",
+    "details": 
+
+    [
+        "MFGR CYCLOPS",
+        "MOD THOR PLATINUM C15MIL",
+        "RECHARGEABLE SPOTLIGHT",
+        "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "White Gas Camp Stove",
+    "longICN": "013464353096100100",
+    "details": 
+
+    [
+        "MFGR JACCARD",
+        "MOD 200510",
+        "NLK",
+        "1 BURNERS"
+    ],
+    "price": 21.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013464354567200100",
+    "details": 
+
+    [
+        "MFGR MAGINON",
+        "MOD K1",
+        "OUT DORE CAMAMERA",
+        "BLACK"
+    ],
+    "price": 99.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013464359226200100",
+    "details": 
+
+        [
+            "MFGR NORTHWEST TERRITORY",
+            "MOD N/A",
+            "POP UP TABLE AND CHAIR",
+            "BLUE"
+        ],
+        "price": 69.99,
+        "distance": 398.2788,
+        "storeNumber": "01346",
+        "shortName": "LV17"
+    },
+	{
+
+    "itemName": "Grill",
+    "longICN": "013464351677100100",
+    "details": 
+
+    [
+        "MFGR WEBER",
+        "MOD 7524",
+        "GAS/CAN",
+        "SIZE",
+        "NO ROTISSERIE"
+    ],
+    "price": 44.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Deep Fry/Outdoor Burners",
+    "longICN": "013474281439200100",
+    "details": 
+
+    [
+        "MFGR THREESIXTY",
+        "MOD 102"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013474283653100100",
+    "details": 
+
+    [
+        "MFGR BURNTON",
+        "MOD N/A",
+        "ATMOSPHERIC DATA CENTER",
+        "GREY"
+    ],
+    "price": 14.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013475293946200100",
+    "details": 
+
+    [
+        "MFGR MAGLITE",
+        "MOD N/A",
+        "FLASHLIGHT",
+        "BLACK"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013475294708200100",
+    "details": 
+
+    [
+        "MFGR GEORGE FOREMAN",
+        "MOD GR10ABW",
+        "ELECTRIC",
+        "SIZE GRILL",
+        "W/ ROTISSERIE"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013475294985200100",
+    "details": 
+
+    [
+        "MFGR GEORGE FOREMAN",
+        "MOD GR10ABW",
+        "ELECTRIC",
+        "SIZE MINI",
+        "W/ ROTISSERIE"
+    ],
+    "price": 14.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013423413309200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD QUICKPUMP II",
+        "AIR PUMP",
+        "BLACK"
+    ],
+    "price": 4.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013424440724200100",
+    "details": 
+
+    [
+        "MFGR NORTHWEST TERRITORY",
+        "MOD NV",
+        "SIZE 12 X 12",
+        "PLASTIC",
+        "DOME",
+        "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013424442366100100",
+    "details": 
+
+    [
+        "MFGR CABIN TENT",
+        "MOD WMT-1390",
+        "SIZE 13X9",
+        "PLASTIC",
+        "CABIN",
+        "BLUE,WHITE,ORANGE"
+    ],
+    "price": 99.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013423425825100100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD 2 PERSON TENT",
+        "SIZE 7FT X7 FT",
+        "CANVAS",
+        "DOME",
+        "BLUE / BLK"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Propane Lantern",
+    "longICN": "013423418546100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD NORTHSTAR LANTERN",
+        "1 MANTELS",
+        "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013424446102200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD CPX6",
+        "1 MANTELS",
+        "RED"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013424449620200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5310",
+        "1 MANTELS",
+        "GREEN BLACK"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013423425889100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD N/A",
+        "FLASH LIGHT",
+        "ARMY GREEN"
+    ],
+    "price": 24.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013424432145100100",
+    "details": 
+
+    [
+        "MFGR GRILL'N & CHILL'N",
+        "MOD N/A",
+        "COOLER/BBQ COMBO",
+        "RED LUNCH BAG"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "White Gas Camp Stove",
+    "longICN": "013425455530100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 414700",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 39.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013345490129200100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD INSTANT CABIN TENT",
+        "SIZE 14X10",
+        "PLASTIC",
+        "CABIN",
+        "BLK/GRAY/BLUE"
+    ],
+    "price": 159.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013374643046100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE"
+    ],
+    "price": 14.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013644089880200200",
+    "details": 
+
+    [
+        "MFGR ZIPPO",
+        "MOD LIGHTER",
+        "LIGHTER",
+        "SILVER"
+    ],
+    "price": 7.99,
+    "distance": 403.6421,
+    "storeNumber": "01364",
+    "shortName": "LV23"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013305504743200100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013305504877200100",
+    "details": 
+
+    [
+        "GREEN"
+    ],
+    "price": 19.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013305504878200100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "RED"
+    ],
+    "price": 14.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013444678849100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD N/A",
+        "COOKING POTS",
+        "GRY"
+    ],
+    "price": 19.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013445699687100100",
+    "details": 
+
+    [
+        "MFGR JIM FROST",
+        "MOD 440 STAINLESS",
+        "KNIFE",
+        "BROWN HANDLE"
+    ],
+    "price": 15.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013445699687100200",
+    "details": 
+
+    [
+        "MFGR CHIPAWAY CUTLERY",
+        "MOD N/A",
+        "KNIFE",
+        "BROWN HANDLE"
+    ],
+    "price": 15.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013445700352200100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD 58627",
+        "AIR PUMP",
+        "BLK"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013445700868100100",
+    "details": 
+
+    [
+        "MFGR PEAK PERFORMANCE",
+        "MOD PKC0TN",
+        "SPOTLIGHT",
+        "SILVER"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013445702425200100",
+    "details": 
+
+    [
+        "MFGR VECTOR",
+        "MOD VEC222HD",
+        "MINI TRAVEL COOLER",
+        "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013444698692100100",
+    "details": 
+
+    [
+        "MFGR SUNSET SPORT",
+        "MOD N/A",
+        "SIZE 10 PERSON",
+        "CANVAS",
+        "IN BLACK BAG"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Sleeping Bag",
+    "longICN": "013444696225200100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD N/A",
+        "POLY",
+        "BLK"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013444693167200100",
+    "details": 
+
+    [
+        "MFGR GEORGE FOREMAN",
+        "MOD GR2B",
+        "ELECTRIC",
+        "SIZE SMALL",
+        "NO ROTISSERIE"
+    ],
+    "price": 4.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Ice Chest",
+    "longICN": "013444697491200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 58586A718G",
+        "SIZE 56QTS",
+        "BLUE"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Water Cooler",
+    "longICN": "013444690481200100",
+    "details": 
+
+    [
+        "MFGR BLACK & DECKER",
+        "MOD TC212FRB",
+        "SIZE 15",
+        "BLK"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013444677920200100",
+    "details": 
+
+    [
+        "MFGR GEORGE FOREMAN",
+        "MOD GR10ABW",
+        "ELECTRIC",
+        "SIZE S",
+        "NO ROTISSERIE"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Grill",
+    "longICN": "013445706790200100",
+    "details": 
+
+    [
+        "MFGR GEORGE FOREMAN",
+        "MOD GR10ABW",
+        "ELECTRIC",
+        "SIZE S",
+        "NO ROTISSERIE"
+    ],
+    "price": 9.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013444690612200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5469",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013444690615200100",
+    "details": 
+
+    [
+        "MFGR AMCO",
+        "MOD A100",
+        "BLK",
+        "1 BURNERS"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013444698209200100",
+    "details": 
+
+    [
+        "MFGR ACE",
+        "MOD ACE-07",
+        "BLK",
+        "1 BURNERS"
+    ],
+    "price": 39.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Misc. Lantern",
+    "longICN": "013444697624200100",
+    "details": 
+
+    [
+        "MFGR LEGEND",
+        "MOD FT-2235A",
+        "BLK"
+    ],
+    "price": 19.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013444676593100100",
+
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 5461",
+        "BLKGRY",
+        "2 BURNERS"
+    ],
+    "price": 59.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013444687818100100",
+    "details": 
+
+    [
+        "MFGR GASONE",
+        "MOD GS-1000",
+        "BLACK",
+        "1 BURNERS"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013384552795100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD POWERHOUSE UNLEADED 414",
+        "GREEN",
+        "2 BURNERS"
+    ],
+    "price": 29.99,
+    "distance": 405.1746,
+    "storeNumber": "01338",
+    "shortName": "LV09"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013385578822100100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD 9924-700",
+        "BLUE",
+        "2 BURNERS"
+    ],
+    "price": 19.99,
+    "distance": 405.1746,
+    "storeNumber": "01338",
+    "shortName": "LV09"
+
+},
+{
+
+    "itemName": "Propane Camp Stove",
+    "longICN": "013354888266100100",
+    "details": 
+
+    [
+        "MFGR GASONE",
+        "MOD GS3000",
+        "BLK",
+        "1 BURNERS"
+    ],
+    "price": 19.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Tent",
+    "longICN": "013354889727200100",
+    "details": 
+
+    [
+        "MFGR COLEMAN",
+        "MOD N/A",
+        "SIZE 20",
+        "CANVAS",
+        "DOME",
+        "GRN",
+        "W/FLOOR MAT"
+    ],
+    "price": 49.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013354891608100100",
+    "details": 
+
+    [
+        "MFGR OZARK TRAIL",
+        "MOD N/A",
+        "CANOPY",
+        "BLUE"
+    ],
+    "price": 59.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013354887574100100",
+    "details": 
+
+    [
+        "MFGR VERSALITE",
+        "MOD N/A",
+        "FOLDING ARM CHAIR",
+        "GRN"
+    ],
+    "price": 19.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013354887575100100",
+    "details": 
+
+    [
+        "MFGR VERSALITE",
+        "MOD N/A",
+        "FOLDING ARM CHAIR",
+        "BLUE"
+    ],
+    "price": 19.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013354887577100100",
+    "details": 
+
+    [
+        "MFGR TRAIL RIDGE",
+        "MOD N/A",
+        "FOLDING ARM CHAIR",
+        "RED"
+    ],
+    "price": 19.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+
+},
+{
+
+    "itemName": "Misc. Camping Equipment",
+    "longICN": "013354887825100100",
+    "details": 
+
+        [
+            "MFGR TRENDZ",
+            "MOD N/A",
+            "FLASHLIGHT",
+            "GREEN"
+        ],
+        "price": 12.99,
+        "distance": 405.6625,
+        "storeNumber": "01335",
+        "shortName": "LV06"
+    }
+]

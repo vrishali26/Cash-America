@@ -1,0 +1,835 @@
+[
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624115160100100",
+    "details": [
+      "MFGR BCBGENERATION",
+      "HEELS",
+      "SIZE 10",
+      "TAN"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624115864100100",
+    "details": [
+      "MFGR TIMBERLAND",
+      "BOOTS",
+      "SIZE 10.5",
+      "SWADE",
+      "TAN"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624118359200100",
+    "details": [
+      "MFGR CANTERBURY",
+      "RUGBY BOOTS",
+      "SIZE 10",
+      "LEATHER",
+      "BLACK AND RED"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624120285100100",
+    "details": [
+      "MFGR REEBOK",
+      "RUNNING",
+      "SIZE 9.5",
+      "GREY"
+    ],
+    "price": 20.0,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624125558200100",
+    "details": [
+      "MFGR BEBE",
+      "LADIES",
+      "SIZE 7M",
+      "SNAKE SKIN",
+      "PURPLE & PINK"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624125560200100",
+    "details": [
+      "MFGR GUESS",
+      "KNEE HIGH",
+      "SIZE 7 1/2",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624125696100100",
+    "details": [
+      "MFGR SKECHERS",
+      "RUNNING",
+      "SIZE 9.5",
+      "AQUA:YLW:BLU:WHITE"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624125757100100",
+    "details": [
+      "MFGR LA SPORTIVA",
+      "HIKING BOOTS",
+      "SIZE 8",
+      "LEATHER/WATER-PROOF",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624128639200100",
+    "details": [
+      "MFGR NIKE",
+      "SIZE 14",
+      "BLK & WHITE"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624128993100100",
+    "details": [
+      "MFGR ADIDAS",
+      "STREETBALL 1.5",
+      "SIZE 14",
+      "CLOTH",
+      "BLUE/ORANGE/WHITE"
+    ],
+    "price": 39.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624130160200100",
+    "details": [
+      "MFGR DR. MARTENS",
+      "SIZE 12 US M, 13 US L",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624130162200100",
+    "details": [
+      "MFGR DR. MARTENS",
+      "SIZE 12 US M, 13 US L",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624130845200100",
+    "details": [
+      "MFGR JORDAN",
+      "SIZE 9",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013624131760200100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "WOMENS BOOTS",
+      "SIZE 8",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013625136497200100",
+    "details": [
+      "MFGR REEBOK",
+      "HIGHTOP",
+      "SIZE 11.5",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013625137130200100",
+    "details": [
+      "MFGR JORDAN",
+      "HIGHTOP",
+      "SIZE 11",
+      "CLOTH",
+      "GREY/WHITE"
+    ],
+    "price": 59.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013625137185200100",
+    "details": [
+      "MFGR JORDANS",
+      "BASKETBALL SHOES",
+      "SIZE 6Y",
+      "LEATHER",
+      "BLACK W/ PINK"
+    ],
+    "price": 34.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013334519138100100",
+    "details": [
+      "MFGR COACH",
+      "COACH TENNIS",
+      "SIZE 9.5",
+      "COACH",
+      "BRN/TAN"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013424441674100100",
+    "details": [
+      "MFGR EMU",
+      "SPORTS",
+      "SIZE 8",
+      "SUEDE",
+      "RED"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013364625675100100",
+    "details": [
+      "MFGR LOUIS VUITTON",
+      "SIZE 9",
+      "BLUE",
+      "BIB"
+    ],
+    "price": 699.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013364625677100100",
+    "details": [
+      "MFGR GISVY",
+      "SIZE 42",
+      "SUEDE",
+      "BLUE"
+    ],
+    "price": 669.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013344458822100100",
+    "details": [
+      "MFGR JORDAN",
+      "ATHLETIC",
+      "SIZE 9.5",
+      "GREEN/BLK/YELLOW"
+    ],
+    "price": 199.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013374629554100100",
+    "details": [],
+    "price": 19.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013304493507200100",
+    "details": [],
+    "price": 39.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444677391100100",
+    "details": [
+      "MFGR JORDANS",
+      "GRAY WITH SKY BLUE",
+      "SIZE 13",
+      "GRAY AND SKY BLUE",
+      "BIB"
+    ],
+    "price": 89.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444685875200100",
+    "details": [
+      "MFGR SCARPA",
+      "ROCK CLIMBIN",
+      "SIZE 7",
+      "ROCK",
+      "BLK/TAN"
+    ],
+    "price": 79.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444691428200100",
+    "details": [
+      "MFGR MANOLO BLAHNIK",
+      "HEELS",
+      "SIZE 38",
+      "RED"
+    ],
+    "price": 299.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444691430200100",
+    "details": [
+      "MFGR STUART WEITZMAN",
+      "WOMENS",
+      "SIZE",
+      "GOLD"
+    ],
+    "price": 159.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444695578100100",
+    "details": [
+      "MFGR COACH",
+      "WOMENS",
+      "SIZE 8.5",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 69.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444697759200100",
+    "details": [
+      "MFGR COACH",
+      "WOMENS",
+      "SIZE 8B",
+      "LEATHER",
+      "PINK BROWN"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444698222100100",
+    "details": [
+      "MFGR AND1",
+      "RUNNING",
+      "SIZE 13",
+      "LEATHER",
+      "BLK/WHITE/RED"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444698440200100",
+    "details": [
+      "MFGR NIKE",
+      "SIZE 9",
+      "PINK/BLK"
+    ],
+    "price": 39.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013444698923100100",
+    "details": [
+      "MFGR NIKE",
+      "BASKETBALL SHOES",
+      "SIZE 13",
+      "MULTI"
+    ],
+    "price": 69.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013445699958200100",
+    "details": [
+      "MFGR TATE",
+      "CASUAL",
+      "SIZE 7M",
+      "CORK LIKE",
+      "BROWN"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013445700716200100",
+    "details": [
+      "MFGR VANS",
+      "SIZE 5",
+      "LEATHER",
+      "WHT/BLK"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013445702242200100",
+    "details": [
+      "MFGR COLE HANN",
+      "FASHION",
+      "SIZE 10",
+      "LEATHER",
+      "BROW"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013445703922200100",
+    "details": [
+      "MFGR COUP D'ETAT",
+      "HUARACHE",
+      "SIZE 10 1/2",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013445703922200200",
+    "details": [
+      "MFGR COUP D'ETAT",
+      "HUARACHE",
+      "SIZE 10 1/2",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 24.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494609040200100",
+    "details": [
+      "MFGR NIKE",
+      "BASKETBALL",
+      "SIZE 8",
+      "RUBBER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494611076100100",
+    "details": [
+      "MFGR CAPEZIO",
+      "TAP DANCING SHOES",
+      "SIZE 6",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494613597100100",
+    "details": [
+      "MFGR NIKE",
+      "SIZE 8.5",
+      "BLUE/PURPLE"
+    ],
+    "price": 99.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494616275100100",
+    "details": [
+      "MFGR ANGELO FIGUS",
+      "SIZE 37",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494616275100200",
+    "details": [
+      "MFGR ANGELO FIGUS",
+      "SIZE 37",
+      "LEATHER",
+      "RED"
+    ],
+    "price": 39.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494616275100300",
+    "details": [
+      "MFGR ANGELO FIGUS",
+      "SIZE 37",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494616289100100",
+    "details": [
+      "MFGR NIKE AIR",
+      "SPORT",
+      "SIZE 8.5",
+      "NYLON",
+      "WHITE"
+    ],
+    "price": 79.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494616321100100",
+    "details": [
+      "MFGR NIKE",
+      "SPORT",
+      "SIZE 14",
+      "NYLON",
+      "WHITE/RED"
+    ],
+    "price": 49.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494617334200100",
+    "details": [
+      "MFGR SALVATORE FERRAGAUNO",
+      "SLIP ON",
+      "SIZE 9 1/2",
+      "SKIN",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494617391100100",
+    "details": [
+      "MFGR TANGO",
+      "SLIP ON",
+      "SIZE 10",
+      "SKIN",
+      "RED/WHITE"
+    ],
+    "price": 24.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494617391100200",
+    "details": [
+      "MFGR STEVE HARVEY FOOTWEAR",
+      "SIZE 10",
+      "SKIN",
+      "GRAY"
+    ],
+    "price": 19.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494620660200100",
+    "details": [
+      "MFGR DEXTER",
+      "BOWLING",
+      "SIZE 10",
+      "CLOTH",
+      "BLUE/WHITE"
+    ],
+    "price": 29.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013494621657100100",
+    "details": [
+      "MFGR NIKE",
+      "AIR JORDAN",
+      "SIZE 9",
+      "LEATHER",
+      "TAN"
+    ],
+    "price": 24.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013404283517100100",
+    "details": [
+      "MFGR GUESS",
+      "LADIES",
+      "SIZE 9M",
+      "PLASTIC",
+      "BROWN AND BEIGE"
+    ],
+    "price": 19.99,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013404284729100100",
+    "details": [
+      "MFGR MICHAEL KORS",
+      "40T3CHHG1L",
+      "SIZE 8M",
+      "LEATHER",
+      "BROWN/BLACK"
+    ],
+    "price": 99.99,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013394515182100100",
+    "details": [
+      "MFGR CHRISTIAN LOUBITON",
+      "HEELS",
+      "SIZE 39.5",
+      "LEATHER",
+      "BLUE"
+    ],
+    "price": 329.99,
+    "distance": 411.7363,
+    "storeNumber": "01339",
+    "shortName": "LV10"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013395520346200100",
+    "details": [
+      "MFGR BURBERRY",
+      "DINNER WARE",
+      "SIZE 11",
+      "PATENT LEATHER",
+      "BLK"
+    ],
+    "price": 479.99,
+    "distance": 411.7363,
+    "storeNumber": "01339",
+    "shortName": "LV10"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013395520748200100",
+    "details": [
+      "MFGR GUCCI",
+      "SIZE 38 1/2",
+      "CLOTH",
+      "BROWN"
+    ],
+    "price": 299.99,
+    "distance": 411.7363,
+    "storeNumber": "01339",
+    "shortName": "LV10"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013604059864200100",
+    "details": [
+      "MFGR PENGUIN",
+      "HIGH TOPS",
+      "SIZE 9",
+      "LEATHER",
+      "BLK"
+    ],
+    "price": 59.99,
+    "distance": 430.6285,
+    "storeNumber": "01360",
+    "shortName": "SD01"
+  },
+  {
+    "itemName": "Pair Of Shoes",
+    "longICN": "013604121967100100",
+    "details": [
+      "MFGR TODD",
+      "PUMP",
+      "SIZE 39",
+      "SUEDE",
+      "TEAL"
+    ],
+    "price": 49.99,
+    "distance": 430.6285,
+    "storeNumber": "01360",
+    "shortName": "SD01"
+  }
+]

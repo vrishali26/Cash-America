@@ -1,0 +1,53 @@
+[
+  {
+    "itemName": "Motorcycle",
+    "longICN": "031043018344100100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "MOD SPORTSTER 883 CUSTOM XL",
+      "2006",
+      "MC",
+      "RED",
+      "ODO: 700"
+    ],
+    "price": 3999.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+  },
+  {
+    "itemName": "Moped",
+    "longICN": "030854031315100100",
+    "details": [
+      "MFGR MOTOVOX",
+      "MOD MBX10",
+      "2012"
+    ],
+    "price": 189.99,
+    "distance": 359.4156,
+    "storeNumber": "03085",
+    "shortName": "C3085"
+  },
+  {
+    "itemName": "Motor Scooter",
+    "longICN": "012225048517100100",
+    "details": [
+      "MFGR HONDA",
+      "ODO:",
+      "FUEL"
+    ],
+    "price": 1999.99,
+    "distance": 423.2685,
+    "storeNumber": "01222",
+    "shortName": "Grb02"
+  },
+  {
+    "itemName": "Motor Scooter",
+    "longICN": "012324475303100100",
+    "details": [],
+    "price": 529.99,
+    "distance": 435.3464,
+    "storeNumber": "01232",
+    "shortName": "WS02"
+  }
+]

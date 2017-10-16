@@ -1,0 +1,66 @@
+{
+  "phone": "7345253963",
+  "address": {
+    "address1": "33471 Ford Road",
+    "address2": "",
+    "state": "MI",
+    "city": "Garden City",
+    "zipCode": "48135"
+  },
+  "services": [
+    "Payday Advances",
+    "Check Cashing",
+    "Prepaid Debit Card",
+    "Money Orders",
+    "Gold Purchase",
+    "Money Transfers",
+    "Income Tax"
+  ],
+  "weeklyHours": [
+    {
+      "weekDay": "Monday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": true
+    },
+    {
+      "weekDay": "Tuesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Wednesday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Thursday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Friday",
+      "openTime": "9:00 am",
+      "closeTime": "7:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Saturday",
+      "openTime": "9:00 am",
+      "closeTime": "5:00 pm",
+      "isToday": false
+    },
+    {
+      "weekDay": "Sunday",
+      "openTime": "CLOSED",
+      "closeTime": "CLOSED",
+      "isToday": false
+    }
+  ],
+  "licenses": [],
+  "storeNumber": "03412",
+  "shortName": "C3412"
+}

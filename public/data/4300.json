@@ -1,0 +1,517 @@
+[
+
+{
+
+    "itemName": "Pistol",
+    "longICN": "001274301696100100",
+    "details": 
+
+    [
+        "MFGR SPRINGFIELD ARMORY",
+        "MOD XD-40",
+        "SEMI-AUTO ACTION"
+    ],
+    "price": 349.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334043551100100",
+    "details": 
+
+    [
+        "MFGR BERETTA",
+        "MOD 96",
+        "SEMI-AUTO ACTION",
+        "40 CAL.",
+        "SINGLE BRL.",
+        "5 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 549.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334044115100100",
+    "details": 
+
+    [
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 399.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Revolver",
+    "longICN": "012334152493200600",
+    "details": 
+
+    [
+        "MFGR SMITH & WESSON",
+        "MOD M637",
+        "DOUBLE ACTION",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334152493200900",
+    "details": 
+
+    [
+        "MFGR SMITH & WESSON",
+        "SEMI-AUTO ACTION",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 499.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334152493201200",
+    "details": 
+
+    [
+        "MFGR SPRINGFIELD",
+        "MOD XD-45",
+        "SEMI-AUTO ACTION",
+        "SINGLE BRL.",
+        "4 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 449.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334153201200500",
+    "details": 
+
+    [
+        "MFGR GLOCK",
+        "MOD 36",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 549.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334153201200600",
+    "details": 
+
+    [
+        "MFGR SIG SAUER",
+        "SEMI-AUTO ACTION",
+        ".380 CAL.",
+        "SINGLE BRL.",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 599.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012334153947200100",
+    "details": 
+
+    [
+        "MFGR HECKLER KOCH",
+        "MOD USP40",
+        "SEMI-AUTO ACTION",
+        "40 CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 899.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335047689100100",
+    "details": 
+
+    [
+        "MFGR SPRINGFIELD ARMORY",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "2 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 399.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154379200100",
+    "details": 
+
+    [
+        "MFGR GLOCK",
+        "SEMI-AUTO ACTION",
+        "9MM CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 519.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154379200200",
+    "details": 
+
+    [
+        "MFGR GLOCK",
+        "SEMI-AUTO ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 559.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154379200600",
+    "details": 
+
+    [
+        "MFGR WALTHER",
+        "MOD P22",
+        "SEMI-AUTO ACTION",
+        "SINGLE BRL.",
+        "2 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 359.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154559200100",
+    "details": 
+
+    [
+        "MFGR GLOCK",
+        "MOD 21",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "4 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 589.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Revolver",
+    "longICN": "012335154559200200",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "MOD SP101",
+        "DOUBLE ACTION",
+        "357 MAG CAL.",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 529.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154559200300",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "SEMI-AUTO ACTION",
+        "09MM CAL.",
+        "SINGLE BRL.",
+        "2 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 419.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154653200400",
+    "details": 
+
+    [
+        "MFGR TAURUS",
+        "DOUBLE ACTION",
+        "09MM CAL.",
+        "SINGLE BRL.",
+        "4 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 329.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Revolver",
+    "longICN": "012335154698200100",
+    "details": 
+
+    [
+        "MFGR MAGNUM RESEARCH",
+        "SINGLE ACTION",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 999.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154705200200",
+    "details": 
+
+    [
+        "MFGR HECKLER KOCH",
+        "SEMI-AUTO ACTION",
+        "9MM CAL.",
+        "SINGLE BRL.",
+        "4 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 599.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Revolver",
+    "longICN": "012335154731200100",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "MOD SP101",
+        "DOUBLE ACTION",
+        "357 MAG CAL.",
+        "4 \"",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 569.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154731200300",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "SEMI-AUTO ACTION",
+        "09MM CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154731200400",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "SEMI-AUTO ACTION",
+        "40 CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154731200700",
+    "details": 
+
+    [
+        "MFGR SPRINGFIELD ARMORY",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 499.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154980200100",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "4 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 649.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "012335154980200200",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "SEMI-AUTO ACTION",
+        "45 ACP CAL.",
+        "SINGLE BRL.",
+        "4 \"",
+        "STAINLESS STEEL FINISH"
+    ],
+    "price": 699.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "013414766115200100",
+    "details": 
+
+    [
+        "MFGR GLOCK",
+        "MOD 22",
+        "SEMI-AUTO ACTION"
+    ],
+    "price": 399.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Pistol",
+    "longICN": "016604288340200100",
+    "details": 
+
+        [
+            "SEMI-AUTO ACTION",
+            "BLUE STEEL FINISH"
+        ],
+        "price": 449.99,
+        "distance": 439.7979,
+        "storeNumber": "01233",
+        "shortName": "WS03"
+    }
+
+]

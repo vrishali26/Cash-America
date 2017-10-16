@@ -1,0 +1,1496 @@
+[
+
+{
+
+    "itemName": "Rod",
+    "longICN": "013524208929100100",
+    "details": 
+
+    [
+        "MFGR BROWNING"
+    ],
+    "price": 49.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013525214337100100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Misc. Fishing Equipment",
+    "longICN": "013525214337100200",
+    "details": 
+
+    [
+        "GREEN"
+    ],
+    "price": 29.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013525216119200100",
+    "details": 
+
+    [
+        "6' IN."
+    ],
+    "price": 24.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013653038458200100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013654041337200100",
+    "details": 
+
+    [
+        "MFGR BERKLEY"
+    ],
+    "price": 15.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013654041764200100",
+    "details": 
+
+    [
+        "MFGR MITCHELL",
+        "SPINNING REEL"
+    ],
+    "price": 49.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013654041788100100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013654041788100200",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013654042897200100",
+    "details": 
+
+    [
+        "MFGR SHIMANO",
+        "MOD BX15",
+        "SPINNING REEL"
+    ],
+    "price": 34.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013513238787200100",
+    "details": 
+
+    [
+        "MFGR OLYMPIA",
+        "BAIT CASTING REEL"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013513246700100100",
+    "details": 
+
+    [
+        "MFGR ABU GARCIA"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514259096100100",
+    "details": 
+
+    [
+        "MFGR DAIWA",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514260221100100",
+    "details": 
+
+    [
+        "MFGR SHIMANO",
+        "BAIT CASTING REEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514260347100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SHAKESPEARE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514260865100100",
+    "details": 
+
+    [
+        "BAIT CASTING REEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514260865100200",
+    "details": 
+
+    [
+        "BAIT CASTING REEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013514261077100100",
+    "details": [ ],
+    "price": 149.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013514261078100100",
+    "details": 
+
+    [
+        "MFGR MARTIN"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013514261078100200",
+    "details": [ ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514261080100100",
+    "details": 
+
+    [
+        "MFGR MARTIN",
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514261080100200",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514261080100300",
+    "details": 
+
+    [
+        "MFGR DAIWA",
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514261080100400",
+    "details": 
+
+    [
+        "MFGR DAIWA",
+        "MOD 4000C",
+        "SALT WATER REEL"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514261178100100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013514261178100200",
+    "details": [ ],
+    "price": 7.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013514261702100100",
+    "details": [ ],
+    "price": 299.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514261998100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "MOD EXCURSION",
+        "SPINNING REEL"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514262730100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514263624200100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514264053200100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514266231100100",
+    "details": 
+
+    [
+        "BAIT CASTING REEL"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514266489100300",
+    "details": 
+
+    [
+        "MFGR PFLUEGER",
+        "SALT WATER REEL"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514266708100100",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "MOD 60",
+        "TROLLING REEL"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013514266708100200",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "MOD 60",
+        "TROLLING REEL"
+    ],
+    "price": 59.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013514266711100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013515268416100100",
+    "details": [ ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013515269238200100",
+    "details": 
+
+    [
+        "BAIT CASTING REEL"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013515269460200100",
+    "details": 
+
+    [
+        "MFGR OKUMA",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013552309365100100",
+    "details": 
+
+    [
+        "MFGR DAIWA",
+        "SPINNING REEL"
+    ],
+    "price": 39.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013552319470100100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 19.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Tackle Box W/Tackle",
+    "longICN": "013554340597100100",
+    "details": 
+
+    [
+        "MFGR FLAMBEAU"
+    ],
+    "price": 19.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013554343844100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE"
+    ],
+    "price": 14.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013554346830200100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 14.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013554349573100100",
+    "details": 
+
+    [
+        "MFGR PFLUEGER"
+    ],
+    "price": 29.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013532251856100100",
+    "details": [ ],
+    "price": 99.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013533256807100100",
+    "details": 
+
+    [
+        "MFGR OKUMA",
+        "M# IM6",
+        "SPINNING REEL"
+    ],
+    "price": 39.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013533272241200100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013534277027100100",
+    "details": 
+
+    [
+        "MFGR ZEBCO",
+        "MOD RHINOTOUGH 33"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013534278054100100",
+    "details": 
+
+        [
+            "MFGR SHAKESPEARE",
+            "SPINNING REEL"
+        ],
+        "price": 19.99,
+        "distance": 195.1841,
+        "storeNumber": "01353",
+        "shortName": "Ren03"
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013534278054100200",
+    "details": 
+
+    [
+        "MFGR QUANTUM",
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013534283877200100",
+    "details": 
+
+    [
+        "MFGR ABU GARCIA",
+        "BAIT CASTING REEL"
+    ],
+    "price": 89.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Misc. Fishing Equipment",
+    "longICN": "013534286205100100",
+    "details": 
+
+    [
+        "MFGR LOWRANCE",
+        "BLACK"
+    ],
+    "price": 119.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013534287958100100",
+    "details": 
+
+    [
+        "MFGR ABU GARCIA",
+        "BAIT CASTING REEL"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Depth Finder",
+    "longICN": "013534288888100100",
+    "details": 
+
+    [
+        "MFGR HUMMINGBIRD",
+        "MOD 561",
+        "NO CASE"
+    ],
+    "price": 89.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Misc. Fishing Equipment",
+    "longICN": "013534289804200100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 44.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Misc. Fishing Equipment",
+    "longICN": "013534289804200200",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 44.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013534292942100100",
+    "details": [ ],
+    "price": 129.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013535295245100100",
+    "details": 
+
+    [
+        "MFGR PENN"
+    ],
+    "price": 159.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013454270300100100",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "SPINNING REEL"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100200",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100300",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100400",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100500",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100700",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 44.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454270708100800",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 44.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Misc. Fishing Equipment",
+    "longICN": "013454272130100100",
+    "details": [ ],
+    "price": 189.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454277779200100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 19.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454277779200200",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454277779200300",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013454281584100100",
+    "details": 
+
+    [
+        "SALT WATER REEL",
+        "6' IN."
+    ],
+    "price": 149.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013624122147200100",
+    "details": 
+
+    [
+        "MFGR DAIWA",
+        "SALT WATER REEL"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013624122148200100",
+    "details": [ ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013624122149200100",
+    "details": 
+
+    [
+        "MFGR HAWK",
+        "MOD 2125"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013624129261200100",
+    "details": 
+
+    [
+        "MFGR SHIMANO",
+        "SPINNING REEL"
+    ],
+    "price": 14.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013325409212200100",
+    "details": 
+
+    [
+        "MFGR PERFORMANCE",
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013325409213200100",
+    "details": 
+
+    [
+        "SPINNING REEL"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013334514729100100",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "SPINNING REEL"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013334514730100100",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "SPINNING REEL"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013334514731100100",
+    "details": 
+
+    [
+        "MFGR PENN",
+        "SPINNING REEL"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013334521499100100",
+    "details": 
+
+    [
+        "MFGR DAIWA"
+    ],
+    "price": 34.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013334525413200100",
+    "details": 
+
+    [
+        "MFGR MAKO",
+        "MOD CALYPSO",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013474275909100100",
+    "details": [ ],
+    "price": 14.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013422389812200100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "MOD FIREBIRD",
+        "SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 12.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013422393502100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "MOD 300"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013424428824200100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424442115100100",
+    "details": 
+
+    [
+        "MFGR OKUMA",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013424447952100100",
+    "details": [ ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013424447953100100",
+    "details": 
+
+    [
+        "MFGR ABU GARCIA",
+        "SPINNING REEL"
+    ],
+    "price": 69.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013424449108200100",
+    "details": 
+
+    [
+        "MFGR SHIMANO"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424449109200100",
+    "details": 
+
+    [
+        "MFGR OKUMA"
+    ],
+    "price": 199.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424449110200100",
+    "details": 
+
+    [
+        "SALT WATER REEL"
+    ],
+    "price": 179.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013424449111200100",
+    "details": 
+
+    [
+        "MFGR CLEARWATER",
+        "SALT WATER REEL"
+    ],
+    "price": 49.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013424449113100100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod",
+    "longICN": "013424449114100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Reel",
+    "longICN": "013424449115200100",
+    "details": 
+
+    [
+        "MFGR ORVIS",
+        "SALT WATER REEL"
+    ],
+    "price": 89.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424449587100100",
+    "details": 
+
+    [
+        "MFGR MASTER",
+        "SPINNING REEL"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424449590100100",
+    "details": 
+
+    [
+        "MFGR SHAKESPEARE",
+        "SHAKESPEARE",
+        "SPINNING REEL"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+
+},
+{
+
+    "itemName": "Rod/Reel",
+    "longICN": "013424449591100100",
+    "details": 
+
+        [
+            "SPINNING REEL"
+        ],
+        "price": 29.99,
+        "distance": 399.3388,
+        "storeNumber": "01342",
+        "shortName": "LV13"
+    }
+]

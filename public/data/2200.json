@@ -1,0 +1,1445 @@
+[
+    {
+        "itemName": "Reciprocating Saw",
+        "longICN": "030714006657100100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD 6519-30",
+            "NO CASE"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "030714006772100100",
+        "details": [
+            "MFGR SEARS",
+            "MOD 57281",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "030714006871100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7448",
+            "1/3 SHEET PAD SIZE",
+            "NO DUST BAG",
+            "ORBITAL SANDER",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "030934002906200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 1166",
+            "3/8 \"",
+            "W/ CASE",
+            "1/2 HP/CC",
+            "4.0 AMPS"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hobby(Hi-Speed) Drill",
+        "longICN": "031143002418200200",
+        "details": [
+            "MFGR DREMEL",
+            "MOD 395",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031143002425200200",
+        "details": [
+            "MFGR RIDGID",
+            "MOD R260",
+            "5IN PAD SIZE",
+            "WITH DUST BAG",
+            "W/ CASE"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031143005379100200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD MS800",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Saw",
+        "longICN": "031144002560200100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD HACKZALL",
+            "W/ CASE",
+            "HACKZALL"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144002718200200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD MOUSE",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "W/ CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hobby(Hi-Speed) Drill",
+        "longICN": "031144002724200300",
+        "details": [
+            "MFGR DREMEL",
+            "MOD 395",
+            "W/ CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144002787200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.111373",
+            "3/8 \"",
+            "W/ CASE",
+            "3.6",
+            "WITH CHARGER"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hobby(Hi-Speed) Drill",
+        "longICN": "031144002885200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD VP940",
+            "W/ CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003261200100",
+        "details": [
+            "MFGR SKIL",
+            "MOD 7300",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "ANGLE SANDER",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144003304200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD PSL12",
+            "CORDLESS JIG SAW",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003367200200",
+        "details": [
+            "MFGR RYOBI",
+            "MOD CFS1503",
+            "1\" X 21\" PAD SIZE",
+            "WITH DUST BAG",
+            "ANGLE SANDER",
+            "W/ CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hobby(Hi-Speed) Drill",
+        "longICN": "031144003429200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 183.17254",
+            "W/ CASE"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144003441200100",
+        "details": [
+            "MFGR DELTA",
+            "MOD GR150",
+            "BENCH GRINDER",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Std. Router",
+        "longICN": "031144003475200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.174921",
+            "W/ CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144003510200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD G950",
+            "DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Soldering Gun",
+        "longICN": "031144003512200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 113.540460",
+            "GUN TYPE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144003530200200",
+        "details": [
+            "MFGR AEG",
+            "MOD STSZ350",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hammer Drill",
+        "longICN": "031144003537200100",
+        "details": [
+            "MFGR CHICAGO",
+            "MOD 45338",
+            "1/2 \"",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003537200400",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7190",
+            "3/8 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "3 AMPS"
+        ],
+        "price": 7.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003548200100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD 1107-1",
+            "1/2 \"",
+            "W/ CASE",
+            "1/2 HP/CC",
+            "4.5 AMPS"
+        ],
+        "price": 149.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003554200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7448",
+            "3\"X21\" PAD SIZE",
+            "NO DUST BAG",
+            "ORBITAL SANDER",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003583200400",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD 444",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "ORBITAL SANDER",
+            "W/ CASE"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144003593200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 319190621",
+            "BENCH GRINDER",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144003597200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7504",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 6.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003597200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7153",
+            "3/8 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "3 AMPS"
+        ],
+        "price": 8.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Reciprocating Saw",
+        "longICN": "031144003620200200",
+        "details": [
+            "MFGR RYOBI",
+            "MOD RJ161V",
+            "W/ CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003638200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD LI2000",
+            "1/2 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "2.2 AMPS"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003643200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7190",
+            "3/8 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "3.5 AMPS"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003662200100",
+        "details": [
+            "MFGR BENCHTOP",
+            "MOD PS180CN",
+            "3\"X21\" PAD SIZE",
+            "NO DUST BAG",
+            "FINISHING SANDER",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003662200200",
+        "details": [
+            "MFGR BENCHTOP",
+            "MOD ES180CN",
+            "3\"X21\" PAD SIZE",
+            "NO DUST BAG",
+            "FINISHING SANDER",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144003662200300",
+        "details": [
+            "MFGR SKIL",
+            "MOD 438002",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144003675200100",
+        "details": [
+            "MFGR BOSCH",
+            "MOD 1375-01",
+            "DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144003675200200",
+        "details": [
+            "MFGR BOSCH",
+            "MOD 1375-01",
+            "DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Shears",
+        "longICN": "031144003695200100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 92115"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hammer Drill",
+        "longICN": "031144003697200200",
+        "details": [
+            "MFGR DEWALT",
+            "MOD D25313",
+            "1/2 \"",
+            "NO CASE"
+        ],
+        "price": 89.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Reciprocating Saw",
+        "longICN": "031144003709200100",
+        "details": [
+            "MFGR PORTER CABLE",
+            "MOD PC75TRS",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003715200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD MS800",
+            "3\"X21\" PAD SIZE",
+            "WITH DUST BAG",
+            "W/ CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hobby(Hi-Speed) Drill",
+        "longICN": "031144003715200400",
+        "details": [
+            "MFGR DREMEL",
+            "MOD 275",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003715200500",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD DS321",
+            "3\"X21\" PAD SIZE",
+            "WITH DUST BAG",
+            "BELT SANDER",
+            "W/ CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144003723200100",
+        "details": [
+            "MFGR SKIL",
+            "MOD HD77",
+            "7 1/4 \" BLADE",
+            "NO CASE"
+        ],
+        "price": 44.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003765200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 31510510",
+            "1/2 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "2.5 AMPS"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Heat Gun",
+        "longICN": "031144003771200100",
+        "details": [
+            "MFGR WAGNER",
+            "MOD 0283864"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144003771200300",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD SC500",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003816200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 406A",
+            "1/2 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "2.2 AMPS"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144003816200200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.10280",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144003836200100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD 1660-1",
+            "1/4 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "7 AMPS"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Grinder/Router",
+        "longICN": "031144003838200100",
+        "details": [
+            "MFGR PRO-SOURCE",
+            "MOD AG174",
+            "DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Chain Saw",
+        "longICN": "031144003900200100",
+        "details": [
+            "MFGR POULAN",
+            "MOD PLN3516F",
+            "16 BAR",
+            "3.5 HP/CC",
+            "NO CASE"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144003904200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD MS1000",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "ANGLE SANDER",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hammer Drill",
+        "longICN": "031144003907200100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD JG001",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Elec. Tool",
+        "longICN": "031144003908200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 1425301",
+            "NO CASE",
+            "UNVERSAL BATTERY CHARGER"
+        ],
+        "price": 7.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Impact Wrench",
+        "longICN": "031144003915200100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DW290"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144003931200100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD 2601-20",
+            "1/2 \"",
+            "W/ CASE",
+            "18.0",
+            "WITH CHARGER"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Air Compressor",
+        "longICN": "031144003934200100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD FP202801",
+            "1 GAL"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Battery",
+        "longICN": "031144003938200100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HPB18-OPE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Battery",
+        "longICN": "031144003938200200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 244760-00"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144003938200500",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.11480",
+            "1/2 \"",
+            "NO CASE",
+            "18.0",
+            "WITH CHARGER"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Std. Router",
+        "longICN": "031144003946200100",
+        "details": [
+            "MFGR ROTOZIP",
+            "MOD SCS01",
+            "W/ CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Miter/Ch0p/Combination Saw",
+        "longICN": "031144003956200100",
+        "details": [
+            "MFGR MAKITA",
+            "MOD LS1030",
+            "NO DUST BAG"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144006254100400",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 406A",
+            "5 1/2 \" BLADE",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Nail Gun",
+        "longICN": "031144006502100200",
+        "details": [
+            "MFGR POWERSHOT PRO",
+            "MOD 9100",
+            "W/ CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Plunge Router",
+        "longICN": "031144006544100200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 406A",
+            "NO CASE"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144006544100300",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 31517215",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Elec. Tool",
+        "longICN": "031144006620100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 900.112600",
+            "W/ CASE",
+            "DRILL SANDER COMBO PACK"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144006754100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD FS6000JSL",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 34.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144006798100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.117920",
+            "4X21 PAD SIZE",
+            "WITH DUST BAG",
+            "BELT SANDER",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Grinder/Router",
+        "longICN": "031144006798100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.17370",
+            "DISC GRINDER",
+            "W/ CASE"
+        ],
+        "price": 26.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144006896100100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD P501",
+            "10 \" BLADE",
+            "W/ CASE"
+        ],
+        "price": 79.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144006928100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD GC1200",
+            "1/2 \"",
+            "W/ CASE",
+            "12.0",
+            "WITH CHARGER"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144006963100100",
+        "details": [
+            "MFGR HITACHI",
+            "MOD WH14DAF2",
+            "3/8 \"",
+            "W/ CASE",
+            "14.4",
+            "WITH CHARGER"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144006980100200",
+        "details": [
+            "MFGR BENCHTOP",
+            "MOD ES18CN",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "NO CASE"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144006997100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD LDX112",
+            "3/4 \"",
+            "NO CASE",
+            "12.0",
+            "WITH CHARGER"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Band Saw / Scroll Saw",
+        "longICN": "031144007039100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 1/3 HP",
+            "NO CASE",
+            "BAND SAW"
+        ],
+        "price": 129.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144007044100600",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7504",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144007051100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD HPB18",
+            "1/2 \"",
+            "W/ CASE",
+            "18.0",
+            "WITH CHARGER"
+        ],
+        "price": 34.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144007138100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 320.17562",
+            "3/8 \"",
+            "NO CASE",
+            "12.0",
+            "WITH CHARGER"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144007208100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7254",
+            "1/2 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "3 AMPS"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144007225100100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DW421",
+            "3\"X21\" PAD SIZE",
+            "WITH DUST BAG",
+            "ORBITAL SANDER",
+            "W/ CASE"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Air Compressor",
+        "longICN": "031144007230100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WL650201AJ",
+            "BLUE",
+            "60 HP/CC",
+            "22 GAL"
+        ],
+        "price": 179.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144007280100100",
+        "details": [
+            "MFGR RYOBI",
+            "MOD P501",
+            "5 1/2 \" BLADE",
+            "W/ CASE"
+        ],
+        "price": 59.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Elec. Tool",
+        "longICN": "031144007311100100",
+        "details": [
+            "MFGR XANTREX",
+            "MOD POWER1500",
+            "NO CASE",
+            "GENERATOR"
+        ],
+        "price": 179.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144007364100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.101531",
+            "3/8 \"",
+            "W/ CASE",
+            "14.4",
+            "WITH CHARGER"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144007377100100",
+        "details": [
+            "MFGR NIKOTA",
+            "MOD MIY-AJ4-180",
+            "7 1/4\" \" BLADE",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144007459100100",
+        "details": [
+            "MFGR BOSCH",
+            "MOD 1375-01",
+            "DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 22.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Drill",
+        "longICN": "031144007459100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD GO252",
+            "3/4 \"",
+            "NO CASE",
+            "1/2 HP/CC",
+            "2.2 AMPS"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Sander",
+        "longICN": "031144007461100200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD MS500",
+            "1\" X 21\" PAD SIZE",
+            "NO DUST BAG",
+            "FINISHING SANDER",
+            "NO CASE"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Hammer Drill",
+        "longICN": "031144007840100100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DW511",
+            "1/2 \"",
+            "NO CASE"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Saw",
+        "longICN": "031144007840100200",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 320.61199",
+            "W/ CASE",
+            "MULTI TOOL"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144007849100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.116890",
+            "3/8 \"",
+            "NO CASE",
+            "19",
+            "WITH CHARGER"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144007925100100",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD 7390",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Jig Saw",
+        "longICN": "031144007925100200",
+        "details": [
+            "MFGR BLACK & DECKER",
+            "MOD JS515",
+            "CORDED JIG SAW",
+            "NO CASE"
+        ],
+        "price": 14.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Table Saw",
+        "longICN": "031144007941100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 315.28461",
+            "10 \" BLADE"
+        ],
+        "price": 59.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Circular Saw",
+        "longICN": "031144007944100100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DW368",
+            "NO CASE"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cordless Drill",
+        "longICN": "031144007963100100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DW954",
+            "3/4 \"",
+            "W/ CASE",
+            "14.4",
+            "WITH CHARGER"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Elect. Impact Wrench",
+        "longICN": "031144007996100100",
+        "details": [
+            "MFGR MILWAUKEE",
+            "MOD 9072-20"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Electric Grinder",
+        "longICN": "031144008006100100",
+        "details": [
+            "MFGR DEWALT",
+            "MOD DWE4011",
+            "ANGLE DISC GRINDER",
+            "NO CASE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    }
+]

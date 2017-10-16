@@ -1,0 +1,105 @@
+.productpage{	
+	padding:0px;
+	.panel{
+	margin-bottom:-5px;
+	}
+	.panel-heading{
+	padding:15px;
+		h4{
+		color:#555;
+		padding-left:15%;
+		}
+	}
+	.nav {
+	width:100%;
+	li{
+	background-color:#286197;
+	width:25%;
+	}
+	.glyphicon{
+	background-size:50%;
+	height: 33px;
+   // left: 28%;
+    position: absolute;
+    top: 8px;
+    width: 42px;
+	margin-left:-5px;
+	}
+	.glyphicon-stores{
+	background: url("../images/store.png") no-repeat scroll 0px 0px;
+	background-size: 32% auto;
+	}
+	.glyphicon-promotions{
+	background: url("../images/promotions.png") no-repeat scroll 0px 0px;
+	background-size: 60% auto;
+	}
+	a{
+	padding:10px 7px;
+	color:#fff;
+	}
+	a:hover,a.active,a:focus{
+	background-color:#1b436a;
+	border:none;
+	border-bottom:none;
+	margin-bottom:1px;
+	}
+	}	
+	.glyphicon-product{
+	background: url("../images/product.png") no-repeat scroll 0px 0px;
+	}
+	.glyphicon-homeicon{
+	background: url("../images/home.png") no-repeat scroll 0px 0px;
+	}
+	.btn-info{
+	color:#b9b9b9;
+	background-color:#fff;
+	border-color:#b9b9b9;
+	}
+	.panel-title{
+	position:relative;
+	text-align: left;
+	.glyphicon {
+	text-align:right;
+	}
+	a:hover{
+	text-decoration:none;
+	}
+	img{
+	position:absolute;
+	left:0;
+	}
+	span{
+	position:absolute;
+	right:0;
+	}
+	}
+	#accordion{
+	//height:312px;
+	overflow:auto;
+	}
+	.navbar-form{
+	padding:0 15px;
+	}
+	.panel-body{
+	padding:0;
+	ul{
+	list-style:none;
+	}
+	}
+	.panel-collapse{
+	.panel-body{
+	padding: 10px;
+	text-align:left;
+	img{
+	margin-right:20px;
+	}
+	}
+	}
+	@media (min-width: 768px){
+	.navbar-right {
+  		float: none !important;
+	}
+	}
+
+}
+

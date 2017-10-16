@@ -1,0 +1,1315 @@
+[
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013523201807100100",
+    "details": [
+      "MFGR DURAFLAME",
+      "MOD 9HM9000-C240",
+      "BROWN"
+    ],
+    "price": 169.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013525216414200100",
+    "details": [
+      "MFGR JIANGSU MEGA MOTOR CO",
+      "MOD 208220",
+      "WOOD"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013654041887100100",
+    "details": [
+      "MFGR DAYTON",
+      "MOD 3VE50",
+      "OIL FIRED HEATER",
+      "ORANGE"
+    ],
+    "price": 219.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Propane Heater",
+    "longICN": "013655045831100100",
+    "details": [
+      "MFGR MR HEATER",
+      "MOD PORTABLE BUDDY",
+      "RED",
+      "9000"
+    ],
+    "price": 44.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013513250060100100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD SAFEHEAT",
+      "OIL HEATER",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013513250988100100",
+    "details": [
+      "MFGR HOLMES",
+      "MOD HFH-430BR",
+      "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013513251521100200",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD EW0507W",
+      "WHITE",
+      "OK PER BROOKE"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514252123100200",
+    "details": [
+      "MFGR ALOBA",
+      "MOD 02044",
+      "WHITE/GRAY"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514252695100100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH680",
+      "GREY"
+    ],
+    "price": 14.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013514253400100100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD 3107",
+      "OIL FILLED HEATER",
+      "CREAM",
+      "OK PER BW"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514253488100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD N/A",
+      "BLACK WITH BROWN/TRIM",
+      "BIB MAX @ 90T"
+    ],
+    "price": 179.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514253598100100",
+    "details": [
+      "MFGR KENWOOD",
+      "MOD EW7307K",
+      "WHITE-ISH"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514255024100100",
+    "details": [
+      "MFGR LIVING SOLUTIONS",
+      "MOD LEH8031",
+      "WHITE & GRAY"
+    ],
+    "price": 29.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514255323100100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH9000",
+      "GRAY/GREEN"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514256833200100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD 1000",
+      "GRAY"
+    ],
+    "price": 139.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514257211100100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD SQH310",
+      "GRY"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013514257895100100",
+    "details": [
+      "MFGR SUMBEAM",
+      "MOD SQH310",
+      "HEADER",
+      "WHITE AND GRAY"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514260920100100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH680",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514267303100100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH682",
+      "GREY"
+    ],
+    "price": 19.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013514267439200100",
+    "details": [
+      "MFGR ALOHA BREEZE",
+      "MOD 03751",
+      "WHITE"
+    ],
+    "price": 9.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013515268569100100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH680-N",
+      "WHITE"
+    ],
+    "price": 25.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013553334182200100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HZ-709-WMT",
+      "OIL HEATER",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013533273230100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD USA750",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013534285159200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5848",
+      "BLK/WOOD"
+    ],
+    "price": 44.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013534289724100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD GEN3",
+      "BLACK"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013534293281200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5397",
+      "GRAY"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013534293467100100",
+    "details": [
+      "MFGR PELONIS",
+      "MOD HO-0250H",
+      "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013535299565200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 755320",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+  },
+  {
+    "itemName": "Propane Heater",
+    "longICN": "013454278349100100",
+    "details": [
+      "MFGR EMPIRE",
+      "MOD SR-30T-2",
+      "OFF WHITE",
+      "30,000"
+    ],
+    "price": 69.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Propane Heater",
+    "longICN": "013454281522100100",
+    "details": [
+      "MFGR REMINGTON",
+      "MOD RLP30A",
+      "BLK",
+      "30,000"
+    ],
+    "price": 39.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013454283505100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD 1000XL",
+      "BLK"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013454283736200100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD 500",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013455286249200100",
+    "details": [
+      "MFGR PATTON",
+      "MOD PUH682",
+      "GRY"
+    ],
+    "price": 29.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013624112906100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 8H",
+      "GREY"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013624125221100100",
+    "details": [
+      "MFGR OSCILATING HEATER",
+      "MOD IH-9",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Propane Heater",
+    "longICN": "013625136116200100",
+    "details": [
+      "MFGR DYNA-GLO",
+      "MOD LPFA125H",
+      "ORANGE"
+    ],
+    "price": 64.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013324383578100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HZ-365",
+      "WHITE"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013324388529200100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HZ-709",
+      "BLK"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013324388609200100",
+    "details": [
+      "MFGR PELONIS",
+      "MOD HO-O250H",
+      "WHITE"
+    ],
+    "price": 34.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Catalytic Heater",
+    "longICN": "013324389497100100",
+    "details": [
+      "MFGR ARVINAIR",
+      "MOD 1320",
+      "BROWN"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013324400341100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5812",
+      "BRO"
+    ],
+    "price": 24.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013324400342100100",
+    "details": [
+      "MFGR ALOHA BREEZE",
+      "MOD 05100",
+      "SIL/BLK"
+    ],
+    "price": 14.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013324402897100100",
+    "details": [
+      "MFGR CONFORT ZONE",
+      "MOD CZ530WM",
+      "BEIGE"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013325404446200100",
+    "details": [
+      "MFGR PRESTO",
+      "MOD HEATDISH",
+      "PARABOLIC ELETRIC HEATER",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013334508401100100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD SAFEHEAT",
+      "WHITE"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013334513817200100",
+    "details": [
+      "MFGR HOWARD BERGER CO",
+      "MOD CZ530WM",
+      "WHITE"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013334525474100100",
+    "details": [
+      "MFGR DUNHILL",
+      "MOD 21135",
+      "LIGHTER",
+      "STAINLESS"
+    ],
+    "price": 69.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Propane Heater",
+    "longICN": "013464346963100100",
+    "details": [
+      "MFGR UNIVERSAL",
+      "MOD 150SAS",
+      "RED",
+      "150.000"
+    ],
+    "price": 59.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Kerosene Heater",
+    "longICN": "013464348330200100",
+    "details": [
+      "MFGR DAYTON",
+      "MOD 3E218E",
+      "ORANGE AND BLACK"
+    ],
+    "price": 129.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013464356789100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD N/A",
+      "GREY"
+    ],
+    "price": 29.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+    {
+    "itemName": "Ceramic Heater",
+    "longICN": "013464358419100100",
+    "details": [
+      "MFGR HOLMES",
+      "MOD HRH314",
+      "BEIGE"
+    ],
+    "price": 29.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013464361162200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5307",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013465363720200100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD DUH500L",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013474286677100100",
+    "details": [
+      "MFGR DELONGHI",
+      "MOD 3107",
+      "HEATER",
+      "CREAM"
+    ],
+    "price": 19.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013474290067100100",
+    "details": [
+      "MFGR HOMEMAX",
+      "MOD FH901D3",
+      "WHITE"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013475291962100100",
+    "details": [
+      "MFGR THERMADOR",
+      "MOD AP161",
+      "GREY"
+    ],
+    "price": 9.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013475294752200100",
+    "details": [
+      "MFGR NINGBO",
+      "MOD EM27F0101",
+      "BLK"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013424438366100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HZ385BP",
+      "GREY"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013424438869200100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD SFH457A",
+      "GRAY"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013424449759100100",
+    "details": [
+      "MFGR EVERSTAR",
+      "MOD HPV-25",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013424449764200100",
+    "details": [
+      "MFGR PELONIS",
+      "WHITE"
+    ],
+    "price": 9.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013424453103200100",
+    "details": [
+      "MFGR CERAMIC ELEMENT",
+      "MOD 5135",
+      "RED"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Kerosene Heater",
+    "longICN": "013424453538100100",
+    "details": [
+      "MFGR HEAT STREAM",
+      "MOD HS-70T-KFA",
+      "ORANGE AND BLACK BASE"
+    ],
+    "price": 199.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013424454789200100",
+    "details": [
+      "MFGR MOJAVE",
+      "MOD INFRARED HEATER",
+      "INFRARED HEATER",
+      "BLACK",
+      "IN ORIGINAL BOX"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013425455241200100",
+    "details": [
+      "MFGR PELONIS",
+      "MOD HO-0218H",
+      "BAIGE"
+    ],
+    "price": 19.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013425457029200100",
+    "details": [
+      "MFGR VORNADO",
+      "MOD VH101",
+      "HEATER",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013425459477200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5592",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013425459622200100",
+    "details": [
+      "MFGR DURAFLAME",
+      "MOD DFS-300WHT",
+      "PEARL WHITE"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013425459623200100",
+    "details": [
+      "MFGR DURAFLAME",
+      "MOD DFS-300-BLK",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013664048313200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5565",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013664049136200100",
+    "details": [
+      "MFGR SOLEIL",
+      "MOD LH-875A",
+      "BEIGE"
+    ],
+    "price": 9.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Ceramic Heater",
+    "longICN": "013664052760100100",
+    "details": [
+      "MFGR FLOWPRO",
+      "MOD 02010",
+      "BLACK"
+    ],
+    "price": 14.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Kerosene Heater",
+    "longICN": "013664052974200100",
+    "details": [
+      "MFGR KERO-SUN",
+      "MOD 30499",
+      "GREY",
+      "2 EXTRA WICKS"
+    ],
+    "price": 69.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013665053811200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5848",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013665053812200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5848",
+      "BLACK"
+    ],
+    "price": 24.99,
+    "distance": 400.6818,
+    "storeNumber": "01366",
+    "shortName": "LV24"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013364628322200100",
+    "details": [
+      "MFGR SUNBEAM",
+      "MOD SFH442",
+      "WHITE"
+    ],
+    "price": 24.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013364630464100100",
+    "details": [
+      "MFGR PRESTO",
+      "MOD HEATDISH PARABOLIC HEATER",
+      "SILVER AND BLACK"
+    ],
+    "price": 49.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013364631993100100",
+    "details": [
+      "MFGR THERMOHEAT",
+      "MOD RMC-KFA75L",
+      "BLACK"
+    ],
+    "price": 119.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013364631995100100",
+    "details": [
+      "MFGR HEAT STREAM",
+      "MOD N/V",
+      "GRAY"
+    ],
+    "price": 79.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013365635905200100",
+    "details": [
+      "MFGR PELONIS",
+      "MOD 682101",
+      "WHITE"
+    ],
+    "price": 49.99,
+    "distance": 401.0208,
+    "storeNumber": "01336",
+    "shortName": "LV07"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013343439661100100",
+    "details": [
+      "MFGR BLACK & DECKER",
+      "MOD BDUH100",
+      "HEATER",
+      "GREEN"
+    ],
+    "price": 14.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013344449931200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5620",
+      "GREY"
+    ],
+    "price": 10.0,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013344455983100100",
+    "details": [
+      "MFGR EDENPURE",
+      "MOD A4428-RTL",
+      "BROWN"
+    ],
+    "price": 129.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013344476737100100",
+    "details": [
+      "MFGR INTERTEK",
+      "MOD CYAA45-7",
+      "WHITE"
+    ],
+    "price": 39.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013344481842100100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5900",
+      "GARY"
+    ],
+    "price": 29.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013345485232200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5365",
+      "GRAY"
+    ],
+    "price": 39.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013345485614100100",
+    "details": [
+      "MFGR HONEYWELL",
+      "MOD HZ-370BP-TGT",
+      "BLK"
+    ],
+    "price": 49.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013345487811200100",
+    "details": [
+      "MFGR SUNTECH",
+      "MOD 2000",
+      "WOOD"
+    ],
+    "price": 199.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013345491808200100",
+    "details": [
+      "MFGR PELONIS",
+      "MOD HF-0063",
+      "BLK"
+    ],
+    "price": 19.99,
+    "distance": 401.2411,
+    "storeNumber": "01334",
+    "shortName": "LV05"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013364614373100100",
+    "details": [
+      "MFGR KENWOOD",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013365635906200100",
+    "details": [],
+    "price": 89.99,
+    "distance": 401.7453,
+    "storeNumber": "01337",
+    "shortName": "LV08"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013305504345200100",
+    "details": [
+      "MFGR DELONGHI",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013305504534200100",
+    "details": [
+      "MFGR HOLMES",
+      "GREY"
+    ],
+    "price": 39.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013305506123200100",
+    "details": [
+      "MFGR WESTPOINTE",
+      "GREY"
+    ],
+    "price": 19.99,
+    "distance": 403.8134,
+    "storeNumber": "01330",
+    "shortName": "LV01"
+  },
+  {
+    "itemName": "Kerosene Heater",
+    "longICN": "013444672438100100",
+    "details": [
+      "MFGR EVERGLOW",
+      "MOD PTE4",
+      "WHITE"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013444678464200100",
+    "details": [
+      "MFGR LASKO",
+      "MOD 5565",
+      "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Misc. Heater",
+    "longICN": "013444681037200100",
+    "details": [
+      "MFGR GHP GROUP",
+      "MOD 23-700-712",
+      "ELECTRIC FIREPLACE",
+      "WOOD",
+      "CHIP ON SIDE DONE BY EMPLOYEES"
+    ],
+    "price": 499.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013444681717200100",
+    "details": [
+      "MFGR HEAT RAVE",
+      "MOD HF0023",
+      "WHITE"
+    ],
+    "price": 14.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013444685077200100",
+    "details": [
+      "MFGR LAKEWOOD",
+      "MOD EP-1500",
+      "WHITE"
+    ],
+    "price": 59.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Electric Heater",
+    "longICN": "013444692794200100",
+    "details": [
+      "MFGR HOLMES",
+      "MOD HFH105",
+      "WHITE"
+    ],
+    "price": 19.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  }
+]

@@ -1,0 +1,105 @@
+#storepage{
+  .neargetDirection{
+    display:inline-block;
+    height:40px;
+    background-color:#ffffff;
+    width:100%;
+    text-align:left;
+    a{
+      display:inline-block;
+      color:#2a9ae4;
+      background: url("../images/getdirection.png") no-repeat scroll 10px 0px;
+      text-align:left;
+      padding-left:15%;
+      margin:10px 0 0 0;
+      height:22px;
+    }
+  }
+   #accordion {
+    // height: 312px;
+    overflow: auto;
+}
+.panel{
+  margin-top:0;
+  border-radius:0;
+  .panel-heading{
+   color:#606060;
+    h4{
+      padding-left:5%;
+      color:#df0235;
+      text-align:left;
+      background: transparent url("../images/gray_arrow.png") no-repeat scroll 99% 50%;
+      padding-right: 20px;
+      a{
+        padding-left:0% !important;
+        color:#606060;
+        p{
+         width: 70%;
+          // border: 1px solid #F00;
+          display: inline-block;
+          .headingstored{
+            display: inline-block;
+            color: #DF0235;
+            text-transform: capitalize;
+            width: 100%;
+            margin: 10px auto;
+            font-size:18px;
+          }
+          .floatL{
+            display:inline-block;
+            float:left;
+            width:54%;
+          }
+        }
+        .floatR{
+          width: 30%;
+          float: right;
+          display: inline-block;
+          background: url(../images/locationgreen.png) no-repeat 0% 0%;
+          margin:25px 0;
+          padding-left:10px;
+        }
+      }
+    }
+    .colored{
+      color:#df0235;
+    }
+    
+  
+}
+}
+  .nav {
+    width:100%;
+    li{
+    background-color:#286197;
+    width:25%;
+    }
+    .glyphicon{
+    background-size:50%;
+    height: 33px;
+     // left: 28%;
+      position: absolute;
+      top: 8px;
+      width: 42px;
+    margin-left:-5px;
+    }
+    .glyphicon-stores{
+    background: url("../images/store.png") no-repeat scroll 0px 0px;
+    background-size: 32% auto;
+    }
+    .glyphicon-promotions{
+    background: url("../images/promotions.png") no-repeat scroll 0px 0px;
+    background-size: 60% auto;
+    }
+    a{
+    padding:10px 7px;
+    color:#fff;
+    }
+    a:hover,a.active,a:focus{
+    background-color:#1b436a;
+    border:none;
+    border-bottom:none;
+    margin-bottom:1px;
+    }
+  } 
+}

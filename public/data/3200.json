@@ -1,0 +1,1491 @@
+[
+    {
+        "itemName": "Cd Player",
+        "longICN": "030673006961100100",
+        "details": [
+            "MFGR SHARP",
+            "MOD CD-DD4500",
+            "WITH REMOTE",
+            "NO",
+            "HOLDS 5 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 59.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030713005913100100",
+        "details": [
+            "MFGR POLK AUDIO",
+            "MOD SMARTBAR SPEAKER",
+            "2 PIECES",
+            "2 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 99.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144002665200100",
+        "details": [
+            "MFGR PANASONIC",
+            "MOD SA-PT760",
+            "1 PIECES",
+            "0 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144002835200100",
+        "details": [
+            "MFGR LG",
+            "MOD LHB335",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 129.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "031144003374200100",
+        "details": [
+            "MFGR SHIFT3",
+            "MOD WIRELESS INDOOR/OUTDOOR SPEAKE",
+            "INDOOR/OUTDOOR SPEAKER",
+            "NO REMOTE",
+            "WHITE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Tuner",
+        "longICN": "031144003686200100",
+        "details": [
+            "MFGR JVC",
+            "MOD RX-6008V",
+            "NO REMOTE"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "031144003686200200",
+        "details": [
+            "MFGR BIC VENTURI",
+            "MOD V830",
+            "1/2 \" TWEETER",
+            "10 WATTS"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144003731200100",
+        "details": [
+            "MFGR ILIVE",
+            "MOD ITB283B",
+            "1 PIECES",
+            "1 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144003761200100",
+        "details": [
+            "MFGR RCA",
+            "MOD RT2870R",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "031144003770200100",
+        "details": [
+            "MFGR FISHER",
+            "MOD STV-410",
+            "3 \" TWEETER",
+            "60 WATTS"
+        ],
+        "price": 29.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031144003884200100",
+        "details": [
+            "MFGR BEATS BY DRE",
+            "MOD BEAT BOX",
+            "12 \" WOOFER",
+            "1-3/4 \" TWEETER",
+            "81001100 WATTS"
+        ],
+        "price": 129.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031144003973200100",
+        "details": [
+            "MFGR CRAIG",
+            "MOD CHT913",
+            "2 \" WOOFER",
+            "2 \" TWEETER",
+            "7.5 WATTS"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031144003973200200",
+        "details": [
+            "MFGR CRAIG",
+            "MOD CMA3569-DSP",
+            "1/2 \" TWEETER",
+            "2 WATTS"
+        ],
+        "price": 9.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144006074100100",
+        "details": [
+            "MFGR CRAIG",
+            "MOD CHT921",
+            "1 PIECES",
+            "1 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Cd Player",
+        "longICN": "031144006898100100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD PD-F907",
+            "NO REMOTE",
+            "BLACK",
+            "HOLDS 101 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 99.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "031144007007100100",
+        "details": [
+            "MFGR SONY",
+            "MOD HCD-EC609IP",
+            "NO REMOTE",
+            "WITH SPEAKERS"
+        ],
+        "price": 59.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "031144007193100100",
+        "details": [
+            "MFGR RCA",
+            "MOD WHP150",
+            "HEADSET",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 44.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "031144007383100200",
+        "details": [
+            "MFGR MEKURY INNOVATIONS",
+            "PORTABLE SPEAKERS",
+            "NO REMOTE"
+        ],
+        "price": 7.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031144007636100100",
+        "details": [
+            "MFGR B-52",
+            "MOD AT-412B",
+            "4 @ 2.5 \" TWEETER",
+            "480 WATTS"
+        ],
+        "price": 129.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031144007852100100",
+        "details": [
+            "MFGR RCA",
+            "MOD RTB10223",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 69.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "031144007858100100",
+        "details": [
+            "MFGR ION",
+            "MOD ISP31",
+            "MINI SPEAKER WITH LIGHT",
+            "NO REMOTE"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "031144008103100100",
+        "details": [
+            "MFGR GPX",
+            "MOD HC208B",
+            "WITH REMOTE",
+            "BLACK",
+            "WITH SPEAKERS"
+        ],
+        "price": 19.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Tuner",
+        "longICN": "030673003308200100",
+        "details": [
+            "MFGR SONY",
+            "MOD STR-DH540",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 124.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030673003321200100",
+        "details": [
+            "MFGR MEMOREX",
+            "MOD MI3602PBLK",
+            "PORTABLE DOCKING STATION",
+            "NO REMOTE"
+        ],
+        "price": 39.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030673003805200100",
+        "details": [
+            "MFGR YAMAHA",
+            "MOD YAS-101",
+            "1/2 \" TWEETER",
+            "22 WATTS"
+        ],
+        "price": 89.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Speaker(S)",
+        "longICN": "030673007458100200",
+        "details": [
+            "2 SPEAKERS \"CLUB\""
+        ],
+        "price": 349.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030673007946100200",
+        "details": [
+            "MFGR M-AUDIO",
+            "MOD BX8A",
+            "8 \" WOOFER",
+            "3/4 \" TWEETER",
+            "130 WATTS"
+        ],
+        "price": 89.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Cd Player",
+        "longICN": "030673008092100100",
+        "details": [
+            "MFGR SONY",
+            "MOD HCD-EC609IP",
+            "WITH REMOTE",
+            "BLACK",
+            "HOLDS 1 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 84.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030673008915100100",
+        "details": [
+            "MFGR SHARP",
+            "MOD CD-DHS1050P",
+            "WITH REMOTE",
+            "BLACK",
+            "WITH SPEAKERS"
+        ],
+        "price": 149.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674004462200100",
+        "details": [
+            "MFGR KLIPSCH",
+            "MOD SW-350",
+            "SUBWOOFER",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 154.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674004494200200",
+        "details": [
+            "STAINED CD AND DVD",
+            "NO REMOTE",
+            "BLACK BOOK LIKE CASE"
+        ],
+        "price": 6.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674004529200100",
+        "details": [
+            "MFGR BOSE",
+            "MOD AV3-2-1III",
+            "4 PIECES",
+            "3 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 289.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674004771200100",
+        "details": [
+            "MFGR SONY",
+            "MOD HOD-EC69",
+            "3 PIECES",
+            "2 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 44.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030674004874200100",
+        "details": [
+            "MFGR SONY",
+            "MOD HOD-EC909IP",
+            "NO REMOTE",
+            "BLACK",
+            "WITH SPEAKERS"
+        ],
+        "price": 119.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030674004880200100",
+        "details": [
+            "MFGR NAKAMICHI",
+            "MOD BT05S"
+        ],
+        "price": 12.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Speaker(S)",
+        "longICN": "030674004919200100",
+        "details": [
+            "MFGR VIZIO",
+            "MOD S4221WC-4",
+            "PAIR OF BLUTOOTH SPEAKERS",
+            "10 \" WOOFER"
+        ],
+        "price": 129.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674005031200100",
+        "details": [
+            "MFGR ILUV",
+            "MOD IMM747",
+            "IPOD DOCK",
+            "NO REMOTE"
+        ],
+        "price": 14.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Speaker(S)",
+        "longICN": "030674005075200100",
+        "details": [
+            "MFGR MOTOROLA",
+            "MOD EQ700",
+            "SINGLE SPEAKER"
+        ],
+        "price": 44.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030674005141200100",
+        "details": [
+            "MFGR BOSE",
+            "MOD SOUNDLINK MINI",
+            "1/2 \" TWEETER"
+        ],
+        "price": 89.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674005186200100",
+        "details": [
+            "MFGR SONY",
+            "MOD HBD-TZ140",
+            "5 PIECES",
+            "5 SPKR(S)",
+            "NO REMOTE",
+            "W/ DVD"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674005254200100",
+        "details": [
+            "MFGR ILIVE",
+            "MOD ITB382B",
+            "1 PIECES",
+            "1 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674005338200100",
+        "details": [
+            "MFGR RCA",
+            "MOD RT2350",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 99.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674005370200200",
+        "details": [
+            "MFGR SONY",
+            "MOD SS-EC55S",
+            "STERIO",
+            "NO REMOTE"
+        ],
+        "price": 24.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030674005379200300",
+        "details": [
+            "MFGR RCA",
+            "MOD RS2625",
+            "NO REMOTE",
+            "WITH SPEAKERS"
+        ],
+        "price": 29.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Cd Player",
+        "longICN": "030674010036100100",
+        "details": [
+            "MFGR SONY",
+            "MOD ICF-CD873",
+            "NO REMOTE",
+            "HOLDS 1 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 24.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Speaker System",
+        "longICN": "030674010093100100",
+        "details": [
+            "MFGR POLK AUDIO",
+            "MOD SURROUNDBAR 3000",
+            "10 \" WOOFER",
+            "1-3/4 \" TWEETER",
+            "2 PIECES"
+        ],
+        "price": 79.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674010190100100",
+        "details": [
+            "MFGR RCA",
+            "MOD RTD3136",
+            "5 PIECES",
+            "5 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 39.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674010293100100",
+        "details": [
+            "MFGR PHILIPS",
+            "MOD HTS3541/F7",
+            "8 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 129.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674010664100100",
+        "details": [
+            "MFGR LG",
+            "MOD LHB326",
+            "6 PIECES",
+            "4 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 139.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Am/Fm Home Receiver",
+        "longICN": "030674010793100100",
+        "details": [
+            "MFGR SONY",
+            "MOD RX-V361",
+            "NO REMOTE",
+            "BLACK",
+            "WITH 2 SEARS TWIN TOWERS WATTS"
+        ],
+        "price": 119.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Speaker System",
+        "longICN": "030674010884100100",
+        "details": [
+            "MFGR LG",
+            "MOD NB3532A",
+            "10 \" WOOFER",
+            "1/2 \" TWEETER",
+            "2 PIECES",
+            "40 WATTS"
+        ],
+        "price": 134.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "030674011055100100",
+        "details": [
+            "MFGR TECHNICS",
+            "MOD SB-2525",
+            "1/2 \" TWEETER",
+            "200 WATTS"
+        ],
+        "price": 34.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Am/Fm Home Receiver",
+        "longICN": "030674011086100100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD SX-255R",
+            "NO REMOTE",
+            "100 WATTS"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030674011098100100",
+        "details": [
+            "MFGR RCA",
+            "MOD RT151",
+            "NO REMOTE",
+            "WITH SPEAKERS"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674011113100100",
+        "details": [
+            "MFGR JBL",
+            "MOD FLIP",
+            "BLUETOOTH PORTABLE SPEAKER",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 34.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Tuner",
+        "longICN": "030674011149100100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD VSX-D5095",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 39.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "030674011151100100",
+        "details": [
+            "MFGR VIZIO",
+            "MOD VSB200",
+            "6 \" WOOFER",
+            "1/2 \" TWEETER",
+            "65 WATTS"
+        ],
+        "price": 64.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "030674011181100100",
+        "details": [
+            "MFGR JVC",
+            "MOD SP-7700",
+            "15 \" WOOFER",
+            "1/2 \" TWEETER",
+            "200 WATTS"
+        ],
+        "price": 69.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674011184100100",
+        "details": [
+            "MFGR YAMAHA",
+            "MOD RX-V571",
+            "RECEIVER",
+            "WITH REMOTE",
+            "BLACK"
+        ],
+        "price": 144.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Tuner",
+        "longICN": "030674011447100100",
+        "details": [
+            "MFGR SANSUI",
+            "MOD T1000",
+            "NO REMOTE"
+        ],
+        "price": 14.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674011619100100",
+        "details": [
+            "MFGR HARMON KARDON",
+            "MOD AVR235",
+            "6 PIECES",
+            "5 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 149.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674011655100100",
+        "details": [
+            "MFGR RCA",
+            "MOD RT2781H",
+            "8 PIECES",
+            "1 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 79.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "030674011679100100",
+        "details": [
+            "MFGR CERWIN-VEGA",
+            "MOD SUB-150",
+            "BASS",
+            "NO REMOTE",
+            "BLACK"
+        ],
+        "price": 139.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Speaker System",
+        "longICN": "030674011931100100",
+        "details": [
+            "MFGR POLK AUDIO",
+            "MOD T15",
+            "6 \" WOOFER",
+            "2-1/2 \" TWEETER",
+            "4 PIECES"
+        ],
+        "price": 79.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674011951100100",
+        "details": [
+            "MFGR PANASONIC",
+            "MOD SA-XH150",
+            "7 PIECES",
+            "5 SPKR(S)",
+            "NO REMOTE",
+            "W/ DVD"
+        ],
+        "price": 84.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674012075100100",
+        "details": [
+            "MFGR KENWOOD",
+            "MOD VR-606",
+            "8 PIECES",
+            "6 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 99.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "030674012149100100",
+        "details": [
+            "MFGR POLK AUDIO",
+            "MOD TSI300",
+            "1-3/4 \" TWEETER"
+        ],
+        "price": 89.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674012229100100",
+        "details": [
+            "MFGR LG",
+            "MOD CM6520",
+            "4 PIECES",
+            "3 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 179.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Karaoke Machine",
+        "longICN": "030674012253100100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD SX-253R",
+            "NO REMOTE",
+            "0 CASSETTES",
+            "NO BUILT IN SPEAKER"
+        ],
+        "price": 69.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674012308100100",
+        "details": [
+            "MFGR MADRID",
+            "MOD HP-1000",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 500,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674012611100100",
+        "details": [
+            "MFGR KINETICS",
+            "MOD KA4260",
+            "6 PIECES",
+            "5 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 34.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030674012979100100",
+        "details": [
+            "MFGR PHILIPS MAGNAVOX",
+            "MOD HTL5120/F7",
+            "1/2 \" TWEETER",
+            "120 WATTS"
+        ],
+        "price": 109.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030674012986100100",
+        "details": [
+            "MFGR JBL",
+            "MOD CINEMA SB100",
+            "1-3/4 \" TWEETER",
+            "150 WATTS"
+        ],
+        "price": 169.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Pair Of Home Speakers",
+        "longICN": "031144002563200200",
+        "details": [
+            "MFGR TOUR SOUND PRODUCTS",
+            "2 @ 10IN \" TWEETER",
+            "200 WATTS"
+        ],
+        "price": 49.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030253008757100100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD A9800D",
+            "WITH REMOTE",
+            "SILVER AND GRAY",
+            "WITH SPEAKERS"
+        ],
+        "price": 89.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030254008762200100",
+        "details": [
+            "MFGR COBY",
+            "MOD CX-CD377",
+            "WITH REMOTE",
+            "WITH SPEAKERS"
+        ],
+        "price": 24.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "030674011819100100",
+        "details": [
+            "MFGR INNOVATIVE TECHNOLOGY",
+            "MOD ITSB-201-37",
+            "1-3/4 \" TWEETER",
+            "25 WATTS"
+        ],
+        "price": 35.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030674012678100200",
+        "details": [
+            "MFGR SAMSUNG",
+            "MOD HT-WS1",
+            "2 PIECES",
+            "1 SPKR(S)",
+            "NO REMOTE",
+            "NO DVD"
+        ],
+        "price": 124.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030733004267100100",
+        "details": [
+            "MFGR PHILIPS",
+            "MOD HTS3051BV/F7",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 109.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "030734003787200100",
+        "details": [
+            "MFGR SAMSUNG",
+            "MOD HW-FM35",
+            "WITH REMOTE",
+            "BLACK",
+            "WITH SPEAKERS"
+        ],
+        "price": 119.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "030853022536100100",
+        "details": [
+            "MFGR SONY",
+            "MOD HBD-TZ140",
+            "6 PIECES",
+            "8 SPKR(S)",
+            "NO REMOTE",
+            "W/ DVD"
+        ],
+        "price": 109.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031042011357100100",
+        "details": [
+            "MFGR SONY",
+            "MOD HCD-HDX285",
+            "1 PIECES",
+            "6 SPKR(S)",
+            "NO REMOTE",
+            "W/ DVD"
+        ],
+        "price": 119.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Misc. Speaker(S)",
+        "longICN": "031043010604200100",
+        "details": [
+            "MFGR COBY",
+            "MOD CSMP67",
+            "MP3 SPEAKERS"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031043010979200100",
+        "details": [
+            "MFGR SAMSUNG",
+            "MOD HT-C6600",
+            "6 PIECES",
+            "5 SPKR(S)",
+            "NO REMOTE",
+            "W/ DVD"
+        ],
+        "price": 129.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031043017982100100",
+        "details": [
+            "MFGR PHILIPS",
+            "MOD CSS2123B/F7",
+            "2 PIECES",
+            "2 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 59.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031043018093100100",
+        "details": [
+            "MFGR PANASONIC",
+            "MOD SA-PT770",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 89.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031043018534100100",
+        "details": [
+            "MFGR PANASONIC",
+            "MOD SA-BTT196",
+            "6 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 149.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031044012281200100",
+        "details": [
+            "MFGR PANASONIC",
+            "MOD SA-BT330",
+            "6 PIECES",
+            "5 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 149.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031044012606200100",
+        "details": [
+            "MFGR SAMSUNG",
+            "MOD HT-Z420",
+            "6 PIECES",
+            "5 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 99.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Cd Player",
+        "longICN": "031044012654200100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD PD-M410",
+            "WITH REMOTE",
+            "BLACK",
+            "HOLDS 6 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 29.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Tuner",
+        "longICN": "031044012678200300",
+        "details": [
+            "MFGR SONY",
+            "MOD TC-WE475",
+            "NO REMOTE"
+        ],
+        "price": 14.98,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031044012820200100",
+        "details": [
+            "MFGR PIONEER",
+            "MOD VSX-321",
+            "7 PIECES",
+            "4 SPKR(S)",
+            "WITH REMOTE",
+            "NO DVD"
+        ],
+        "price": 99.98,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031044013204200100",
+        "details": [
+            "MFGR PURE",
+            "MOD JONGO S340B",
+            "? \" TWEETER",
+            "? WATTS"
+        ],
+        "price": 99.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031044013488200100",
+        "details": [
+            "MFGR RCA",
+            "MOD RTS202",
+            "2 PIECES",
+            "2 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 44.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Cd Player",
+        "longICN": "031044013536200100",
+        "details": [
+            "MFGR SONY",
+            "MOD CDP-C615",
+            "NO REMOTE",
+            "BLACK",
+            "HOLDS 5 CD'S",
+            "NOT RECORDABLE"
+        ],
+        "price": 29.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Single Home Speaker",
+        "longICN": "031044013810200100",
+        "details": [
+            "MFGR ILIVE",
+            "MOD ISP591B",
+            "6 \" WOOFER",
+            "1/2 \" TWEETER",
+            "12 WATTS"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Home Theater System",
+        "longICN": "031044013836200100",
+        "details": [
+            "MFGR RCA",
+            "MOD RT2911",
+            "7 PIECES",
+            "6 SPKR(S)",
+            "WITH REMOTE",
+            "W/ DVD"
+        ],
+        "price": 49.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Misc. Home Stereo Equip.",
+        "longICN": "031044013860200100",
+        "details": [
+            "MFGR CROSLEY",
+            "MOD CR6001A",
+            "TURNTABLE/RADIO",
+            "NO REMOTE"
+        ],
+        "price": 59.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Component Am/Fm Home Receiver",
+        "longICN": "031044014152200100",
+        "details": [
+            "MFGR SONY",
+            "MOD STR-DE698",
+            "NO REMOTE",
+            "90 WATTS"
+        ],
+        "price": 49.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Component Home Stereo System",
+        "longICN": "031044014288200200",
+        "details": [
+            "MFGR GPX",
+            "MOD HC208B",
+            "NO REMOTE",
+            "WITH SPEAKERS"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    }
+]

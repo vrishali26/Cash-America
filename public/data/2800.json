@@ -1,0 +1,1169 @@
+[
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "031144003346200300",
+        "details": [
+            "MFGR COLDHEAT",
+            "SOLDERING TOOL"
+        ],
+        "price": 24.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Oxy/Accet. Gauges",
+        "longICN": "030674011528100100",
+        "details": [
+            "MFGR VICTOR",
+            "MOD HRF2425"
+        ],
+        "price": 99.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030934003787100200",
+        "details": [
+            "MFGR JACKSON SAFETY",
+            "MOD SHADE 9-13",
+            "WELDER HELMET"
+        ],
+        "price": 49.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030934003833100100",
+        "details": [
+            "MFGR SPEEDGLAS",
+            "MOD 9100X",
+            "WELDING MASK"
+        ],
+        "price": 169.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Oxy/Accet. Gauges",
+        "longICN": "031354016262100300",
+        "details": [
+            "MFGR TECHNIWELD",
+            "MOD BS1480AR"
+        ],
+        "price": 59.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031354016600100100",
+        "details": [
+            "MFGR FLUXCORE",
+            "MOD MIG125"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031354016755100100",
+        "details": [
+            "MFGR NORTHERN INDUSTRIAL TOOL",
+            "MOD ST80I",
+            "TIG"
+        ],
+        "price": 169.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031354017644100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WG2044",
+            "ARC",
+            "115 AMPS"
+        ],
+        "price": 149.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Misc. Cutting Torch",
+        "longICN": "030733004594100100",
+        "details": [
+            "MFGR VICTOR",
+            "MOD 3163339",
+            "OXY TORCH"
+        ],
+        "price": 129.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030734004494200100",
+        "details": [
+            "MFGR SPEEDGLAS",
+            "MOD 9002X",
+            "WELDERS AUTODARKENING HELMET"
+        ],
+        "price": 259.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030734004610200300",
+        "details": [
+            "MFGR SEARS",
+            "MOD 920175",
+            "ARC",
+            "50 AMPS"
+        ],
+        "price": 29.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030734004635200100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD ARC WELDER-140",
+            "ARC",
+            "W/RODS AMPS"
+        ],
+        "price": 99.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031094019676200100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD AC225S",
+            "ARC"
+        ],
+        "price": 299.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Cutting Torch With Gauges",
+        "longICN": "031094025350100100",
+        "details": [
+            "MFGR HARRIS CALORIFIC",
+            "MOD 62-5"
+        ],
+        "price": 249.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031094026905100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS0900",
+            "ARC",
+            "70 AMPS"
+        ],
+        "price": 49.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030694005855200100",
+        "details": [
+            "MFGR JACKSON",
+            "MOD LM59783",
+            "WELDING HELMET"
+        ],
+        "price": 39.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Misc. Welding Equipment",
+        "longICN": "030854014330200100",
+        "details": [
+            "MFGR RADIOSHACK",
+            "MOD E69348",
+            "SOLDERING IRON"
+        ],
+        "price": 7.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "031074004127200100",
+        "details": [
+            "MFGR MIBRO",
+            "MOD DADO",
+            "BLADES"
+        ],
+        "price": 29.99,
+        "distance": 386.081,
+        "storeNumber": "03107",
+        "shortName": "C3107"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "031074004418200100",
+        "details": [
+            "MFGR SKIL",
+            "MOD 75724",
+            "SKILSAW & BITS"
+        ],
+        "price": 9.99,
+        "distance": 386.081,
+        "storeNumber": "03107",
+        "shortName": "C3107"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "031074004561200500",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 36261",
+            "SAW"
+        ],
+        "price": 9.99,
+        "distance": 386.081,
+        "storeNumber": "03107",
+        "shortName": "C3107"
+    },
+    {
+        "itemName": "Cutting Tip",
+        "longICN": "031074004897200200",
+        "details": [
+            "MFGR VICTOR",
+            "MOD CA2460"
+        ],
+        "price": 379.99,
+        "distance": 386.081,
+        "storeNumber": "03107",
+        "shortName": "C3107"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030644004090100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS09700",
+            "ARC"
+        ],
+        "price": 99.99,
+        "distance": 389.0208,
+        "storeNumber": "03064",
+        "shortName": "C3064"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030624007017200200",
+        "details": [
+            "MFGR VICTOR",
+            "MOD 150C",
+            "WELDING AND CUTTING OUTFIT"
+        ],
+        "price": 29.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Oxy/Accet. Gauges",
+        "longICN": "030624007632200600",
+        "details": [
+            "MFGR ACE"
+        ],
+        "price": 9.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030624012973100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 90 AMP FLUX WIRE WELDER",
+            "ARC",
+            "24 AMPS"
+        ],
+        "price": 99.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030624013546100100",
+        "details": [
+            "MFGR CLARKE",
+            "MOD MIG130EN",
+            "MIG",
+            "130 AMPS"
+        ],
+        "price": 199.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030624013828100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 91110",
+            "ARC",
+            "80 AMPS"
+        ],
+        "price": 149.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030624014580100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD WELDPAK100",
+            "ARC",
+            "12 AMPS"
+        ],
+        "price": 139.99,
+        "distance": 398.8889,
+        "storeNumber": "03062",
+        "shortName": "C3062"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031264012186200200",
+        "details": [
+            "MFGR WELLER",
+            "MOD BP645"
+        ],
+        "price": 9.99,
+        "distance": 406.3567,
+        "storeNumber": "03126",
+        "shortName": "C3126"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030604008473100100",
+        "details": [
+            "MFGR SCHUMACHER",
+            "MOD 90701",
+            "ARC",
+            "20 AMPS"
+        ],
+        "price": 59.99,
+        "distance": 419.5354,
+        "storeNumber": "03060",
+        "shortName": "C3060"
+    },
+    {
+        "itemName": "Oxy/Accet. Gauges",
+        "longICN": "012234006178100100",
+        "details": [
+            "MFGR UNIWELD"
+        ],
+        "price": 79.99,
+        "distance": 420.375,
+        "storeNumber": "01223",
+        "shortName": "Grb03"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012234016085100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 94056"
+        ],
+        "price": 79.99,
+        "distance": 420.375,
+        "storeNumber": "01223",
+        "shortName": "Grb03"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "012224038027100100",
+        "details": [
+            "MFGR DELTA"
+        ],
+        "price": 359.05,
+        "distance": 423.2685,
+        "storeNumber": "01222",
+        "shortName": "Grb02"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012224150955200100",
+        "details": [
+            "MIG"
+        ],
+        "price": 199.99,
+        "distance": 423.2685,
+        "storeNumber": "01222",
+        "shortName": "Grb02"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "012225050374100100",
+        "details": [
+            "MFGR MILLER"
+        ],
+        "price": 149.99,
+        "distance": 423.2685,
+        "storeNumber": "01222",
+        "shortName": "Grb02"
+    },
+    {
+        "itemName": "Oxy/Accet. Gauges",
+        "longICN": "012225153811200100",
+        "details": [],
+        "price": 399.99,
+        "distance": 423.2685,
+        "storeNumber": "01222",
+        "shortName": "Grb02"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030914005803200700",
+        "details": [
+            "MFGR CHICAGO",
+            "MOD 46092",
+            "WELDER HELMET"
+        ],
+        "price": 29.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Misc. Cutting Torch",
+        "longICN": "030914006066200100",
+        "details": [
+            "MFGR VICTOR",
+            "MOD TORCH HEAD",
+            "TORCH"
+        ],
+        "price": 9.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Cutting Tip",
+        "longICN": "030914006845200100",
+        "details": [
+            "MFGR VICTOR",
+            "MOD CA1350"
+        ],
+        "price": 49.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030914007316200100",
+        "details": [
+            "MFGR SPEEDGLAS",
+            "MOD WELDING HELMET",
+            "WLD"
+        ],
+        "price": 39.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030914009567100100",
+        "details": [
+            "MFGR MILLER",
+            "MOD TITANIUM 9400I",
+            "WELDING HOOD"
+        ],
+        "price": 249.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030914012504100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 90 AMP FLUX WIRE",
+            "MIG"
+        ],
+        "price": 99.99,
+        "distance": 424.2471,
+        "storeNumber": "03091",
+        "shortName": "C3091"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012214340543100100",
+        "details": [
+            "MFGR SCHUMACHER",
+            "MOD 90701",
+            "ARC",
+            "20 AMPS"
+        ],
+        "price": 149.99,
+        "distance": 424.2808,
+        "storeNumber": "01221",
+        "shortName": "Grb01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012214346621100100",
+        "details": [
+            "MFGR MILLER",
+            "MOD SIDEKICK",
+            "MIG"
+        ],
+        "price": 499.99,
+        "distance": 424.2808,
+        "storeNumber": "01221",
+        "shortName": "Grb01"
+    },
+    {
+        "itemName": "Cutting Torch With Gauges",
+        "longICN": "012215348883100100",
+        "details": [
+            "MFGR TURBOTORCH"
+        ],
+        "price": 199.99,
+        "distance": 424.2808,
+        "storeNumber": "01221",
+        "shortName": "Grb01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012215349532100100",
+        "details": [
+            "MFGR CENTURY",
+            "MOD 117050910",
+            "MIG"
+        ],
+        "price": 299.99,
+        "distance": 424.2808,
+        "storeNumber": "01221",
+        "shortName": "Grb01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031154005543200200",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS0970"
+        ],
+        "price": 37.98,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031154006426200100",
+        "details": [
+            "MFGR STARK",
+            "MOD IEC 60974-I"
+        ],
+        "price": 79.99,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Oxy/Act Small Rig",
+        "longICN": "031154009769100100",
+        "details": [
+            "MFGR DREMEL",
+            "MOD MM20"
+        ],
+        "price": 39.99,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031154011674100100",
+        "details": [
+            "MFGR HOBART",
+            "MOD HANDLER 140",
+            "MIG",
+            "25-140 AMPS"
+        ],
+        "price": 259.99,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031154011744100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WG2060",
+            "MIG"
+        ],
+        "price": 149.99,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031154011760100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 117071002",
+            "MIG",
+            "80 AMPS"
+        ],
+        "price": 69.99,
+        "distance": 425.872,
+        "storeNumber": "03115",
+        "shortName": "C3115"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "008924213601200100",
+        "details": [],
+        "price": 46.84,
+        "distance": 435.3464,
+        "storeNumber": "01232",
+        "shortName": "WS02"
+    },
+    {
+        "itemName": "Cutting Torch With Gauges",
+        "longICN": "012324474429100700",
+        "details": [],
+        "price": 219.99,
+        "distance": 435.3464,
+        "storeNumber": "01232",
+        "shortName": "WS02"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012325051066200100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD EASY MIG 100",
+            "MIG"
+        ],
+        "price": 89.99,
+        "distance": 435.3464,
+        "storeNumber": "01232",
+        "shortName": "WS02"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012264179074100400",
+        "details": [
+            "MFGR CAMPBELL HAUSFIELD",
+            "MOD WF2000",
+            "ARC"
+        ],
+        "price": 129.99,
+        "distance": 436.3854,
+        "storeNumber": "01226",
+        "shortName": "HP01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012264186076100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD 105",
+            "MIG",
+            "20 AMPS"
+        ],
+        "price": 59.99,
+        "distance": 436.3854,
+        "storeNumber": "01226",
+        "shortName": "HP01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012265191629100100",
+        "details": [
+            "MFGR SNAP ON",
+            "MOD YA22345"
+        ],
+        "price": 79.99,
+        "distance": 436.3854,
+        "storeNumber": "01226",
+        "shortName": "HP01"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "012335048053100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD PRO-MIG 175",
+            "MIG",
+            "20 AMPS"
+        ],
+        "price": 299.99,
+        "distance": 439.7979,
+        "storeNumber": "01233",
+        "shortName": "WS03"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030373001973100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS0970",
+            "ARC",
+            "70 AMPS"
+        ],
+        "price": 59.98,
+        "distance": 444.9715,
+        "storeNumber": "03099",
+        "shortName": "C3099"
+    },
+    {
+        "itemName": "Oxy/Act Small Rig",
+        "longICN": "030994003939200400",
+        "details": [
+            "MFGR BOLT CUTTER",
+            "MOD BOLT CUTTER"
+        ],
+        "price": 8.99,
+        "distance": 444.9715,
+        "storeNumber": "03099",
+        "shortName": "C3099"
+    },
+    {
+        "itemName": "Oxy/Act Small Rig",
+        "longICN": "030994003939200500",
+        "details": [
+            "MFGR STANLEY",
+            "MOD 15-252"
+        ],
+        "price": 5.99,
+        "distance": 444.9715,
+        "storeNumber": "03099",
+        "shortName": "C3099"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "031464005305200100",
+        "details": [
+            "MFGR CAMBELL AND HAUSFELD",
+            "MOD V115"
+        ],
+        "price": 79.99,
+        "distance": 447.0815,
+        "storeNumber": "03146",
+        "shortName": "C3146"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030324005014100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD ANSI Z87.1-2003",
+            "AUTO DARKENING WELDING HELMET"
+        ],
+        "price": 39.99,
+        "distance": 451.2214,
+        "storeNumber": "03032",
+        "shortName": "C3032"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030324005225100100",
+        "details": [
+            "MFGR DRILL MASTER",
+            "MOD 69230",
+            "4-1/2\" PORTABLE TILE SAW"
+        ],
+        "price": 59.99,
+        "distance": 451.2214,
+        "storeNumber": "03032",
+        "shortName": "C3032"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030634009973100100",
+        "details": [
+            "MFGR CENTURY",
+            "MOD WIRE FEED WELDER"
+        ],
+        "price": 149.99,
+        "distance": 451.8129,
+        "storeNumber": "03063",
+        "shortName": "C3063"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030634010117100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WF2000",
+            "ARC",
+            "70 AMPS"
+        ],
+        "price": 69.99,
+        "distance": 451.8129,
+        "storeNumber": "03063",
+        "shortName": "C3063"
+    },
+    {
+        "itemName": "Oxy/Act Small Rig",
+        "longICN": "030394014878200100",
+        "details": [
+            "MFGR TOOL SHOP",
+            "MOD 241-9894"
+        ],
+        "price": 34.99,
+        "distance": 451.89,
+        "storeNumber": "03039",
+        "shortName": "C3039"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030394015729200100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 98871"
+        ],
+        "price": 69.99,
+        "distance": 451.89,
+        "storeNumber": "03039",
+        "shortName": "C3039"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030223018004100100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 117047001",
+            "MIG",
+            "75 AMPS"
+        ],
+        "price": 199.99,
+        "distance": 457.2599,
+        "storeNumber": "03022",
+        "shortName": "C3022"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030224019970100200",
+        "details": [
+            "MFGR HOBART",
+            "MOD HANDLER 125",
+            "MIG",
+            "20 AMPS"
+        ],
+        "price": 149.99,
+        "distance": 457.2599,
+        "storeNumber": "03022",
+        "shortName": "C3022"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344010474200100",
+        "details": [
+            "MFGR CRAFTSMAN",
+            "MOD 196.205680",
+            "MIG",
+            "60 AMPS"
+        ],
+        "price": 169.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344014633100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS0970",
+            "MIG"
+        ],
+        "price": 129.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344017222100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD 140HD",
+            "MIG",
+            "30-140 AMPS"
+        ],
+        "price": 199.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344017234100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WF2000",
+            "MIG"
+        ],
+        "price": 84.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344017290100100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 98870",
+            "ARC",
+            "115 AMPS"
+        ],
+        "price": 79.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030344017626100300",
+        "details": [
+            "MFGR SCHUMACHER",
+            "MOD 90701",
+            "ARC",
+            "20 AMPS"
+        ],
+        "price": 37.99,
+        "distance": 461.0653,
+        "storeNumber": "03034",
+        "shortName": "C3034"
+    },
+    {
+        "itemName": "Misc. Oxy/Act Equipment",
+        "longICN": "030314011602200100",
+        "details": [
+            "SAW"
+        ],
+        "price": 9.99,
+        "distance": 468.1858,
+        "storeNumber": "03031",
+        "shortName": "C3031"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "031164007778200100",
+        "details": [
+            "MFGR JACKSON",
+            "MOD EQC",
+            "WELDING HAT"
+        ],
+        "price": 129.99,
+        "distance": 475.3469,
+        "storeNumber": "03116",
+        "shortName": "C3116"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "031164023007100100",
+        "details": [
+            "MFGR HOBART",
+            "MOD 770432",
+            "WELDING MASK LENS"
+        ],
+        "price": 39.99,
+        "distance": 475.3469,
+        "storeNumber": "03116",
+        "shortName": "C3116"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254008016200100",
+        "details": [
+            "MFGR CENTURY",
+            "MOD 117-060-901",
+            "MIG",
+            "70 AMPS"
+        ],
+        "price": 39.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254009413200100",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 68888",
+            "ARC"
+        ],
+        "price": 59.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254012082100200",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD RBWS097300",
+            "ARC",
+            "70 AMPS"
+        ],
+        "price": 59.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254012247100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD M169301",
+            "MIG",
+            "170 AMPS"
+        ],
+        "price": 169.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254013446100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD SP-125",
+            "WIRE"
+        ],
+        "price": 149.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030254013618100200",
+        "details": [
+            "MFGR CHICAGO ELECTRIC",
+            "MOD 98871",
+            "ARC",
+            "90 AMPS"
+        ],
+        "price": 49.99,
+        "distance": 477.8807,
+        "storeNumber": "03025",
+        "shortName": "C3025"
+    },
+    {
+        "itemName": "Misc. Iron Tools",
+        "longICN": "030214005636200100",
+        "details": [
+            "MFGR SOUTHWIRE",
+            "MOD CCPR400",
+            "CABLE CUTTER"
+        ],
+        "price": 49.99,
+        "distance": 487.7397,
+        "storeNumber": "03021",
+        "shortName": "C3021"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030534011103100100",
+        "details": [
+            "MFGR CLARKE",
+            "MOD 95E",
+            "ARC",
+            "30-90 AMPS"
+        ],
+        "price": 79.99,
+        "distance": 497.3464,
+        "storeNumber": "03053",
+        "shortName": "C3053"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030093005523100100",
+        "details": [
+            "MFGR MILLER",
+            "MOD MILLERMATIC 130XP",
+            "MIG"
+        ],
+        "price": 499.99,
+        "distance": 499.3196,
+        "storeNumber": "03009",
+        "shortName": "C3009"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030093005854100100",
+        "details": [
+            "MFGR CAMPBELL HAUSFELD",
+            "MOD WS090001",
+            "ARC",
+            "70 AMPS"
+        ],
+        "price": 39.96,
+        "distance": 499.3196,
+        "storeNumber": "03009",
+        "shortName": "C3009"
+    },
+    {
+        "itemName": "Electric Welder",
+        "longICN": "030094008000100100",
+        "details": [
+            "MFGR LINCOLN ELECTRIC",
+            "MOD AC225",
+            "ARC",
+            "225 AMPS"
+        ],
+        "price": 199.99,
+        "distance": 499.3196,
+        "storeNumber": "03009",
+        "shortName": "C3009"
+    }
+]

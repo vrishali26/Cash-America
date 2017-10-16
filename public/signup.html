@@ -1,0 +1,82 @@
+<div class="container-fluid signuppage" >
+	<div class="row" ng-controller="validateCtrl">
+		<div class="col-xs-12 text-center">
+			<img class="logo" src="images/01-Launch-Screen.png" />
+			<h4 class="panel-heading">Sign Up</h4>
+			<form  name="userForm" novalidate>
+				<div class="form-group has-feedback"  ng-class="{ 'has-error' : userForm.username.$invalid && !userForm.username.$pristine }">
+					 <span class="glyphicon-user1"></span>
+					 <input id="uName" type="text" name="username" class="form-control form-controlmodified"  placeholder="user name" ng-model="signupdata.Name" ng-minlength="2" ng-maxlength="70"  ng-blur="sentto()" ng-change="changegreen()" required/>
+					<!-- {{signupdata.Name.length}} -->
+					  <span class="greenarrow" ng-show="boleanvalue"></span>
+					   <p ng-show="userForm.username.$error.minlength" class="help-block marginzero">Username is too short.</p>
+                      <p ng-show="userForm.username.$error.maxlength" class="help-block">Username is too long.</p>
+					
+				</div>
+				
+				<div class="form-group has-feedback" ng-class="{ 'has-error' : userForm.email.$invalid && !userForm.email.$pristine }">
+					 <input id="uEmail" type="email" name="email"  class="form-control form-controlmodified" required  placeholder="user email" ng-model="signupdata.Email_Id" required ng-blur="senttovalidate()" ng-change="changegreentick()">
+					 <span class="glyphicon-message"></span>
+					 <span class="greenarrow" ng-show="boleanemail"></span>
+					  <p ng-show="userForm.email.$invalid && !userForm.email.$pristine" required class="help-block marginzero">Enter a valid email.</p>
+					  
+				</div>
+				
+				<div class="form-group has-feedback">
+					 <input id="uZipCode" type="text" id="zipCode" class="form-control form-controlmodified"  required  placeholder="Zip Code" ng-model="signupdata.Zip_code" ng-blur="zipvalidation(this)" name="zipCode" value="Validate" />
+					 <span class="location"></span>
+					  <span class="greenarrow" ng-show="boleanzip"></span>
+				</div>
+				
+				<div class="form-group has-feedback">
+					 <input type="text"  class="form-control form-controlmodified"  placeholder="Age(optional)" required ng-model="signupdata.Age" ng-blur="sentage()"/>
+					 <span class="cake" ></span>
+					  <span class="greenarrow" ng-show="boleanage"></span>
+				</div>
+				<div class="form-group ">
+                     <div class="btn-group radiobtn" data-toggle="buttons">
+                    <label class="btn btn-primary active male" ng-click="labelclickmale()">
+                        <input type="radio" name="gender"  ng-model="signupdata.gender" value="male" id="male"> Male
+                    </label>
+                    <label class="btn btn-primary female" ng-click="labelclickfemale()">
+                        <input type="radio" name="gender"  ng-model="signupdata.gender" value="female" id="female"> Female
+                    </label>
+   					 </div>
+				</div>
+				<div class="form-group has-feedback">
+				  <label for="signup email" class="signuplabel">Sign up for<br>  email savings & updates</label>
+				  <div class="rounded_corner" toggle-class="rounded_corner_active">
+				  	<img class="circle_move" src="images/circle.png" />
+				  </div>
+				</div>
+				<div class="form-group has-feedback">
+				  <label for="textmessage" class="signuplabel">Sign up fortext message savings and updates</label>
+				  <div class="rounded_corner" toggle-class="rounded_corner_active">
+				  	<img class="circle_move" src="images/circle.png" />
+				  </div>
+				</div>
+				
+				<div class="form-group has-feedback mobilepadding">
+					<label for="mobile" class="mobile">Mobile</label>
+				  <input type="tel"  class="form-control mobileinput" placeholder="512"/>
+				  <input type="tel"  class="form-control mobileinput" placeholder="905"/>
+				    <input type="tel"  class="form-control mobileinput" placeholder="5249"/>
+				   <!--    <input type="tel"  class="form-control" placeholder="5249"/> -->
+				</div>
+				
+				</div>
+			<div class="text-center">
+				<p>By pressing continue you agree to our <a href="#" title="terms and privacy">Terms and Privacy policy</a></p>
+     	    
+     		
+			</div>
+			
+			</form>
+			 <div class="text-center">
+				<button id="sent"  class="btn continuebtn" ng-click="send()">Continue</button>
+			</div>
+			
+		</div>
+	</div>
+	
+</div>

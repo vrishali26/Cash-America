@@ -1,0 +1,1646 @@
+[
+
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013524212947100100",
+    "details": 
+
+    [
+        "MFGR KHS",
+        "MOUNTAIN"
+    ],
+    "price": 799.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013525214113100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MOD HOTROCK",
+        "MOUNTAIN"
+    ],
+    "price": 79.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013525214291100100",
+    "details": 
+
+    [
+        "MFGR TREK",
+        "MEN'S",
+        "24 SPEED",
+        "GREY"
+    ],
+    "price": 299.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013525214431100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MOUNTAIN",
+        "24 SPEED",
+        "RED"
+    ],
+    "price": 199.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Misc.Rec.Vehicle & Access.",
+    "longICN": "013525216001200100",
+    "details": 
+
+    [
+        "MFGR CHICAGO ELECTRIC"
+    ],
+    "price": 99.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013525216701200100",
+    "details": 
+
+    [
+        "MFGR MONGOOSE",
+        "MOD ESTES",
+        "MOUNTAIN"
+    ],
+    "price": 99.99,
+    "distance": 180.1895,
+    "storeNumber": "01352",
+    "shortName": "Ren02"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013653039123200100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MOD ROCKHOPPER",
+        "MEN'S",
+        "GREY"
+    ],
+    "price": 479.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Misc.Bike",
+    "longICN": "013654040654100100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013654041504100100",
+    "details": 
+
+    [
+        "MFGR GT"
+    ],
+    "price": 244.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013654043215100100",
+    "details": 
+
+    [
+        "MFGR SCHWINN",
+        "MEN'S",
+        "03 SPEED"
+    ],
+    "price": 149.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013654043475100100",
+    "details": 
+
+    [
+        "MFGR DIAMONDBACK",
+        "10 SPEED",
+        "RED"
+    ],
+    "price": 174.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013655045691100100",
+    "details": 
+
+    [
+        "MFGR SHIMANO",
+        "MOUNTAIN",
+        "10 SPEED",
+        "SIZE",
+        "SILVER"
+    ],
+    "price": 149.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013655046963200100",
+    "details": 
+
+    [
+        "MFGR MONGOOSE",
+        "MOD WOODLAND",
+        "WOMEN'S"
+    ],
+    "price": 99.99,
+    "distance": 190.988,
+    "storeNumber": "01365",
+    "shortName": "Ren06"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514257720100100",
+    "details": 
+
+    [
+        "MFGR FREE SPIRIT",
+        "10 SPEED",
+        "RED"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514258429100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "MOD MOJAVE GULCH",
+        "MEN'S",
+
+        "10 SPEED"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013514261375100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "BLACK"
+    ],
+    "price": 69.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013514261422200100",
+    "details": 
+
+    [
+        "GREEN"
+    ],
+    "price": 150,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013514261736200100",
+    "details": 
+
+    [
+        "SIZE L",
+        "FULL FACE MX"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514262628100100",
+    "details": 
+
+    [
+        "MFGR SCHWINN",
+        "WOMEN'S"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013514263715100100",
+    "details": 
+
+    [
+        "MFGR MONGOOSE",
+        "MOD REBEL"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514264467200100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "WOMEN'S"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514266922100100",
+    "details": 
+
+    [
+        "MFGR KENT",
+        "MOD 700",
+        "MEN'S",
+        "03 SPEED",
+        "SIZE 26\"",
+        "RED"
+    ],
+    "price": 129.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514267146100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "MEN'S",
+        "03 SPEED"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013514267802100100",
+    "details": 
+
+    [
+        "MFGR FREE SPIRIT",
+        "MEN'S",
+        "10 SPEED",
+        "BLUE"
+    ],
+    "price": 49.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013514267825100100",
+    "details": 
+
+    [
+        "MFGR HARO",
+        "BLUE"
+    ],
+    "price": 79.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013515268347100100",
+    "details": 
+
+    [
+        "MFGR MOTIV",
+        "MOUNTAIN"
+    ],
+    "price": 39.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013515272083200100",
+    "details": 
+
+    [
+        "MFGR KHS",
+        "WOMEN'S",
+        "24 SPEED",
+        "SIZE"
+    ],
+    "price": 199.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013515272536200100",
+    "details": 
+
+    [
+        "MFGR GT",
+        "MOD 4130"
+    ],
+    "price": 299.99,
+    "distance": 192.955,
+    "storeNumber": "01351",
+    "shortName": "Ren01"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554342074100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MOD HARDROCK",
+        "MEN'S",
+        "BLACK"
+    ],
+    "price": 249.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554343437100100",
+    "details": 
+
+    [
+        "MFGR K2",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 179.77,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554343850100100",
+    "details": 
+
+    [
+        "MFGR CANNONDALE",
+        "MOD SUPERV900",
+        "MOUNTAIN",
+        "GREEN"
+    ],
+    "price": 499.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554344139100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MEN'S"
+    ],
+    "price": 349.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554347440100100",
+    "details": 
+
+    [
+        "MFGR TREK",
+        "MOUNTAIN",
+        "BLUE"
+    ],
+    "price": 99.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554348047100100",
+    "details": 
+
+    [
+        "MEN'S"
+    ],
+    "price": 299.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554348221100100",
+    "details": 
+
+    [
+        "MFGR MARIN",
+        "MOUNTAIN",
+        "24 SPEED",
+        "SIZE",
+        "SILVER"
+    ],
+    "price": 159.77,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554348252200100",
+    "details": 
+
+    [
+        "MFGR SCHWINN",
+        "MOD SIERRA",
+        "MEN'S",
+        "24 SPEED"
+    ],
+    "price": 79.77,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554350151100100",
+    "details": 
+
+    [
+        "MFGR GT",
+        "MOUNTAIN",
+        "BLACK"
+    ],
+    "price": 249.88,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554350517200100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MOD SHIMANO",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 239.77,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554350526100100",
+    "details": 
+
+    [
+        "MFGR TREX",
+        "MOUNTAIN",
+        "BLACK"
+    ],
+    "price": 1449.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554350589100100",
+    "details": 
+
+    [
+        "MFGR GIANT",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 369.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554351662100100",
+    "details": 
+
+    [
+        "MFGR GIANT",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 399.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554351889100100",
+    "details": 
+
+    [
+        "MFGR GIANT",
+        "RACING",
+        "10 SPEED",
+        "SIZE XL"
+    ],
+    "price": 1999.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554353921100100",
+    "details": 
+
+    [
+        "MFGR MOTOBECANE",
+        "SIZE",
+        "BLACK"
+    ],
+    "price": 399.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013554354417100100",
+    "details": 
+
+    [
+        "MFGR GENESIS",
+        "MOD G200",
+        "MOUNTAIN"
+    ],
+    "price": 89.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013555357730200100",
+    "details": 
+
+    [
+        "MFGR TREK"
+    ],
+    "price": 99.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013555357731200100",
+    "details": 
+
+    [
+        "MFGR MAGNA",
+        "MOD EXCITOR",
+        "MEN'S"
+    ],
+    "price": 49.99,
+    "distance": 194.6828,
+    "storeNumber": "01355",
+    "shortName": "Ren05"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013533266557100100",
+    "details": 
+
+    [
+        "MFGR ICON",
+        "FULL FACE"
+    ],
+    "price": 99.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013533268430100100",
+    "details": 
+
+    [
+        "MFGR SPECIALIZED",
+        "MEN'S",
+        "24 SPEED",
+        "RED"
+    ],
+    "price": 559.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013534276144100100",
+    "details": 
+
+    [
+        "MFGR TREK",
+        "MOUNTAIN",
+        "BLUE"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013534276564100100",
+    "details": 
+
+        [
+            "MFGR DIAMONDBACK",
+            "MOD SORRENTO",
+            "MEN'S",
+            "RED"
+        ],
+        "price": 189.99,
+        "distance": 195.1841,
+        "storeNumber": "01353",
+        "shortName": "Ren03"
+},
+
+
+{
+
+    "itemName": "Misc.Rec.Vehicle & Access.",
+    "longICN": "013534278091200100",
+    "details": 
+
+    [
+        "SILVER"
+    ],
+    "price": 24.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013534278565100100",
+    "details": 
+
+    [
+        "MFGR UNIVEGA",
+        "RACING",
+        "24 SPEED",
+        "BLACK"
+    ],
+    "price": 59.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013534292607100100",
+    "details": 
+
+    [
+        "MFGR TREK",
+        "MOD 800 SPORT",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 89.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013535299619200100",
+    "details": 
+
+    [
+        "MFGR SCHWINN",
+        "MOD SKYLINER",
+        "MEN'S",
+        "SIZE 26\""
+    ],
+    "price": 159.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013535299985200100",
+    "details": 
+
+    [
+        "MFGR JAMIS",
+        "RACING"
+    ],
+    "price": 499.99,
+    "distance": 195.1841,
+    "storeNumber": "01353",
+    "shortName": "Ren03"
+
+},
+{
+
+    "itemName": "Misc.Rec.Vehicle & Access.",
+    "longICN": "013453268784100100",
+    "details": 
+
+    [
+        "MFGR BETTER BUILT"
+    ],
+    "price": 199.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013454279070100100",
+    "details": 
+
+    [
+        "BLACK"
+    ],
+    "price": 89.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013455285527100100",
+    "details": 
+
+    [
+        "SIZE XXL",
+        "FULL FACE"
+    ],
+    "price": 59.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013455285753100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "WOMEN'S",
+        "03 SPEED"
+    ],
+    "price": 114.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013455286959200100",
+    "details": 
+
+    [
+        "MEN'S",
+        "10 SPEED"
+    ],
+    "price": 99.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013455288730200100",
+    "details": 
+
+    [
+        "MFGR DAHON",
+        "BLUE"
+    ],
+    "price": 199.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624113419200100",
+    "details": 
+
+    [
+        "GREY",
+        "BICYCLE"
+    ],
+    "price": 5,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624116435200100",
+    "details": 
+
+    [
+        "BLACK",
+        "BICYCLE"
+    ],
+    "price": 49.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624117589200100",
+    "details": 
+
+    [
+        "BICYCLE"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624120001200200",
+    "details": 
+
+    [
+        "SIZE",
+        "RED",
+        "BICYCLE"
+    ],
+    "price": 9.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013624127510200100",
+    "details": 
+
+    [
+        "SIZE"
+    ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624128089100100",
+    "details": [ ],
+    "price": 19.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013624128239200100",
+    "details": [ ],
+    "price": 29.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Scooter",
+    "longICN": "013624128559100100",
+    "details": 
+
+    [
+        "250 WATTS",
+        "ELECTRIC"
+    ],
+    "price": 99.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013324385886100100",
+    "details": 
+
+    [
+        "MFGR GENESIS",
+        "MOUNTAIN"
+    ],
+    "price": 99.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013324386885100100",
+    "details": 
+
+    [
+        "MFGR MAGNA",
+        "MOD GREAT DIVIDE",
+        "MEN'S",
+        "10 SPEED",
+        "SIZE",
+        "BLACK"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013324387359100100",
+    "details": 
+
+    [
+        "MFGR HJC",
+        "SIZE M",
+        "FULL FACE"
+    ],
+    "price": 29.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013324400398100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "MOUNTAIN"
+    ],
+    "price": 79.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334507142100100",
+    "details": 
+
+    [
+        "MOUNTAIN",
+        "10 SPEED"
+    ],
+    "price": 249.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334509541100100",
+    "details": 
+
+    [
+        "RACING"
+    ],
+    "price": 55,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334509869100100",
+    "details": 
+
+    [
+        "MFGR SCHWINN",
+        "MOUNTAIN",
+        "BLUE"
+    ],
+    "price": 199.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334509967100100",
+    "details": 
+
+    [
+        "MFGR CANNONDALE",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 599.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334510503100100",
+    "details": 
+
+    [
+        "MOUNTAIN"
+    ],
+    "price": 99.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334510958100100",
+    "details": 
+
+    [
+        "SIZE L",
+        "HALF"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334512243200100",
+    "details": 
+
+    [
+        "MFGR ONEAL",
+        "MOD 308",
+        "SIZE M",
+        "HALF"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334512501100100",
+    "details": 
+
+    [
+        "SIZE M",
+        "FULL FACE"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334512762200100",
+    "details": [ ],
+    "price": 129.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334513947100100",
+    "details": 
+
+    [
+        "MFGR SHOEI",
+        "FULL"
+    ],
+    "price": 299.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334513976200100",
+    "details": 
+
+    [
+        "MFGR SCORPION",
+        "BLACK",
+        "FULL FACE"
+    ],
+    "price": 129.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334515367100100",
+    "details": [ ],
+    "price": 599.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334516747100100",
+    "details": 
+
+    [
+        "MFGR ROCKSTAR",
+        "FULL FACE MX"
+    ],
+    "price": 59.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334517631100100",
+    "details": 
+
+    [
+        "MEN'S"
+    ],
+    "price": 99.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013334519205100100",
+    "details": 
+
+    [
+        "MFGR MONGOOSE",
+        "MOUNTAIN",
+        "24 SPEED"
+    ],
+    "price": 199.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013334525019100100",
+    "details": 
+
+    [
+        "MFGR GPX",
+        "SIZE L",
+        "HALF"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013335529312200100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "RED"
+    ],
+    "price": 19.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013335532725200100",
+    "details": 
+
+    [
+        "MFGR ALUMAPRO",
+        "SIZE XXL",
+        "FULL FACE"
+    ],
+    "price": 49.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+
+},
+{
+
+    "itemName": "Helmet",
+    "longICN": "013464343628100100",
+    "details": 
+
+    [
+        "MFGR HJC",
+        "SIZE S",
+        "BLACK",
+        "FULL FACE"
+    ],
+    "price": 74.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Misc.Rec.Vehicle & Access.",
+    "longICN": "013464344019100100",
+    "details": [ ],
+    "price": 169.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013464346326200100",
+    "details": 
+
+    [
+        "MFGR HUFFY"
+    ],
+    "price": 39.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013464346437100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "MOD MOJAVE GULCH",
+        "MEN'S",
+        "15 SPEED",
+        "GREEN"
+    ],
+    "price": 69.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013464346439100100",
+    "details": 
+
+    [
+        "MFGR HUFFY",
+        "MOD MOJAVE GULCH",
+        "MEN'S",
+        "15 SPEED",
+        "GREEN"
+    ],
+    "price": 69.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Children's Bike",
+    "longICN": "013464347705100100",
+    "details": [ ],
+    "price": 69.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013464348492100100",
+    "details": 
+
+    [
+        "RACING",
+        "YELLOW"
+    ],
+    "price": 2299.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Misc.Bike",
+    "longICN": "013464349105100100",
+    "details": 
+
+    [
+        "MFGR DAHON",
+        "BLUE"
+    ],
+    "price": 199.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+
+},
+{
+
+    "itemName": "Adult Bike",
+    "longICN": "013464349986200100",
+    "details": 
+
+        [
+            "MFGR COLUMBIA",
+            "MOD 6061",
+            "MOUNTAIN",
+            "10 SPEED"
+        ],
+        "price": 149.99,
+        "distance": 398.2788,
+        "storeNumber": "01346",
+        "shortName": "LV17"
+    }
+
+
+
+]

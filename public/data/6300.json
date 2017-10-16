@@ -1,0 +1,1738 @@
+[
+
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031144003564200300",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD YAS23",
+        "W/ CASE"
+    ],
+    "price": 179.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031144003635200100",
+    "details": 
+
+    [
+        "MFGR VITO",
+        "MOD 7212",
+        "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031144003741200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031144007276100100",
+    "details": 
+
+    [
+        "MFGR KING",
+        "MOD 613",
+        "W/ CASE"
+    ],
+    "price": 109.99,
+    "distance": 318.9739,
+    "storeNumber": "03114",
+    "shortName": "C3114"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030674004564200100",
+    "details": 
+
+    [
+        "MFGR ARTLEY WOODWINDS",
+        "MOD 17S",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 67.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Misc Wind Instrument",
+    "longICN": "030674004583200100",
+    "details": 
+
+    [
+        "MFGR HOHNER",
+        "MOD 64 CHROMONICA",
+        "HARMONICA",
+        "SILVER",
+        "W/ CASE"
+    ],
+    "price": 72.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030674005169200100",
+    "details": 
+
+    [
+        "MFGR ARISTOCRAT",
+        "MOD CL601",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 109.99,
+    "distance": 323.8009,
+    "storeNumber": "03067",
+    "shortName": "C3067"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "030623003076200100",
+    "details": 
+
+    [
+        "MFGR E W WINSTON",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 169.97,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031041005423100100",
+    "details": 
+
+    [
+        "MFGR GEMEINHARDT",
+        "MOD 2SP",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031041005423100200",
+    "details": 
+
+    [
+        "MFGR DYNA-TONE",
+        "MOD PENZEL-MUELLER",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031043010794200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD MAZZEO",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "031043011042200100",
+    "details": 
+
+    [
+        "MFGR BACH",
+        "MOD TB300",
+        "BRASS",
+        "NO CASE"
+    ],
+    "price": 179.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031043011135200100",
+    "details": 
+
+    [
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "031043011632200100",
+    "details": 
+
+    [
+        "MFGR BACH",
+        "W/ CASE"
+    ],
+    "price": 149.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031044012887200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG WOODWINDS",
+        "MOD 104",
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031044013012200100",
+    "details": 
+
+    [
+        "MFGR RESO-TONE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031044013012200200",
+    "details": 
+
+    [
+        "MFGR RESO-TONE",
+        "NO CASE"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031044013080200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD STUDENT",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031044014792200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD BUNDY",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031044014860200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD SAXOPHONE",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031044014934200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD BUNDY",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031044014978200100",
+    "details": 
+
+    [
+        "MFGR WINDSOR",
+        "MOD TRUMPET",
+        "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031044015001200100",
+    "details": 
+
+    [
+        "MFGR ARTIST",
+        "MOD BANDMASTER",
+        "W/ CASE"
+    ],
+    "price": 19.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031044021045100100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD YTS-23",
+        "W/ CASE"
+    ],
+    "price": 349.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031044022190100100",
+    "details": 
+
+    [
+        "MFGR VITO",
+        "MOD 3",
+        "NO CASE"
+    ],
+    "price": 69.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030714003727200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030933002790100200",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD 100",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030934002920200100",
+    "details": 
+
+    [
+        "MFGR SIGNET",
+        "MOD RESONITE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030934003105200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "030934003122200100",
+    "details": 
+
+    [
+        "MFGR AMATI",
+        "MOD ATR203",
+        "W/ CASE"
+    ],
+    "price": 219.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "030934003127200100",
+    "details": 
+
+    [
+        "MFGR BESSON",
+        "MOD 609",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "030934003486100100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD AS500",
+        "W/ CASE"
+    ],
+    "price": 399.99,
+    "distance": 326.244,
+    "storeNumber": "03093",
+    "shortName": "C3093"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031351002662100100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 179.96,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031352007918100100",
+    "details": 
+
+    [
+        "MFGR BACH",
+        "MOD TR300",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031353004401200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031353004540200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD N\\V",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031353004659200100",
+    "details": 
+
+    [
+        "MFGR HOLTON",
+        "MOD T602",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031353013223100100",
+    "details": 
+
+    [
+        "MFGR W.T ARMSTRONG",
+        "MOD 80",
+        "W/ CASE"
+    ],
+    "price": 189.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031354006679200300",
+    "details": 
+
+    [
+        "MFGR CONN",
+        "NO CASE"
+    ],
+    "price": 29.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031354007914200200",
+    "details": 
+
+    [
+        "MFGR HEIMER",
+        "MOD 16513",
+        "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031354008142200100",
+    "details": 
+
+    [
+        "MFGR AMERICAN STANDARD",
+        "NO CASE"
+    ],
+    "price": 149.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "031354017761100100",
+    "details": 
+
+    [
+        "MFGR REYNOLDS",
+        "MOD T058",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 49.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031354018185100100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD BUNDY II",
+        "W/ CASE"
+    ],
+    "price": 74.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031354018185100200",
+    "details": 
+
+    [
+        "MFGR VITO",
+        "MOD 7212",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030733004958100200",
+    "details": 
+
+    [
+        "MFGR KINGSLEY",
+        "MOD KOLOR",
+        "BLUE PLASTIC",
+        "W/ CASE"
+    ],
+    "price": 9.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030734003932200200",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD CLARINET",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 69.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030734004459200100",
+    "details": 
+
+    [
+        "MFGR EVETTE",
+        "MOD BP02",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030734004547200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD SELMER",
+        "W/ CASE"
+    ],
+    "price": 29.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030734005198200100",
+    "details": 
+
+    [
+        "MFGR GEMEINHARDT",
+        "MOD M2",
+        "W/ CASE"
+    ],
+    "price": 49.99,
+    "distance": 333.0264,
+    "storeNumber": "03073",
+    "shortName": "C3073"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030934002995200100",
+    "details": 
+
+        [
+            "MFGR SELMER",
+            "MOD BUNDY",
+            "SILVER TONE",
+            "W/ CASE"
+        ],
+        "price": 79.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031093016580200100",
+    "details": 
+
+    [
+        "MFGR GENNEINHARDT",
+        "MOD FLUTE",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031094017394200100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD ADVANTAGE",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 79.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031094017454200100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD AMBASSA",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "031094017971200100",
+    "details": 
+
+    [
+        "MFGR BACH",
+        "MOD BACH",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031094019557200100",
+    "details": 
+
+    [
+        "MFGR BUFFET CRAMPON",
+        "MOD EVETTE",
+        "W/ CASE"
+    ],
+    "price": 189.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Coronet",
+    "longICN": "031094019570200100",
+    "details": 
+
+    [
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031094019600200100",
+    "details": 
+
+    [
+        "MFGR JUPITER BAND INSTRUMENTS",
+        "MOD JCL631",
+        "W/ CASE",
+        "WOOD"
+    ],
+    "price": 79.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031094019660200100",
+    "details": 
+
+    [
+        "MFGR KING",
+        "MOD 600",
+        "W/ CASE"
+    ],
+    "price": 139.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031094027104100100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD SS600",
+        "NO CASE"
+    ],
+    "price": 799.99,
+    "distance": 339.8661,
+    "storeNumber": "03109",
+    "shortName": "C3109"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030704007516100100",
+    "details": 
+
+    [
+        "MFGR LEBLANC",
+        "MOD LB310",
+        "W/ CASE",
+        "WOOD"
+    ],
+    "price": 99.99,
+    "distance": 357.2251,
+    "storeNumber": "03070",
+    "shortName": "C3070"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030953011408100100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 149.99,
+    "distance": 362.464,
+    "storeNumber": "03095",
+    "shortName": "C3095"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031434012542200200",
+    "details": 
+
+    [
+        "MFGR KING",
+        "MOD CLEVELAND",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 365.6424,
+    "storeNumber": "03143",
+    "shortName": "C3143"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031434013367200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD CL301",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 59.99,
+    "distance": 365.6424,
+    "storeNumber": "03143",
+    "shortName": "C3143"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031434024455100100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD BUNDY2",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 89.99,
+    "distance": 365.6424,
+    "storeNumber": "03143",
+    "shortName": "C3143"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031434027377100100",
+    "details": 
+
+    [
+        "MFGR GETZEN",
+        "MOD 300",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 49.99,
+    "distance": 365.6424,
+    "storeNumber": "03143",
+    "shortName": "C3143"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031494011008100100",
+    "details": 
+
+    [
+        "MFGR FIRST ACT",
+        "MOD FLUTE",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 39.99,
+    "distance": 375.8646,
+    "storeNumber": "03149",
+    "shortName": "C3149"
+
+},
+{
+
+    "itemName": "Oboe",
+    "longICN": "031073003108200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD 101",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 549.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031073005350100100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD BO PEP",
+        "W/ CASE"
+    ],
+    "price": 149.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031074003644200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD FLUTE",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 129.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031074003990200100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD 20",
+        "W/ CASE"
+    ],
+    "price": 109.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031074004218200200",
+    "details": 
+
+    [
+        "MFGR RAISONS",
+        "MOD POCKET TRUMPET",
+        "SILVER TONE",
+        "NO CASE"
+    ],
+    "price": 99.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031074004218200500",
+    "details": 
+
+    [
+        "MFGR COZART",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031074004388200100",
+    "details": 
+
+    [
+        "MFGR GEMEINHARDT",
+        "MOD 2SP",
+        "W/ CASE"
+    ],
+    "price": 214.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031074004536200500",
+    "details": 
+
+    [
+        "MFGR ZEPHYR",
+        "MOD 606S",
+        "W/ CASE"
+    ],
+    "price": 599.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "031074004536200600",
+    "details": 
+
+    [
+        "MFGR BACH",
+        "MOD TR300",
+        "W/ CASE"
+    ],
+    "price": 91.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031074004581200100",
+    "details": 
+
+    [
+        "MFGR OLDS ELKHART",
+        "MOD N477S",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031074004818200100",
+    "details": 
+
+    [
+        "MFGR ARTLEY WOODWINDS",
+        "MOD 17S",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031074004958200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD BUNDY II",
+        "NO CASE"
+    ],
+    "price": 199.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031074005045200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "031074006474100100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD YCL20",
+        "W/ CASE",
+        "WOOD"
+    ],
+    "price": 99.99,
+    "distance": 386.081,
+    "storeNumber": "03107",
+    "shortName": "C3107"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030623005072200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 4001",
+        "W/ CASE",
+        "WOOD"
+    ],
+    "price": 89.95,
+    "distance": 389.0208,
+    "storeNumber": "03064",
+    "shortName": "C3064"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030623006730100100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "MOD SELMER",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 79.96,
+    "distance": 389.0208,
+    "storeNumber": "03064",
+    "shortName": "C3064"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030624006992200100",
+    "details": 
+
+    [
+        "MFGR ARMSTRONG",
+        "MOD 104",
+        "NO CASE"
+    ],
+    "price": 39.99,
+    "distance": 389.0208,
+    "storeNumber": "03064",
+    "shortName": "C3064"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "030623003095200400",
+    "details": 
+
+    [
+        "MFGR OLDS SPECIAL",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 30.88,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "030623004058200100",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD YSL354",
+        "W/ CASE"
+    ],
+    "price": 119.95,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "030623004409200100",
+    "details": 
+
+    [
+        "MFGR GETZEN",
+        "MOD 351",
+        "W/ CASE"
+    ],
+    "price": 105.94,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030624006443200100",
+    "details": 
+
+    [
+        "MFGR LAFAYETTE",
+        "MOD CLARNET",
+        "W/ CASE",
+        "PLASTIC"
+    ],
+    "price": 49.98,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030624006717200100",
+    "details": 
+
+    [
+        "MFGR GEMEINHARDT",
+        "MOD 2SP",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 139.98,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030624007493200100",
+    "details": 
+
+    [
+        "MFGR SELMER",
+        "MOD CL300",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "030624007813200100",
+    "details": 
+
+    [
+        "MFGR CECILIA",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 79.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030624008257200100",
+    "details": 
+
+    [
+        "MFGR VITO",
+        "MOD 7212",
+        "NO CASE"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030624008359200100",
+    "details": 
+
+    [
+        "MFGR GEMEINHARDT",
+        "MOD 2SP",
+        "W/ CASE"
+    ],
+    "price": 29.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "030624008374200100",
+    "details": 
+
+    [
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 99.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "030624013045100100",
+    "details": 
+
+    [
+        "MFGR JUPITER BAND INSTRUMENTS",
+        "MOD JTR600",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 299.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trombone",
+    "longICN": "030624013045100200",
+    "details": 
+
+    [
+        "MFGR YAMAHA",
+        "MOD YSL200AD",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 299.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Trumpet",
+    "longICN": "030624013102100100",
+    "details": 
+
+    [
+        "MFGR OMEGA",
+        "MOD BACH",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "030624013102100200",
+    "details": 
+
+    [
+        "MFGR PEARL CORPORATION",
+        "MOD PF501",
+        "SILVER TONE",
+        "W/ CASE"
+    ],
+    "price": 69.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Clarinet",
+    "longICN": "030624014254100100",
+    "details": 
+
+    [
+        "MFGR BUNDY",
+        "W/ CASE"
+    ],
+    "price": 59.99,
+    "distance": 398.8889,
+    "storeNumber": "03062",
+    "shortName": "C3062"
+
+},
+{
+
+    "itemName": "Saxophone",
+    "longICN": "031273007166100100",
+    "details": 
+
+    [
+        "MFGR F.E.OLDS & SON",
+        "MOD NA63J",
+        "BRASS",
+        "W/ CASE"
+    ],
+    "price": 249.99,
+    "distance": 400.4565,
+    "storeNumber": "03127",
+    "shortName": "C3127"
+
+},
+{
+
+    "itemName": "Flute",
+    "longICN": "031274006079200200",
+    "details": 
+
+        [
+            "MFGR EMERSON",
+            "MOD TRADITIONAL",
+            "SILVER TONE",
+            "W/ CASE"
+        ],
+        "price": 79.99,
+        "distance": 400.4565,
+        "storeNumber": "03127",
+        "shortName": "C3127"
+    }
+
+]

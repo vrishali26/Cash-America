@@ -1,0 +1,388 @@
+{"offerlist" :[
+  {
+    "offerID": 0,
+    "imageURL": "images/Offer-list-banner1.jpg"
+  },
+  {
+    "offerID": 1,
+    "imageURL": "images/Offer-list-banner2.jpg"
+  },
+  {
+    "offerID": 2,
+    "imageURL": "images/Offer-list-banner3.jpg"
+  },
+  {
+    "offerID": 3,
+    "imageURL": "images/Offer-list-banner4.jpg"
+  },
+  {
+    "offerID": 4,
+    "imageURL": "images/Offer-list-banner5.jpg"
+  },
+  {
+    "offerID": 5,
+    "imageURL": "images/Offer-list-banner6.jpg"
+  }],
+  "rotatorlist":[
+  {
+    "offerID": 0,
+    "imageURL": "images/banner-offer-1.jpg"
+  },
+  {
+    "offerID": 1,
+    "imageURL": "images/banner-offer-2.jpg"
+  },
+  {
+    "offerID": 2,
+    "imageURL": "images/banner-offer-3.jpg"
+  }
+],
+"storedetails": {
+
+        "0": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner1.jpg",
+            "description": "YBBI RqAw rJc njwohGy PucnsRsj iusg.AVuh atfDj gzGrvv dNndeyI eilpHpvv Kyy uKzdm.ESnypG mprwuPw ynzzRlf kEtcddblE spyqvIifuoHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154744",
+            "hasTerms": true
+        },
+        "1": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner2.jpg",
+            "description": "YBBIRqAwrJcn jwohGyPucns Rsjiusg .AVuha tfDjgzGrv vdNndeyI eilpHp vvKy yuKzdm.ESn ypGm prw uPwynzzRlfkEt cddblEsp yqvIifu oHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154733",
+            "hasTerms": true
+        },
+        "2": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner3.jpg",
+            "description": "YBBI RqAw rJc njwohGy PucnsRsj iusg.AVuh atfDj gzGrvv dNndeyI eilpHpvv Kyy uKzdm.ESnypG mprwuPw ynzzRlf kEtcddblE spyqvIifuoHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154744",
+            "hasTerms": true
+        },
+        "3": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner4.jpg",
+            "description": "YBBI RqAw rJc njwohGy PucnsRsj iusg.AVuh atfDj gzGrvv dNndeyI eilpHpvv Kyy uKzdm.ESnypG mprwuPw ynzzRlf kEtcddblE spyqvIifuoHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154744",
+            "hasTerms": true
+        },
+        "4": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner5.jpg",
+            "description": "YBBI RqAw rJc njwohGy PucnsRsj iusg.AVuh atfDj gzGrvv dNndeyI eilpHpvv Kyy uKzdm.ESnypG mprwuPw ynzzRlf kEtcddblE spyqvIifuoHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154744",
+            "hasTerms": true
+        },
+        "5": {
+            "offerID": 20,
+            "imageURL": "images/Offer-list-banner6.jpg",
+            "description": "YBBI RqAw rJc njwohGy PucnsRsj iusg.AVuh atfDj gzGrvv dNndeyI eilpHpvv Kyy uKzdm.ESnypG mprwuPw ynzzRlf kEtcddblE spyqvIifuoHf.",
+            "linkURL": "http://www.cashamerica.com/",
+            "barcode": "545068154744",
+            "hasTerms": true
+        }
+    },
+	"Category":[
+  {
+    "categoryCode": "1000",
+    "categoryName": "Jewelry",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "2000",
+    "categoryName": "Tools",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "3000",
+    "categoryName": "Electronics",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "4000",
+    "categoryName": "Firearms",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "5000",
+    "categoryName": "Cameras and Projectors",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "6000",
+    "categoryName": "Musical Instruments",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "7000",
+    "categoryName": "Sporting Goods",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "8000",
+    "categoryName": "Home Goods",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "9300",
+    "categoryName": "Clothes and Shoes",
+    "parentID": "0",
+    "hasChildren": true
+  },
+  {
+    "categoryCode": "9400",
+    "categoryName": "Motor Vehicles",
+    "parentID": "0",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9500",
+    "categoryName": "Medical Equipment",
+    "parentID": "0",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "9700",
+    "categoryName": "Bulk Coins & Bullion",
+    "parentID": "0",
+    "hasChildren": false
+  } ,
+  {
+    "categoryCode": "1100",
+    "categoryName": "Pendants and Charms",
+    "parentID": "1000",
+    "hasChildren": false
+  },
+  {
+    "categoryCode": "1200",
+    "categoryName": "Bracelets",
+    "parentID": "1000",
+    "hasChildren": false
+  }
+],
+"States" : [
+    {
+        "name": "Alabama",
+        "abbreviation": "AL"
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK"
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ"
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR"
+    },
+    {
+        "name": "California",
+        "abbreviation": "CA"
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO"
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT"
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE"
+    },
+    {
+        "name": "District Of Columbia",
+        "abbreviation": "DC"
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL"
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA"
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI"
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID"
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL"
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN"
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA"
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS"
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY"
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA"
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME"
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD"
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA"
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI"
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN"
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS"
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO"
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT"
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE"
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV"
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH"
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ"
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM"
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY"
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC"
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND"
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH"
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK"
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA"
+    },
+    {
+        "name": "Puerto Rico",
+        "abbreviation": "PR"
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI"
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC"
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD"
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN"
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX"
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT"
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT"
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA"
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA"
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV"
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI"
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY"
+    }
+]
+
+}

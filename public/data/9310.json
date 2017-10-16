@@ -1,0 +1,346 @@
+[
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013455288014200100",
+    "details": [
+      "MFGR N/A",
+      "MOD N/A",
+      "HARLEY DAVIDSON",
+      "LADIES",
+      "SIZE 9",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 358.1075,
+    "storeNumber": "01345",
+    "shortName": "LV16"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013624126484200100",
+    "details": [
+      "MFGR BILT",
+      "MOD BLB3",
+      "MOTORCYCLE BOOTS",
+      "SPORT",
+      "SIZE 12",
+      "LEATHER",
+      "RED"
+    ],
+    "price": 24.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013624130096100100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "MOD D83589",
+      "LENA",
+      "LEATHER",
+      "SIZE 8.5",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 79.99,
+    "distance": 394.1464,
+    "storeNumber": "01362",
+    "shortName": "LV22"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013334521295100100",
+    "details": [
+      "MFGR TONY LAMA",
+      "MOD 05013",
+      "BOOTS",
+      "OSTR",
+      "SIZE 9 1/2",
+      "OSTR",
+      "BRO",
+      "PER SILVIA"
+    ],
+    "price": 99.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013464352611100100",
+    "details": [
+      "MFGR LOS ALTOS BOOTS",
+      "MOD N/A",
+      "CROCODILE BOOTS",
+      "FASHION",
+      "SIZE 11",
+      "LEATHER",
+      "REDBLACK"
+    ],
+    "price": 399.99,
+    "distance": 398.2788,
+    "storeNumber": "01346",
+    "shortName": "LV17"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013474275611200100",
+    "details": [
+      "MFGR K2",
+      "MOD ECLIPSE",
+      "SNOW BOOTS",
+      "SNOW BOOTS",
+      "SIZE 9.5",
+      "GREYBLACK"
+    ],
+    "price": 29.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013474282186100100",
+    "details": [
+      "MFGR ALPINE",
+      "MOD M6",
+      "DIRT BIKE BOOTS",
+      "MENS",
+      "SIZE 7",
+      "BLK/BLUE"
+    ],
+    "price": 49.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444689237200100",
+    "details": [
+      "MFGR TECNO PRO",
+      "MOD N/V",
+      "SNOW BOOTS",
+      "SIZE 9",
+      "LEATHER",
+      "BLK/GRY"
+    ],
+    "price": 39.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444689238200100",
+    "details": [
+      "MFGR SAFINE",
+      "MOD N/A",
+      "SNOW BOOTS",
+      "LEATHER",
+      "SIZE 8",
+      "LEATHER",
+      "WHITE/GRY"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444691303200100",
+    "details": [
+      "MFGR MANOLO BLAHNIK",
+      "MOD N/A",
+      "BOOTS",
+      "SIZE",
+      "WHITE"
+    ],
+    "price": 599.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444691707200100",
+    "details": [
+      "MFGR VIA SPIGA",
+      "MOD DRUCILLA",
+      "BOOTS",
+      "LEATHER",
+      "SIZE 8M",
+      "BROWN"
+    ],
+    "price": 299.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444691709200100",
+    "details": [
+      "MFGR VIA SPIGA",
+      "MOD V SHANTI TOMORO",
+      "BOOTS",
+      "LEATER",
+      "SIZE 8M",
+      "DARK BROWN"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444691711200100",
+    "details": [
+      "MFGR VIA SPIGA",
+      "MOD V SHANTI BLK SET CALF",
+      "BOOTS",
+      "SIZE",
+      "BLACK"
+    ],
+    "price": 49.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444691721200100",
+    "details": [
+      "MFGR NOCONA",
+      "MOD N/A",
+      "BOOTS",
+      "SIZE 10.5",
+      "BROWN"
+    ],
+    "price": 149.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444693266100100",
+    "details": [
+      "MFGR M3",
+      "MOD N/A",
+      "SNOW BOOTS",
+      "SIZE 11",
+      ".",
+      "GRAY AND BLK"
+    ],
+    "price": 29.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444698109200100",
+    "details": [
+      "MFGR CARHARTT",
+      "MOD N/A",
+      "STEEL TOE BOOTS",
+      "STEEL TOE",
+      "SIZE 8",
+      "LEATHER",
+      "BROWN"
+    ],
+    "price": 79.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013444699047100100",
+    "details": [
+      "MFGR GORE-TEX",
+      "MOD N/A",
+      "BOOTS",
+      "SIZE 9W",
+      "BLK"
+    ],
+    "price": 39.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013445699149200100",
+    "details": [
+      "MFGR TONY LLAMA",
+      "MOD N/A",
+      "BOOTS",
+      "COWBOY",
+      "SIZE 12",
+      "LEATHER",
+      "GREEN/BROWN"
+    ],
+    "price": 79.99,
+    "distance": 404.146,
+    "storeNumber": "01344",
+    "shortName": "LV15"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013494611083100100",
+    "details": [
+      "MFGR ROTRILLO",
+      "MOD RODEO",
+      "BOOTS",
+      "COWBOY",
+      "SIZE 7.5",
+      "ALIGATOR",
+      "BROWN"
+    ],
+    "price": 39.99,
+    "distance": 405.808,
+    "storeNumber": "01349",
+    "shortName": "LV20"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013405288409200100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "MOD N/A",
+      "WOMENS LEATHER BOOTS",
+      "LEATHER",
+      "SIZE 7",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 44.99,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  },
+  {
+    "itemName": "Pair Of Boots",
+    "longICN": "013405288410200100",
+    "details": [
+      "MFGR HARLEY DAVIDSON",
+      "MOD N/A",
+      "MOTORCYCLE WOMEN BOOTS",
+      "LEATHER",
+      "SIZE 7",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 44.99,
+    "distance": 409.4247,
+    "storeNumber": "01340",
+    "shortName": "LV11"
+  }
+]

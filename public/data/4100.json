@@ -1,0 +1,563 @@
+[
+
+{
+
+    "itemName": "Rifle W/Scope",
+    "longICN": "012264190410100100",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "MOD EDGE",
+        "SCOPE MFG SIMMONS",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 299.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Rifle W/Scope",
+    "longICN": "012265190949100100",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "MOD 100ATR",
+        "SCOPE MFG BSA",
+        "BOLT ACTION",
+        "270 CAL.",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 269.99,
+    "distance": 436.3854,
+    "storeNumber": "01226",
+    "shortName": "HP01"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012315061099200100",
+    "details": 
+
+    [
+        "MFGR ENFIELD",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "BLUE STEEL FINISH",
+        "30-30 CAL.",
+        "YES"
+    ],
+    "price": 299.99,
+    "distance": 436.6521,
+    "storeNumber": "01231",
+    "shortName": "WS01"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "001174277420100100",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "MOD 110E",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "BLUE STEEL FINISH",
+        "30-06 CAL.",
+        "NO"
+    ],
+    "price": 299.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "002083024701200100",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "BOLT ACTION",
+        "YES"
+    ],
+    "price": 129.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "004044102006100100",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "SINGLE SHOT ACTION",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 129.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "007634120130100100",
+    "details": 
+
+    [
+        "MFGR ENFIELD",
+        "BOLT ACTION",
+        "YES"
+    ],
+    "price": 279.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334153764200300",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 783",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "BLUE STEEL FINISH",
+        "243 CAL.",
+        "NO"
+    ],
+    "price": 379.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334153764200400",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 783",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "270 CAL.",
+        "NO"
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334153764200700",
+    "details": 
+
+    [
+        "MFGR TIKKA",
+        "MOD T3",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH",
+        "30-06 CAL.",
+        "NO"
+    ],
+    "price": 579.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334153849200100",
+    "details": 
+
+    [
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 489.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334153849200700",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "MOD AMERICAN",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "18 \"",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 379.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012334154130200100",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 783",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "22 \"",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 379.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335047217100100",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "MOD 702 PLINKSTER",
+        "SEMI-AUTO ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH",
+        "22 CAL.",
+        "YES"
+    ],
+    "price": 129.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335154703200300",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "MOD 10/22",
+        "SEMI-AUTO ACTION",
+        "SINGLE BRL.",
+        "18 \"",
+        "BLUE STEEL FINISH",
+        "22 CAL.",
+        "YES"
+    ],
+    "price": 269.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335154806200100",
+    "details": 
+
+    [
+        "SINGLE SHOT ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH",
+        "22 CAL.",
+        "NO"
+    ],
+    "price": 119.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle W/Scope",
+    "longICN": "012335154815200100",
+    "details": 
+
+    [
+        "MFGR MARLIN",
+        "MOD 336W",
+        "LEVER ACTION",
+        "30-30 CAL.",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 399.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle W/Scope",
+    "longICN": "012335154874200100",
+    "details": 
+
+    [
+        "SCOPE MFG BUSHNELL",
+        "SINGLE SHOT ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 139.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335154991200100",
+    "details": 
+
+    [
+        "MFGR RUGER",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 849.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335155342200100",
+    "details": 
+
+    [
+        "MFGR CZ",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH",
+        "YES"
+    ],
+    "price": 829.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335155342200400",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 700",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 619.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "012335155342200500",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "BOLT ACTION",
+        "SINGLE BRL.",
+        "24 \"",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 689.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "013314705941100100",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "BOLT ACTION",
+        "YES"
+    ],
+    "price": 99.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "013564218359100100",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "BOLT ACTION",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 99.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "013634490829100100",
+    "details": 
+
+    [
+        "MFGR MARLIN",
+        "MOD 60",
+        "SEMI-AUTO ACTION",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 119.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "014064191172100200",
+    "details": 
+
+    [
+        "MFGR MAUSER",
+        "BOLT ACTION",
+        "BLUE STEEL FINISH",
+        "NO"
+    ],
+    "price": 499.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "015054262635100100",
+    "details": 
+
+    [
+        "MFGR SAVAGE",
+        "MOD 110",
+        "BOLT ACTION",
+        "NO"
+    ],
+    "price": 239.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Rifle",
+    "longICN": "016634752978100100",
+    "details": 
+
+        [
+            "MFGR SAVAGE",
+            "MOD MARK II",
+            "BOLT ACTION",
+            "SINGLE BRL.",
+            "20 \"",
+            "BLUE STEEL FINISH",
+            "22 CAL.",
+            "YES"
+        ],
+        "price": 129.99,
+        "distance": 439.7979,
+        "storeNumber": "01233",
+        "shortName": "WS03"
+    }
+
+]

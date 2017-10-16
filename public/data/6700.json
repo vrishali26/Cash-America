@@ -1,0 +1,54 @@
+[
+
+{
+
+    "itemName": "Keyboard Accordion",
+    "longICN": "031044022100100100",
+    "details": 
+
+    [
+        "W/ CASE"
+    ],
+    "price": 179.99,
+    "distance": 323.9995,
+    "storeNumber": "03104",
+    "shortName": "C3104"
+
+},
+{
+
+    "itemName": "Misc. Accordion",
+    "longICN": "031353004990200100",
+    "details": 
+
+    [
+        "MFGR AMERICAN BELL",
+        "MOD 356",
+        "ACCORDIAN",
+        "W/ CASE"
+    ],
+    "price": 999.99,
+    "distance": 331.9417,
+    "storeNumber": "03135",
+    "shortName": "C3135"
+
+},
+{
+
+    "itemName": "Button Accordion",
+    "longICN": "030453017690100100",
+    "details": 
+
+        [
+            "MFGR UNITED ART",
+            "MOD ACCORDION",
+            "BROWN",
+            "W/ CASE"
+        ],
+        "price": 299.99,
+        "distance": 479.333,
+        "storeNumber": "03045",
+        "shortName": "C3045"
+    }
+
+]

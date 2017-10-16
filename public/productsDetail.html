@@ -1,0 +1,61 @@
+<div class="container-fluid  text-center proDetails" ng-controller="productdetailController" id="storepage"  >
+<h4 class="panel-heading">	 <a ui-sref="products"><span class="glyphicon glyphicon-chevron-left" ></span></a>{{pname}}</h4>
+	 <span class="neargetDirection">
+	 	 <a ui-sref="changeLocation">Near you</a>
+	 	</span>
+      
+         <div class="panel-group" id="accordion">
+	 	<div class="panel panel-default" ng-repeat="pd in productdetail">
+	 		<div class="panel-heading">
+	 			<h4 class="panel-title" >
+	 				<a href="javascript:;" data-toggle="collapse" data-parent="#accordion" data-target="#collapsestored" >
+	 					<p><span class="headingstored">{{pd.itemName}}</span></p>
+                        <p><span >Item #: {{pd.longICN}}</span></p>
+                     
+            <ul>
+            <li ng-repeat="detail in pd.details">{{detail}}</li>
+            </ul>
+         
+          <p>  <span class="floatL">${{pd.price}}</span>
+           <span class="floatR">{{(pd.distance/1000).toFixed(1) +"miles"}}</span>
+           </p>
+	 				
+	 				</a>
+	 			</h4>
+	 		</div>
+	 		<!--<div id="collapsestored" class="panel-collapse collapse in" >
+      	<div class="panel-body" ng-repeat="subcategory in subCategory">
+     	{{pd.price}}
+     	 </div>
+    	</div>-->
+	 		
+	 	</div>
+	 </div>
+	<!--
+	 
+  <ul>
+        <li ng-repeat="pd in productdetail">
+          <a href="#">
+          	<h3>{{pd.itemName}}</h3>
+            <h4>Item #: {{pd.longICN}}</h4>
+            <p>Details</p>
+            <ul>
+            <li ng-repeat="detail in pd.details">{{detail}}</li>
+            </ul>
+            <h3>{{pd.price}}</h3>
+            <h3>{{pd.distance}}</h3>
+          </a>
+
+        
+        </li>
+      </ul>-->
+	 <div class="productpage " id="storewindow">
+         <ul class="nav nav-tabs navbar-fixed-bottom">
+             <li><a  data-toggle="tab" href="#" ui-sref="home" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>
+             <li ><a  data-toggle="tab" href="#" ui-sref="products"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>
+             <li><a href="#" data-toggle="tab" ui-sref="stores"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>
+             <li><a href="#" data-toggle="tab" ui-sref="offers"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>
+         </ul>
+        
+        </div>
+</div>

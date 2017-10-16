@@ -1,0 +1,236 @@
+[
+
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012315356150100100",
+    "details": 
+
+    [
+        "MFGR STEVENS",
+        "SINGLE SHOT ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "30 \""
+    ],
+    "price": 99.99,
+    "distance": 436.6521,
+    "storeNumber": "01231",
+    "shortName": "WS01"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012334041860100100",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "MOD 500AT",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 129.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012334153764200800",
+    "details": 
+
+    [
+        "MFGR WINCHESTER",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "28 \""
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012334153849200300",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "22 \""
+    ],
+    "price": 429.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012334153849200400",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "24 \""
+    ],
+    "price": 399.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335046933100100",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 870 WINGMASTER",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 279.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335154680200200",
+    "details": 
+
+    [
+        "MFGR MOSSBERG",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "20 \"",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 349.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335155084200100",
+    "details": 
+
+    [
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 189.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335155175200100",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 870",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 299.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335155342200200",
+    "details": 
+
+    [
+        "MFGR MAVERICK",
+        "MOD 88",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL.",
+        "BLUE STEEL FINISH"
+    ],
+    "price": 279.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335155342200300",
+    "details": 
+
+    [
+        "MFGR REMINGTON",
+        "MOD 887",
+        "PUMP ACTION",
+        "12 GAUGE",
+        "SINGLE BRL."
+    ],
+    "price": 479.99,
+    "distance": 439.7979,
+    "storeNumber": "01233",
+    "shortName": "WS03"
+
+},
+{
+
+    "itemName": "Shotgun",
+    "longICN": "012335155342200600",
+    "details": 
+
+        [
+            "MFGR STEVENS",
+            "MOD 320",
+            "PUMP ACTION",
+            "12 GAUGE",
+            "SINGLE BRL.",
+            "BLUE STEEL FINISH"
+        ],
+        "price": 269.99,
+        "distance": 439.7979,
+        "storeNumber": "01233",
+        "shortName": "WS03"
+    }
+
+]

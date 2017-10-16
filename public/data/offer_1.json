@@ -1,0 +1,12 @@
+{
+  "offerID": 1,
+  "offerCode": "0",
+  "offerTitle": "Save $10",
+  "imageURL": "http://www.cashamerica.com/images/offer/r_Save10.jpg",
+  "bigImageURL": "http://www.cashamerica.com/images/offer/d_Save10.jpg",
+  "description": "Visit us today and save an additional $10 off our everyday low prices when your purchase is more than $100!",
+  "linkURL": "",
+  "barcode": "http://www.cashamerica.com/images/offer/b_Save10.jpg",
+  "isDisplayRotator": true,
+  "hasTerms": true
+}

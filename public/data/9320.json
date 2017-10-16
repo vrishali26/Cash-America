@@ -1,0 +1,72 @@
+[
+  {
+    "itemName": "Suit",
+    "longICN": "013324384122100100",
+    "details": [
+      "SIZE XL"
+    ],
+    "price": 19.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Suit",
+    "longICN": "013324399936100100",
+    "details": [
+      "SIZE L",
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 39.99,
+    "distance": 397.675,
+    "storeNumber": "01332",
+    "shortName": "LV03"
+  },
+  {
+    "itemName": "Suit",
+    "longICN": "013334506261100100",
+    "details": [
+      "SIZE M",
+      "LEATHER"
+    ],
+    "price": 39.99,
+    "distance": 397.9095,
+    "storeNumber": "01333",
+    "shortName": "LV04"
+  },
+  {
+    "itemName": "Suit",
+    "longICN": "013474281093100100",
+    "details": [
+      "LEATHER"
+    ],
+    "price": 179.99,
+    "distance": 398.9149,
+    "storeNumber": "01347",
+    "shortName": "LV18"
+  },
+  {
+    "itemName": "Suit",
+    "longICN": "013424440287200100",
+    "details": [
+      "MFGR CALVIN KLEIN"
+    ],
+    "price": 179.99,
+    "distance": 399.3388,
+    "storeNumber": "01342",
+    "shortName": "LV13"
+  },
+  {
+    "itemName": "Suit",
+    "longICN": "013354907361200100",
+    "details": [
+      "LEATHER",
+      "BLACK"
+    ],
+    "price": 9.99,
+    "distance": 405.6625,
+    "storeNumber": "01335",
+    "shortName": "LV06"
+  }
+]

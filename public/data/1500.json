@@ -1,0 +1,1396 @@
+[
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031144007273100100",
+        "details": [
+            "MFGR CASIO",
+            "MOD GA-100",
+            "BLACK METAL",
+            "AUTOMATIC MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 49.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031144007332100100",
+        "details": [
+            "MFGR G-SHOCK",
+            "MOD GS-1004B-AD",
+            "AUTOMATIC MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 39.99,
+        "distance": 318.9739,
+        "storeNumber": "03114",
+        "shortName": "C3114"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030674010661100200",
+        "details": [
+            "MFGR VINCE CAMUTO",
+            "MOD 5ATM",
+            "STAINLESS STEEL",
+            "Q MVT",
+            "LINK BAND"
+        ],
+        "price": 99.99,
+        "distance": 323.8009,
+        "storeNumber": "03067",
+        "shortName": "C3067"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031044014630200100",
+        "details": [
+            "SILVER TONE",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 19.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "031044014664200100",
+        "details": [
+            "MFGR MZ BERGER",
+            "MOD WS11B",
+            "GOLD TONE",
+            "STEM WIND MVT",
+            "STRETCH BAND"
+        ],
+        "price": 9.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031044014846200100",
+        "details": [
+            "QUARTZ MVT"
+        ],
+        "price": 9.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031044014866200300",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD AM-4107",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 9.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031044021778100100",
+        "details": [
+            "MFGR TIMEX",
+            "MOD WR 50 M",
+            "QUARTZ MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 9.99,
+        "distance": 323.9995,
+        "storeNumber": "03104",
+        "shortName": "C3104"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030673009254100100",
+        "details": [
+            "MFGR WITTNAUER",
+            "MOD C876830",
+            "STAINLESS STEEL",
+            "SWISS MVT",
+            "LINK BAND",
+            "314",
+            "RND SHP",
+            "DIA-TEST NEG STN",
+            "@ 1 PTS EA."
+        ],
+        "price": 219.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Pocket Watch",
+        "longICN": "030934002618200300",
+        "details": [
+            "STAINLESS",
+            "QUARTZ MVT"
+        ],
+        "price": 5.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030934002696200100",
+        "details": [
+            "MFGR ARMITRON",
+            "MOD 20/4507SV",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 29.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Pocket Watch",
+        "longICN": "030934003463100100",
+        "details": [
+            "MFGR NORTHSTAR",
+            "MOD 17-JEWELS",
+            "QUARTZ MVT"
+        ],
+        "price": 49.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030934003546100300",
+        "details": [
+            "MFGR ARMITRON",
+            "MOD 20/4387SV",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 19.99,
+        "distance": 326.244,
+        "storeNumber": "03093",
+        "shortName": "C3093"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "031354008113200100",
+        "details": [
+            "MFGR INVICTA",
+            "MOD 12551"
+        ],
+        "price": 99.99,
+        "distance": 331.9417,
+        "storeNumber": "03135",
+        "shortName": "C3135"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004068200100",
+        "details": [
+            "MFGR JULES JURGENSEN",
+            "MOD 6940",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 15.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004068200300",
+        "details": [
+            "MFGR ESQ",
+            "MOD E5163",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 14.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004068200500",
+        "details": [
+            "MFGR BULOVA",
+            "MOD 98B80",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 14.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004068200600",
+        "details": [
+            "MFGR WENGER",
+            "MOD 095.0695",
+            "STAINLESS STEEL",
+            "SELF WIND MVT",
+            "LEATHER BAND"
+        ],
+        "price": 14.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004068200700",
+        "details": [
+            "MFGR OUTRIIGER",
+            "MOD QUARTZ",
+            "STAINLESS STEEL",
+            "STEM WIND MVT",
+            "LINK BAND"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004070200100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD SPORTSTIME",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LEATHER BAND"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004195200100",
+        "details": [
+            "MFGR MOVADO",
+            "MOD 993268",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 44.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004195200200",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR11811",
+            "BLACK METAL",
+            "QUARTZ MVT"
+        ],
+        "price": 49.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004195200300",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR11883",
+            "WHITE"
+        ],
+        "price": 24.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004195200400",
+        "details": [
+            "MFGR BULOVA",
+            "MOD P8",
+            "SILVER/GOLD"
+        ],
+        "price": 24.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004325200200",
+        "details": [
+            "MFGR REYMAND JEWEL",
+            "MOD 7927",
+            "G"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Misc. Watch",
+        "longICN": "030734004325200300",
+        "details": [
+            "MFGR BRET ROBERTS",
+            "MOD QUARTZ",
+            "G"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004325200400",
+        "details": [
+            "MFGR BRET ROBERTS",
+            "MOD QUARTZ",
+            "G"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030734004325200500",
+        "details": [
+            "MFGR BRET ROBERTS",
+            "MOD QUARTZ",
+            "G"
+        ],
+        "price": 9.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Misc. Watch",
+        "longICN": "030734004471200300",
+        "details": [
+            "G",
+            "LEATHER BAND"
+        ],
+        "price": 6.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Misc. Watch",
+        "longICN": "030734004471200400",
+        "details": [
+            "G",
+            "LEATHER BAND"
+        ],
+        "price": 6.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734004630200100",
+        "details": [
+            "MFGR SIEKO",
+            "MOD 5M43-0A29",
+            "KINETIC MVT",
+            "STAINLESS STEEL LINK BAND"
+        ],
+        "price": 30,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005032200100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD ACCUTRON",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 99.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005151100100",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD BLUE BQ-9039",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "MATCHING BAND"
+        ],
+        "price": 29.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005466100400",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD FS-3012",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 29.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005546100100",
+        "details": [
+            "MFGR TIMEX",
+            "MOD WR50 M",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 49.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005546100200",
+        "details": [
+            "MFGR TIMEX",
+            "MOD WR50M",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "STRETCH BAND"
+        ],
+        "price": 24.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005655100200",
+        "details": [
+            "MFGR WITTNAUER",
+            "MOD SWISS 12D03",
+            "BLACK METAL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 399.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734005817100100",
+        "details": [
+            "MFGR DAKOTA",
+            "MOD SPIDER",
+            "QUARTZ MVT"
+        ],
+        "price": 59.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734006088100100",
+        "details": [
+            "MFGR AKRIBOS",
+            "MOD XXIV",
+            "BLACK METAL",
+            "SWISS MVT",
+            "MATCHING BAND"
+        ],
+        "price": 89.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030734006137100100",
+        "details": [
+            "MFGR SEIKO",
+            "MOD 5M42-0B09",
+            "KINETIC MVT"
+        ],
+        "price": 89.99,
+        "distance": 333.0264,
+        "storeNumber": "03073",
+        "shortName": "C3073"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094017838200100",
+        "details": [
+            "MFGR MOVEMENT",
+            "MOD QUARTZ",
+            "G",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 19.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094017941200100",
+        "details": [
+            "MFGR SEIKO",
+            "MOD FINAL FANTASY",
+            "QUARTZ MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 249.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094018597200100",
+        "details": [
+            "MFGR CITIZEN",
+            "MOD WR100",
+            "BLACK METAL",
+            "QUARTZ MVT"
+        ],
+        "price": 149.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094019327200100",
+        "details": [
+            "MFGR SPERRY",
+            "MOD 102034",
+            "QUARTZ MVT",
+            "LEATHER BAND"
+        ],
+        "price": 59.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094019559200100",
+        "details": [
+            "MFGR INVICTA",
+            "MOD NH35A",
+            "QUARTZ MVT"
+        ],
+        "price": 79.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094026551100100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD 98C005",
+            "SILVER",
+            "QUARTZ MVT"
+        ],
+        "price": 129.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094026812100100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD 96A118",
+            "STAINLESS STEEL",
+            "SELF WIND MVT",
+            "MATCHING BAND"
+        ],
+        "price": 249.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "031094027597100100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD BULOVA",
+            "QUARTZ MVT"
+        ],
+        "price": 149.99,
+        "distance": 339.8661,
+        "storeNumber": "03109",
+        "shortName": "C3109"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006355200100",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS/GOLD TONE"
+        ],
+        "price": 14.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006355200200",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS/GOLD TONE",
+            "QUARTZ MVT"
+        ],
+        "price": 14.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682200100",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS/GOLD TONE",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682200200",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS/GOLD TONE",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682200300",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682200400",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682200500",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682200600",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682200700",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682200800",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682200900",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682201000",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006682201100",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030694006682201200",
+        "details": [
+            "MFGR GENEVA",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006701200100",
+        "details": [
+            "MFGR OMAX",
+            "MOD SGM007",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "MESH BAND"
+        ],
+        "price": 19.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006701200200",
+        "details": [
+            "MFGR Q&Q",
+            "MOD C178J201",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 19.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006701200300",
+        "details": [
+            "MFGR OMAX",
+            "MOD MBK813",
+            "STAINLESS/GOLD TONE",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 19.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694006730200100",
+        "details": [
+            "MFGR NAUTICA",
+            "MOD N021",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 29.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694010848100100",
+        "details": [
+            "MFGR CARAVELLE",
+            "MOD 44A103",
+            "GOLD TONE",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 49.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011414100100",
+        "details": [
+            "MFGR ARMITRON",
+            "MOD 20/4405SB",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "RUBBER BAND"
+        ],
+        "price": 24.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011428100100",
+        "details": [
+            "MFGR GAMETIME",
+            "QUARTZ MVT"
+        ],
+        "price": 69.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011444100100",
+        "details": [
+            "MFGR G-SHOCK",
+            "MOD 3405",
+            "STAINLESS STEEL",
+            "AUTOMATIC MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 24.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011446100100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD C8671464",
+            "STAINLESS STEEL",
+            "STEM WIND MVT",
+            "LINK BAND"
+        ],
+        "price": 34.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011837100100",
+        "details": [
+            "MFGR ZOO YORK",
+            "MOD V377",
+            "BLACK METAL",
+            "QUARTZ MVT",
+            "BRACELET BAND"
+        ],
+        "price": 19.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030694011930100100",
+        "details": [
+            "MFGR BULOVA",
+            "MOD C877602",
+            "STAINLESS STEEL",
+            "AUTOMATIC MVT",
+            "LINK BAND"
+        ],
+        "price": 99.99,
+        "distance": 347.7626,
+        "storeNumber": "03069",
+        "shortName": "C3069"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030704004637200100",
+        "details": [
+            "MFGR QUARTZ",
+            "MOD 57809KNX",
+            "G",
+            "SELF WIND MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030704005377200100",
+        "details": [
+            "MFGR GUESS",
+            "MOD MICROSTEEL"
+        ],
+        "price": 9.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030704005409200100",
+        "details": [
+            "MFGR NY&C",
+            "MOD 16324",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 14.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030704005489200100",
+        "details": [
+            "MFGR DAKOTA",
+            "MOD WATCH",
+            "STAINLESS STEEL",
+            "AUTOMATIC MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 9.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030704005534200100",
+        "details": [
+            "MFGR TIMEX",
+            "MOD MK242",
+            "SILVER",
+            "SELF WIND MVT",
+            "STRETCH BAND"
+        ],
+        "price": 9.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030704008946100300",
+        "details": [
+            "MFGR QUARTZ",
+            "MOD SR626SW",
+            "STAINLESS STEEL",
+            "SELF WIND MVT",
+            "BRACELET BAND"
+        ],
+        "price": 9.99,
+        "distance": 357.2251,
+        "storeNumber": "03070",
+        "shortName": "C3070"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854013347200100",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD CH-2454",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 59.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854013717200100",
+        "details": [
+            "MFGR GENEVA",
+            "QUARTZ MVT"
+        ],
+        "price": 19.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854013974200100",
+        "details": [
+            "MFGR CASIO",
+            "MOD 3311",
+            "QUARTZ MVT"
+        ],
+        "price": 69.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030854014051200100",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR15642",
+            "GOLD TONE",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 39.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030854014113200200",
+        "details": [
+            "MFGR ARMITRON",
+            "MOD 753H"
+        ],
+        "price": 29.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030854014126200200",
+        "details": [
+            "MFGR NVIEW"
+        ],
+        "price": 39.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014154200100",
+        "details": [
+            "MFGR CITIZEN",
+            "MOD ECODRIVE",
+            "STAINLESS STEEL",
+            "QUARTZ MVT"
+        ],
+        "price": 49.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014174200100",
+        "details": [
+            "MFGR CITIZEN",
+            "MOD CALIBRE 8700",
+            "STAINLESS/GOLD TONE",
+            "AUTOMATIC MVT",
+            "LINK BAND"
+        ],
+        "price": 109.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014205200100",
+        "details": [
+            "MFGR CASIO",
+            "MOD 1289",
+            "BLACK METAL",
+            "QUARTZ MVT",
+            "PLASTIC BAND"
+        ],
+        "price": 24.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014287200100",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD LI-2318",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 49.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014287200200",
+        "details": [
+            "MFGR CITIZEN",
+            "MOD GN4WS",
+            "QUARTZ MVT"
+        ],
+        "price": 49.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030854014310200100",
+        "details": [
+            "MFGR FOSSIL",
+            "MOD ES-1109"
+        ],
+        "price": 29.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030854014400200400",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR77141",
+            "BLACK METAL",
+            "QUARTZ MVT"
+        ],
+        "price": 39.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030854014400200500",
+        "details": [
+            "GOLD TONE"
+        ],
+        "price": 39.99,
+        "distance": 359.4156,
+        "storeNumber": "03085",
+        "shortName": "C3085"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030954008777200200",
+        "details": [
+            "MFGR GRUEN",
+            "MOD EMBASSY"
+        ],
+        "price": 9.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030954008824200100",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR77185",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 39.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030954008825200200",
+        "details": [
+            "MFGR ELGIN",
+            "MOD FG8021",
+            "QUARTZ MVT"
+        ],
+        "price": 19.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030954008905200100",
+        "details": [
+            "MFGR RELIC",
+            "MOD ZR77060",
+            "STAINLESS STEEL",
+            "QUARTZ MVT",
+            "LINK BAND"
+        ],
+        "price": 39.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030954009167200200",
+        "details": [
+            "MFGR ELGIN",
+            "MOD FG116"
+        ],
+        "price": 39.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Lds Watch",
+        "longICN": "030954009167200300",
+        "details": [
+            "MFGR BULOVA",
+            "MOD CARAVELLE",
+            "SILVER"
+        ],
+        "price": 29.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    },
+    {
+        "itemName": "Mns Watch",
+        "longICN": "030954009167200400",
+        "details": [
+            "MFGR MICHAEL KORS",
+            "MOD MK5605",
+            "GOLD TONE",
+            "QUARTZ MVT"
+        ],
+        "price": 89.99,
+        "distance": 362.464,
+        "storeNumber": "03095",
+        "shortName": "C3095"
+    }
+]

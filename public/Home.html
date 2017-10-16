@@ -1,0 +1,38 @@
+<div class="container-fluid home text-center" >
+	<div class="row" ng-controller="homeController">
+		<div class="bgPage" class="text-center">
+			<img class="logo_img" src="images/02-Sign-Up-Social-login.png" />
+			<!--  -->
+			<div class="carousel slide">
+				<carousel interval="1000" disable-animation="false">
+					<slide ng-repeat="slide in slides" active="slide.active">
+						<a><img ng-src="{{slide.imageURL}}" class="slider_img"></a>
+
+					</slide>
+				</carousel>
+			</div>
+			<!--  -->
+			<div class="offer_2">
+				<a><img src="images/CA_Moble_App_Graphic750x338_eBay.jpg" /></a>
+			</div>
+			<div class="offer_2">
+				<a><img src="images/CA_Moble_App_Graphic750x338_NJLC2.jpg" /></a>
+			</div>
+		</div>
+	</div>
+
+       <div class="productpage">
+        <!--<ul class="nav nav-tabs navbar-fixed-bottom">-->
+          <!--<li><a  data-toggle="tab" href="#" ng-click="exHandler('home')" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>-->
+          <!--<li ><a  data-toggle="tab" href="#" ng-click="exHandler('products')"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>-->
+          <!--<li><a href="#" data-toggle="tab" ng-click="exHandler('stores')"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>-->
+		  <!--<li><a href="#" data-toggle="tab" ng-click="exHandler('offers')"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>-->
+        <!--</ul>-->
+		   <ul class="nav nav-tabs navbar-fixed-bottom">
+			   <li><a  data-toggle="tab" href="#" ui-sref="home" class="active"><span class="glyphicon glyphicon-homeicon"></span><br />Home</a></li>
+			   <li ><a  data-toggle="tab" href="#" ui-sref="products"><span class="glyphicon glyphicon-product"></span><br />Products</a></li>
+			   <li><a href="#" data-toggle="tab" ui-sref="stores"><span class="glyphicon glyphicon-stores"></span><br />Stores</a></li>
+			   <li><a href="#" data-toggle="tab" ui-sref="offers"><span class="glyphicon glyphicon-promotions"></span><br />Promotions</a></li>
+		   </ul>
+       </div>
+      </div>
